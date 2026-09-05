@@ -1,8 +1,8 @@
 # Korean monster name overrides
-# Generated from navi_mob_krpri_utf8.lua
+# Based on the expanded Korean-name set, with JapaneseName added for in-game display/spawn naming.
 # Original mob_db files are NOT modified.
 #
-# This file is imported by db/mob_db.yml
+# Import this file from db/mob_db.yml or place it in the configured import path.
 
 Header:
   Type: MOB_DB
@@ -11,2377 +11,8026 @@ Header:
 Body:
   - Id: 1001
     Name: "스콜피온"
+    JapaneseName: "스콜피온"
   - Id: 1002
     Name: "포링"
+    JapaneseName: "포링"
   - Id: 1004
     Name: "호넷"
+    JapaneseName: "호넷"
   - Id: 1005
     Name: "퍼밀리어"
+    JapaneseName: "퍼밀리어"
   - Id: 1007
     Name: "파브르"
+    JapaneseName: "파브르"
   - Id: 1008
     Name: "푸파"
+    JapaneseName: "푸파"
   - Id: 1009
     Name: "콘도르"
+    JapaneseName: "콘도르"
   - Id: 1010
     Name: "윌로우"
+    JapaneseName: "윌로우"
   - Id: 1011
     Name: "촌촌"
+    JapaneseName: "촌촌"
   - Id: 1012
     Name: "로다 프로그"
+    JapaneseName: "로다 프로그"
   - Id: 1013
     Name: "울프"
+    JapaneseName: "울프"
   - Id: 1014
     Name: "스포아"
+    JapaneseName: "스포아"
   - Id: 1015
     Name: "좀비"
+    JapaneseName: "좀비"
   - Id: 1016
     Name: "아쳐 스켈레톤"
+    JapaneseName: "아쳐 스켈레톤"
   - Id: 1018
     Name: "크리미"
+    JapaneseName: "크리미"
   - Id: 1019
     Name: "페코페코"
+    JapaneseName: "페코페코"
   - Id: 1020
     Name: "만드라고라"
+    JapaneseName: "만드라고라"
   - Id: 1023
     Name: "오크 워리어"
+    JapaneseName: "오크 워리어"
   - Id: 1024
     Name: "웜테일"
+    JapaneseName: "웜테일"
   - Id: 1025
     Name: "보아"
+    JapaneseName: "보아"
   - Id: 1026
     Name: "무낙"
+    JapaneseName: "무낙"
   - Id: 1028
     Name: "솔져 스켈레톤"
+    JapaneseName: "솔져 스켈레톤"
   - Id: 1029
     Name: "이시스"
+    JapaneseName: "이시스"
   - Id: 1030
     Name: "아나콘다크"
+    JapaneseName: "아나콘다크"
   - Id: 1031
     Name: "포포링"
+    JapaneseName: "포포링"
   - Id: 1032
     Name: "베릿트"
+    JapaneseName: "베릿트"
   - Id: 1033
     Name: "엘더 윌로우"
+    JapaneseName: "엘더 윌로우"
   - Id: 1034
     Name: "타라 프로그"
+    JapaneseName: "타라 프로그"
   - Id: 1035
     Name: "헌터 플라이"
+    JapaneseName: "헌터 플라이"
   - Id: 1036
     Name: "구울"
+    JapaneseName: "구울"
   - Id: 1037
     Name: "사이드 와인더"
+    JapaneseName: "사이드 와인더"
   - Id: 1038
     Name: "오시리스"
+    JapaneseName: "오시리스"
   - Id: 1039
     Name: "바포메트"
+    JapaneseName: "바포메트"
   - Id: 1040
     Name: "고렘"
+    JapaneseName: "고렘"
   - Id: 1041
     Name: "미이라"
+    JapaneseName: "미이라"
   - Id: 1042
     Name: "스틸 촌촌"
+    JapaneseName: "스틸 촌촌"
   - Id: 1044
     Name: "오본느"
+    JapaneseName: "오본느"
   - Id: 1045
     Name: "마르크"
+    JapaneseName: "마르크"
   - Id: 1046
     Name: "도플갱어"
+    JapaneseName: "도플갱어"
   - Id: 1047
     Name: "페코페코 알"
+    JapaneseName: "페코페코 알"
   - Id: 1048
     Name: "도둑벌레 알"
+    JapaneseName: "도둑벌레 알"
   - Id: 1049
     Name: "픽키"
+    JapaneseName: "픽키"
   - Id: 1050
     Name: "픽키"
+    JapaneseName: "픽키"
   - Id: 1051
     Name: "도둑벌레"
+    JapaneseName: "도둑벌레"
   - Id: 1052
     Name: "로커"
+    JapaneseName: "로커"
   - Id: 1053
     Name: "암컷 도둑벌레"
+    JapaneseName: "암컷 도둑벌레"
   - Id: 1054
     Name: "수컷 도둑벌레"
+    JapaneseName: "수컷 도둑벌레"
   - Id: 1055
     Name: "무카"
+    JapaneseName: "무카"
   - Id: 1056
     Name: "스모키"
+    JapaneseName: "스모키"
   - Id: 1057
     Name: "요요"
+    JapaneseName: "요요"
   - Id: 1058
     Name: "메틀러"
+    JapaneseName: "메틀러"
   - Id: 1059
     Name: "미스트레스"
+    JapaneseName: "미스트레스"
   - Id: 1060
     Name: "빅풋"
+    JapaneseName: "빅풋"
   - Id: 1061
     Name: "나이트메어"
+    JapaneseName: "나이트메어"
+  - Id: 1062
+    Name: "산타 포링"
+    JapaneseName: "산타 포링"
   - Id: 1063
     Name: "루나틱"
+    JapaneseName: "루나틱"
   - Id: 1064
     Name: "메갈로돈"
+    JapaneseName: "메갈로돈"
   - Id: 1065
     Name: "스트라우프"
+    JapaneseName: "스트라우프"
   - Id: 1066
     Name: "바돈"
+    JapaneseName: "바돈"
   - Id: 1067
     Name: "커너투스"
+    JapaneseName: "커너투스"
   - Id: 1068
     Name: "히드라"
+    JapaneseName: "히드라"
   - Id: 1069
     Name: "소드 피쉬"
+    JapaneseName: "소드 피쉬"
   - Id: 1070
     Name: "쿠크레"
+    JapaneseName: "쿠크레"
   - Id: 1071
     Name: "파이어럿 스켈"
+    JapaneseName: "파이어럿 스켈"
   - Id: 1072
     Name: "카호"
+    JapaneseName: "카호"
   - Id: 1073
     Name: "게"
+    JapaneseName: "게"
   - Id: 1074
     Name: "조개"
+    JapaneseName: "조개"
   - Id: 1076
     Name: "스켈레톤"
+    JapaneseName: "스켈레톤"
   - Id: 1077
     Name: "포이즌 스포아"
+    JapaneseName: "포이즌 스포아"
   - Id: 1078
     Name: "빨간 풀"
+    JapaneseName: "빨간 풀"
   - Id: 1079
     Name: "파란 풀"
+    JapaneseName: "파란 풀"
   - Id: 1080
     Name: "초록 풀"
+    JapaneseName: "초록 풀"
   - Id: 1081
     Name: "노란 풀"
+    JapaneseName: "노란 풀"
   - Id: 1082
     Name: "하얀 풀"
+    JapaneseName: "하얀 풀"
   - Id: 1083
     Name: "빛나는 풀"
+    JapaneseName: "빛나는 풀"
   - Id: 1084
     Name: "검은 버섯"
+    JapaneseName: "검은 버섯"
   - Id: 1085
     Name: "붉은 버섯"
+    JapaneseName: "붉은 버섯"
   - Id: 1086
     Name: "황금 도둑벌레"
+    JapaneseName: "황금 도둑벌레"
   - Id: 1087
     Name: "오크 히어로"
+    JapaneseName: "오크 히어로"
   - Id: 1088
     Name: "보컬"
+    JapaneseName: "보컬"
   - Id: 1089
     Name: "토드"
+    JapaneseName: "토드"
   - Id: 1090
     Name: "마스터링"
+    JapaneseName: "마스터링"
   - Id: 1091
     Name: "드래곤 플라이"
+    JapaneseName: "드래곤 플라이"
   - Id: 1092
     Name: "떠돌이 늑대"
+    JapaneseName: "떠돌이 늑대"
   - Id: 1093
     Name: "이클립스"
+    JapaneseName: "이클립스"
   - Id: 1094
     Name: "앰버 나이트"
+    JapaneseName: "앰버 나이트"
   - Id: 1095
     Name: "앙드레"
+    JapaneseName: "앙드레"
   - Id: 1096
     Name: "엔젤링"
+    JapaneseName: "엔젤링"
   - Id: 1097
     Name: "개미 알"
+    JapaneseName: "개미 알"
   - Id: 1098
     Name: "아누비스"
+    JapaneseName: "아누비스"
   - Id: 1099
     Name: "아르지오프"
+    JapaneseName: "아르지오프"
   - Id: 1100
     Name: "아르고스"
+    JapaneseName: "아르고스"
   - Id: 1101
     Name: "바포메트 주니어"
+    JapaneseName: "바포메트 주니어"
   - Id: 1102
     Name: "바소리"
+    JapaneseName: "바소리"
   - Id: 1103
     Name: "카라멜"
+    JapaneseName: "카라멜"
   - Id: 1104
     Name: "코코"
+    JapaneseName: "코코"
   - Id: 1105
     Name: "데니로"
+    JapaneseName: "데니로"
   - Id: 1106
     Name: "데저트 울프"
+    JapaneseName: "데저트 울프"
   - Id: 1107
     Name: "새끼 데저트 울프"
+    JapaneseName: "새끼 데저트 울프"
   - Id: 1108
     Name: "데비어스"
+    JapaneseName: "데비어스"
   - Id: 1109
     Name: "데비루치"
+    JapaneseName: "데비루치"
   - Id: 1110
     Name: "도깨비"
+    JapaneseName: "도깨비"
   - Id: 1111
     Name: "드레인리어"
+    JapaneseName: "드레인리어"
   - Id: 1112
     Name: "드레이크"
+    JapaneseName: "드레이크"
   - Id: 1113
     Name: "드롭프스"
+    JapaneseName: "드롭프스"
   - Id: 1114
     Name: "더스티네스"
+    JapaneseName: "더스티네스"
   - Id: 1115
     Name: "에드가"
+    JapaneseName: "에드가"
   - Id: 1116
     Name: "에기라"
+    JapaneseName: "에기라"
   - Id: 1117
     Name: "이블 드루이드"
+    JapaneseName: "이블 드루이드"
   - Id: 1118
     Name: "플로라"
+    JapaneseName: "플로라"
   - Id: 1119
     Name: "프릴도라"
+    JapaneseName: "프릴도라"
   - Id: 1120
     Name: "고스트링"
+    JapaneseName: "고스트링"
   - Id: 1121
     Name: "가이아스"
+    JapaneseName: "가이아스"
   - Id: 1122
     Name: "고블린"
+    JapaneseName: "고블린"
   - Id: 1123
     Name: "고블린"
+    JapaneseName: "고블린"
   - Id: 1124
     Name: "고블린"
+    JapaneseName: "고블린"
   - Id: 1125
     Name: "고블린"
+    JapaneseName: "고블린"
   - Id: 1126
     Name: "고블린"
+    JapaneseName: "고블린"
   - Id: 1127
     Name: "호드"
+    JapaneseName: "호드"
   - Id: 1128
     Name: "호른"
+    JapaneseName: "호른"
   - Id: 1129
     Name: "호롱"
+    JapaneseName: "호롱"
   - Id: 1130
     Name: "잭"
+    JapaneseName: "잭"
   - Id: 1131
     Name: "조커"
+    JapaneseName: "조커"
   - Id: 1132
     Name: "칼리츠버그"
+    JapaneseName: "칼리츠버그"
   - Id: 1133
     Name: "코볼트"
+    JapaneseName: "코볼트"
   - Id: 1134
     Name: "코볼트"
+    JapaneseName: "코볼트"
   - Id: 1135
     Name: "코볼트"
+    JapaneseName: "코볼트"
+  - Id: 1136
+    Name: "코볼트"
+    JapaneseName: "코볼트"
+  - Id: 1137
+    Name: "코볼트"
+    JapaneseName: "코볼트"
   - Id: 1138
     Name: "백련옥"
+    JapaneseName: "백련옥"
   - Id: 1139
     Name: "맨티스"
+    JapaneseName: "맨티스"
   - Id: 1140
     Name: "마르두크"
+    JapaneseName: "마르두크"
   - Id: 1141
     Name: "마리나"
+    JapaneseName: "마리나"
   - Id: 1142
     Name: "마린 스피어"
+    JapaneseName: "마린 스피어"
   - Id: 1143
     Name: "마리오네트"
+    JapaneseName: "마리오네트"
   - Id: 1144
     Name: "마르스"
+    JapaneseName: "마르스"
   - Id: 1145
     Name: "마르틴"
+    JapaneseName: "마르틴"
   - Id: 1146
     Name: "마타"
+    JapaneseName: "마타"
   - Id: 1147
     Name: "마야"
+    JapaneseName: "마야"
   - Id: 1148
     Name: "메두사"
+    JapaneseName: "메두사"
   - Id: 1149
     Name: "마이너 우로스"
+    JapaneseName: "마이너 우로스"
   - Id: 1150
     Name: "월야화"
+    JapaneseName: "월야화"
   - Id: 1151
     Name: "미스트"
+    JapaneseName: "미스트"
   - Id: 1152
     Name: "오크 스켈레톤"
+    JapaneseName: "오크 스켈레톤"
   - Id: 1153
     Name: "오크 좀비"
+    JapaneseName: "오크 좀비"
   - Id: 1154
     Name: "파사나"
+    JapaneseName: "파사나"
   - Id: 1155
     Name: "쁘띠"
+    JapaneseName: "쁘띠"
   - Id: 1156
     Name: "쁘띠"
+    JapaneseName: "쁘띠"
   - Id: 1157
     Name: "파라오"
+    JapaneseName: "파라오"
   - Id: 1158
     Name: "휀"
+    JapaneseName: "휀"
   - Id: 1159
     Name: "프리오니"
+    JapaneseName: "프리오니"
   - Id: 1160
     Name: "피에르"
+    JapaneseName: "피에르"
   - Id: 1161
     Name: "플랑크톤"
+    JapaneseName: "플랑크톤"
   - Id: 1162
     Name: "라플레시아"
+    JapaneseName: "라플레시아"
   - Id: 1163
     Name: "레이드릭"
+    JapaneseName: "레이드릭"
   - Id: 1164
     Name: "레퀴엠"
+    JapaneseName: "레퀴엠"
   - Id: 1165
     Name: "샌드맨"
+    JapaneseName: "샌드맨"
   - Id: 1166
     Name: "세비지"
+    JapaneseName: "세비지"
   - Id: 1167
     Name: "세비지 베베"
+    JapaneseName: "세비지 베베"
   - Id: 1169
     Name: "스켈 워커"
+    JapaneseName: "스켈 워커"
   - Id: 1170
     Name: "소희"
+    JapaneseName: "소희"
   - Id: 1174
     Name: "스타이너"
+    JapaneseName: "스타이너"
   - Id: 1175
     Name: "타로우"
+    JapaneseName: "타로우"
   - Id: 1176
     Name: "비타타"
+    JapaneseName: "비타타"
   - Id: 1177
     Name: "제노크"
+    JapaneseName: "제노크"
   - Id: 1178
     Name: "제롬"
+    JapaneseName: "제롬"
   - Id: 1179
     Name: "위스퍼"
+    JapaneseName: "위스퍼"
   - Id: 1180
     Name: "구미호"
+    JapaneseName: "구미호"
+  - Id: 1182
+    Name: "도둑버섯"
+    JapaneseName: "도둑버섯"
+  - Id: 1183
+    Name: "촌촌"
+    JapaneseName: "촌촌"
+  - Id: 1184
+    Name: "파브르"
+    JapaneseName: "파브르"
   - Id: 1185
     Name: "위스퍼"
+    JapaneseName: "위스퍼"
   - Id: 1186
     Name: "거대위스퍼"
+    JapaneseName: "거대위스퍼"
   - Id: 1188
     Name: "본건"
+    JapaneseName: "본건"
   - Id: 1189
     Name: "오크 아쳐"
+    JapaneseName: "오크 아쳐"
   - Id: 1190
     Name: "오크 로드"
+    JapaneseName: "오크 로드"
   - Id: 1191
     Name: "미믹"
+    JapaneseName: "미믹"
   - Id: 1192
     Name: "레이쓰"
+    JapaneseName: "레이쓰"
   - Id: 1193
     Name: "알람"
+    JapaneseName: "알람"
   - Id: 1194
     Name: "아크라우스"
+    JapaneseName: "아크라우스"
   - Id: 1195
     Name: "라이드워드"
+    JapaneseName: "라이드워드"
   - Id: 1196
     Name: "스켈 프리즈너"
+    JapaneseName: "스켈 프리즈너"
   - Id: 1197
     Name: "좀비 프리즈너"
+    JapaneseName: "좀비 프리즈너"
   - Id: 1198
     Name: "다크 프리스트"
+    JapaneseName: "다크 프리스트"
   - Id: 1199
     Name: "펑크"
+    JapaneseName: "펑크"
   - Id: 1200
     Name: "지르타스"
+    JapaneseName: "지르타스"
   - Id: 1201
     Name: "리비오"
+    JapaneseName: "리비오"
   - Id: 1202
     Name: "펜다르크"
+    JapaneseName: "펜다르크"
   - Id: 1203
     Name: "미스틸테인"
+    JapaneseName: "미스틸테인"
   - Id: 1204
     Name: "오우거 투스"
+    JapaneseName: "오우거 투스"
   - Id: 1205
     Name: "엑서큐서너"
+    JapaneseName: "엑서큐서너"
   - Id: 1206
     Name: "아놀리안"
+    JapaneseName: "아놀리안"
   - Id: 1207
     Name: "스팅"
+    JapaneseName: "스팅"
   - Id: 1208
     Name: "배회하는 자"
+    JapaneseName: "배회하는 자"
   - Id: 1209
     Name: "크램프"
+    JapaneseName: "크램프"
   - Id: 1211
     Name: "브릴라이트"
+    JapaneseName: "브릴라이트"
+  - Id: 1212
+    Name: "아이언 피스트"
+    JapaneseName: "아이언 피스트"
   - Id: 1213
     Name: "하이 오크"
+    JapaneseName: "하이 오크"
   - Id: 1214
     Name: "쵸코"
+    JapaneseName: "쵸코"
   - Id: 1215
     Name: "스템웜"
+    JapaneseName: "스템웜"
   - Id: 1216
     Name: "페노메나"
+    JapaneseName: "페노메나"
   - Id: 1219
     Name: "심연의 기사"
+    JapaneseName: "심연의 기사"
+  - Id: 1220
+    Name: "데저트 울프"
+    JapaneseName: "데저트 울프"
+  - Id: 1221
+    Name: "세비지"
+    JapaneseName: "세비지"
+  - Id: 1229
+    Name: "파브르"
+    JapaneseName: "파브르"
+  - Id: 1230
+    Name: "푸파"
+    JapaneseName: "푸파"
+  - Id: 1231
+    Name: "크리미"
+    JapaneseName: "크리미"
+  - Id: 1232
+    Name: "페코페코 알"
+    JapaneseName: "페코페코 알"
+  - Id: 1234
+    Name: "요요"
+    JapaneseName: "요요"
+  - Id: 1235
+    Name: "연기나는 오크"
+    JapaneseName: "연기나는 오크"
+  - Id: 1236
+    Name: "개미 알"
+    JapaneseName: "개미 알"
+  - Id: 1237
+    Name: "앙드레"
+    JapaneseName: "앙드레"
+  - Id: 1238
+    Name: "피에르"
+    JapaneseName: "피에르"
+  - Id: 1239
+    Name: "데니로"
+    JapaneseName: "데니로"
+  - Id: 1240
+    Name: "픽키"
+    JapaneseName: "픽키"
+  - Id: 1241
+    Name: "픽키"
+    JapaneseName: "픽키"
   - Id: 1242
     Name: "마린"
+    JapaneseName: "마린"
   - Id: 1243
     Name: "사스콰치"
+    JapaneseName: "사스콰치"
+  - Id: 1244
+    Name: "크리스마스 잭"
+    JapaneseName: "크리스마스 잭"
+  - Id: 1245
+    Name: "크리스마스 고블린"
+    JapaneseName: "크리스마스 고블린"
+  - Id: 1246
+    Name: "크리스마스 쿠키"
+    JapaneseName: "크리스마스 쿠키"
+  - Id: 1247
+    Name: "안토니오"
+    JapaneseName: "안토니오"
   - Id: 1248
     Name: "크루이저"
+    JapaneseName: "크루이저"
   - Id: 1249
     Name: "미스트 케이스"
+    JapaneseName: "미스트 케이스"
   - Id: 1250
     Name: "체펫트"
+    JapaneseName: "체펫트"
   - Id: 1251
     Name: "폭풍의 기사"
+    JapaneseName: "폭풍의 기사"
   - Id: 1252
     Name: "하티"
+    JapaneseName: "하티"
   - Id: 1253
     Name: "가고일"
+    JapaneseName: "가고일"
   - Id: 1254
     Name: "레글러"
+    JapaneseName: "레글러"
   - Id: 1255
     Name: "네레이드"
+    JapaneseName: "네레이드"
   - Id: 1256
     Name: "페스트"
+    JapaneseName: "페스트"
   - Id: 1257
     Name: "인저스티스"
+    JapaneseName: "인저스티스"
   - Id: 1258
     Name: "고블린 아쳐"
+    JapaneseName: "고블린 아쳐"
   - Id: 1259
     Name: "그리폰"
+    JapaneseName: "그리폰"
   - Id: 1260
     Name: "다크 프레임"
+    JapaneseName: "다크 프레임"
   - Id: 1261
     Name: "와일드 로즈"
+    JapaneseName: "와일드 로즈"
   - Id: 1262
     Name: "뮤턴트 드래고노이드"
+    JapaneseName: "뮤턴트 드래고노이드"
   - Id: 1263
     Name: "윈드고스트"
+    JapaneseName: "윈드고스트"
   - Id: 1264
     Name: "머맨"
+    JapaneseName: "머맨"
   - Id: 1265
     Name: "쿠키"
+    JapaneseName: "쿠키"
   - Id: 1266
     Name: "에스터"
+    JapaneseName: "에스터"
   - Id: 1267
     Name: "캐럿"
+    JapaneseName: "캐럿"
   - Id: 1268
     Name: "피빛의 기사"
+    JapaneseName: "피빛의 기사"
   - Id: 1269
     Name: "클락"
+    JapaneseName: "클락"
   - Id: 1270
     Name: "시계탑 관리자"
+    JapaneseName: "시계탑 관리자"
   - Id: 1271
     Name: "엘리게이터"
+    JapaneseName: "엘리게이터"
   - Id: 1272
     Name: "다크 로드"
+    JapaneseName: "다크 로드"
   - Id: 1273
     Name: "오크 레이디"
+    JapaneseName: "오크 레이디"
   - Id: 1274
     Name: "메갈리스"
+    JapaneseName: "메갈리스"
   - Id: 1275
     Name: "엘리스"
+    JapaneseName: "엘리스"
   - Id: 1276
     Name: "레이드릭"
+    JapaneseName: "레이드릭"
   - Id: 1277
     Name: "천하대장군"
+    JapaneseName: "천하대장군"
   - Id: 1278
     Name: "스터랙틱 고렘"
+    JapaneseName: "스터랙틱 고렘"
   - Id: 1279
     Name: "트라이 조인트"
+    JapaneseName: "트라이 조인트"
   - Id: 1280
     Name: "고블린 스팀라이더"
+    JapaneseName: "고블린 스팀라이더"
   - Id: 1281
     Name: "세이지 웜"
+    JapaneseName: "세이지 웜"
   - Id: 1282
     Name: "코볼트 아쳐"
+    JapaneseName: "코볼트 아쳐"
   - Id: 1283
     Name: "키메라"
+    JapaneseName: "키메라"
+  - Id: 1285
+    Name: "아쳐 가디언"
+    JapaneseName: "아쳐 가디언"
+  - Id: 1286
+    Name: "나이트 가디언"
+    JapaneseName: "나이트 가디언"
+  - Id: 1287
+    Name: "솔져 가디언"
+    JapaneseName: "솔져 가디언"
+  - Id: 1288
+    Name: "엠페리움"
+    JapaneseName: "엠페리움"
+  - Id: 1289
+    Name: "마야 퍼플"
+    JapaneseName: "마야 퍼플"
+  - Id: 1290
+    Name: "스켈레톤 제네럴"
+    JapaneseName: "스켈레톤 제네럴"
   - Id: 1291
     Name: "레이스 데드"
+    JapaneseName: "레이스 데드"
   - Id: 1292
     Name: "미니 데몬"
+    JapaneseName: "미니 데몬"
+  - Id: 1293
+    Name: "크리미 피어"
+    JapaneseName: "크리미 피어"
+  - Id: 1294
+    Name: "킬러 맨티스"
+    JapaneseName: "킬러 맨티스"
   - Id: 1295
     Name: "아울 바론"
+    JapaneseName: "아울 바론"
   - Id: 1296
     Name: "코볼트 리더"
+    JapaneseName: "코볼트 리더"
   - Id: 1297
     Name: "에인션트 미이라"
+    JapaneseName: "에인션트 미이라"
+  - Id: 1298
+    Name: "좀비 마스터"
+    JapaneseName: "좀비 마스터"
   - Id: 1299
     Name: "고블린 리더"
+    JapaneseName: "고블린 리더"
+  - Id: 1300
+    Name: "캐터필러"
+    JapaneseName: "캐터필러"
+  - Id: 1301
+    Name: "암 무트"
+    JapaneseName: "암 무트"
   - Id: 1302
     Name: "다크일루젼"
+    JapaneseName: "다크일루젼"
+  - Id: 1303
+    Name: "자이언트 호넷"
+    JapaneseName: "자이언트 호넷"
+  - Id: 1304
+    Name: "자이언트 스파이더"
+    JapaneseName: "자이언트 스파이더"
+  - Id: 1305
+    Name: "에인션트 웜"
+    JapaneseName: "에인션트 웜"
+  - Id: 1306
+    Name: "라이브 올마이"
+    JapaneseName: "라이브 올마이"
   - Id: 1307
     Name: "캣 오 나인 테일"
+    JapaneseName: "캣 오 나인 테일"
   - Id: 1308
     Name: "팬저 고블린"
+    JapaneseName: "팬저 고블린"
+  - Id: 1309
+    Name: "가조마트"
+    JapaneseName: "가조마트"
   - Id: 1310
     Name: "메이저우로스"
+    JapaneseName: "메이저우로스"
+  - Id: 1311
+    Name: "굴린부르스티"
+    JapaneseName: "굴린부르스티"
   - Id: 1312
     Name: "터틀 제네럴"
+    JapaneseName: "터틀 제네럴"
   - Id: 1313
     Name: "폭력배"
+    JapaneseName: "폭력배"
   - Id: 1314
     Name: "퍼머터"
+    JapaneseName: "퍼머터"
   - Id: 1315
     Name: "어절터"
+    JapaneseName: "어절터"
   - Id: 1316
     Name: "솔리더"
+    JapaneseName: "솔리더"
   - Id: 1317
     Name: "퍼씰"
+    JapaneseName: "퍼씰"
   - Id: 1318
     Name: "힛터"
+    JapaneseName: "힛터"
   - Id: 1319
     Name: "프리저"
+    JapaneseName: "프리저"
   - Id: 1320
     Name: "아울 듀크"
+    JapaneseName: "아울 듀크"
   - Id: 1321
     Name: "드래곤 테일"
+    JapaneseName: "드래곤 테일"
   - Id: 1322
     Name: "스프링 래빗"
+    JapaneseName: "스프링 래빗"
   - Id: 1323
     Name: "해달"
+    JapaneseName: "해달"
+  - Id: 1324
+    Name: "보물상자"
+    JapaneseName: "보물상자"
+  - Id: 1325
+    Name: "보물상자"
+    JapaneseName: "보물상자"
+  - Id: 1326
+    Name: "보물상자"
+    JapaneseName: "보물상자"
+  - Id: 1327
+    Name: "보물상자"
+    JapaneseName: "보물상자"
+  - Id: 1328
+    Name: "보물상자"
+    JapaneseName: "보물상자"
+  - Id: 1329
+    Name: "보물상자"
+    JapaneseName: "보물상자"
+  - Id: 1330
+    Name: "보물상자"
+    JapaneseName: "보물상자"
+  - Id: 1331
+    Name: "보물상자"
+    JapaneseName: "보물상자"
+  - Id: 1332
+    Name: "보물상자"
+    JapaneseName: "보물상자"
+  - Id: 1333
+    Name: "보물상자"
+    JapaneseName: "보물상자"
+  - Id: 1334
+    Name: "보물상자"
+    JapaneseName: "보물상자"
+  - Id: 1335
+    Name: "보물상자"
+    JapaneseName: "보물상자"
+  - Id: 1336
+    Name: "보물상자"
+    JapaneseName: "보물상자"
+  - Id: 1337
+    Name: "보물상자"
+    JapaneseName: "보물상자"
+  - Id: 1338
+    Name: "보물상자"
+    JapaneseName: "보물상자"
+  - Id: 1339
+    Name: "보물상자"
+    JapaneseName: "보물상자"
+  - Id: 1340
+    Name: "보물상자"
+    JapaneseName: "보물상자"
+  - Id: 1341
+    Name: "보물상자"
+    JapaneseName: "보물상자"
+  - Id: 1342
+    Name: "보물상자"
+    JapaneseName: "보물상자"
+  - Id: 1343
+    Name: "보물상자"
+    JapaneseName: "보물상자"
+  - Id: 1344
+    Name: "보물상자"
+    JapaneseName: "보물상자"
+  - Id: 1345
+    Name: "보물상자"
+    JapaneseName: "보물상자"
+  - Id: 1346
+    Name: "보물상자"
+    JapaneseName: "보물상자"
+  - Id: 1347
+    Name: "보물상자"
+    JapaneseName: "보물상자"
+  - Id: 1348
+    Name: "보물상자"
+    JapaneseName: "보물상자"
+  - Id: 1349
+    Name: "보물상자"
+    JapaneseName: "보물상자"
+  - Id: 1350
+    Name: "보물상자"
+    JapaneseName: "보물상자"
+  - Id: 1351
+    Name: "보물상자"
+    JapaneseName: "보물상자"
+  - Id: 1352
+    Name: "보물상자"
+    JapaneseName: "보물상자"
+  - Id: 1353
+    Name: "보물상자"
+    JapaneseName: "보물상자"
+  - Id: 1354
+    Name: "보물상자"
+    JapaneseName: "보물상자"
+  - Id: 1355
+    Name: "보물상자"
+    JapaneseName: "보물상자"
+  - Id: 1356
+    Name: "보물상자"
+    JapaneseName: "보물상자"
+  - Id: 1357
+    Name: "보물상자"
+    JapaneseName: "보물상자"
+  - Id: 1358
+    Name: "보물상자"
+    JapaneseName: "보물상자"
+  - Id: 1359
+    Name: "보물상자"
+    JapaneseName: "보물상자"
+  - Id: 1360
+    Name: "보물상자"
+    JapaneseName: "보물상자"
+  - Id: 1361
+    Name: "보물상자"
+    JapaneseName: "보물상자"
+  - Id: 1362
+    Name: "보물상자"
+    JapaneseName: "보물상자"
+  - Id: 1363
+    Name: "보물상자"
+    JapaneseName: "보물상자"
+  - Id: 1364
+    Name: "어절터"
+    JapaneseName: "어절터"
   - Id: 1365
     Name: "아포칼립스"
+    JapaneseName: "아포칼립스"
   - Id: 1366
     Name: "라바 골렘"
+    JapaneseName: "라바 골렘"
   - Id: 1367
     Name: "블레이저"
+    JapaneseName: "블레이저"
   - Id: 1368
     Name: "지오그래퍼"
+    JapaneseName: "지오그래퍼"
   - Id: 1369
     Name: "그랜드 페코"
+    JapaneseName: "그랜드 페코"
   - Id: 1370
     Name: "서큐버스"
+    JapaneseName: "서큐버스"
   - Id: 1371
     Name: "페이크 엔젤"
+    JapaneseName: "페이크 엔젤"
   - Id: 1372
     Name: "고우트"
+    JapaneseName: "고우트"
+  - Id: 1373
+    Name: "죽은 자들의 군주"
+    JapaneseName: "죽은 자들의 군주"
   - Id: 1374
     Name: "인큐버스"
+    JapaneseName: "인큐버스"
   - Id: 1375
     Name: "더 페이퍼"
+    JapaneseName: "더 페이퍼"
   - Id: 1376
     Name: "하피"
+    JapaneseName: "하피"
   - Id: 1377
     Name: "엘더"
+    JapaneseName: "엘더"
   - Id: 1378
     Name: "데몬 펑거스"
+    JapaneseName: "데몬 펑거스"
   - Id: 1379
     Name: "나이트메어 테러"
+    JapaneseName: "나이트메어 테러"
   - Id: 1380
     Name: "드릴러"
+    JapaneseName: "드릴러"
   - Id: 1381
     Name: "그리즐리"
+    JapaneseName: "그리즐리"
   - Id: 1382
     Name: "디아볼릭"
+    JapaneseName: "디아볼릭"
   - Id: 1383
     Name: "익스플로젼"
+    JapaneseName: "익스플로젼"
   - Id: 1384
     Name: "딜리터"
+    JapaneseName: "딜리터"
   - Id: 1385
     Name: "딜리터"
+    JapaneseName: "딜리터"
   - Id: 1386
     Name: "슬리퍼"
+    JapaneseName: "슬리퍼"
   - Id: 1387
     Name: "기그"
+    JapaneseName: "기그"
   - Id: 1388
     Name: "아크엔젤링"
+    JapaneseName: "아크엔젤링"
   - Id: 1389
     Name: "드라큘라"
+    JapaneseName: "드라큘라"
   - Id: 1390
     Name: "바이올리"
+    JapaneseName: "바이올리"
   - Id: 1391
     Name: "갈라파고"
+    JapaneseName: "갈라파고"
   - Id: 1392
     Name: "로터자이로"
+    JapaneseName: "로터자이로"
+  - Id: 1393
+    Name: "미이라"
+    JapaneseName: "미이라"
+  - Id: 1394
+    Name: "좀비"
+    JapaneseName: "좀비"
+  - Id: 1395
+    Name: "바람의 크리스탈"
+    JapaneseName: "바람의 크리스탈"
+  - Id: 1396
+    Name: "대지의 크리스탈"
+    JapaneseName: "대지의 크리스탈"
+  - Id: 1397
+    Name: "불의 크리스탈"
+    JapaneseName: "불의 크리스탈"
+  - Id: 1398
+    Name: "물의 크리스탈"
+    JapaneseName: "물의 크리스탈"
+  - Id: 1399
+    Name: "바포메트"
+    JapaneseName: "바포메트"
   - Id: 1400
     Name: "카라카사"
+    JapaneseName: "카라카사"
   - Id: 1401
     Name: "시노비"
+    JapaneseName: "시노비"
   - Id: 1402
     Name: "독두꺼비"
+    JapaneseName: "독두꺼비"
   - Id: 1403
     Name: "구식 조총병"
+    JapaneseName: "구식 조총병"
   - Id: 1404
     Name: "미야비 인형"
+    JapaneseName: "미야비 인형"
   - Id: 1405
     Name: "천구"
+    JapaneseName: "천구"
   - Id: 1406
     Name: "캇파"
+    JapaneseName: "캇파"
   - Id: 1408
     Name: "혈호접"
+    JapaneseName: "혈호접"
   - Id: 1409
     Name: "경단동자"
+    JapaneseName: "경단동자"
   - Id: 1410
     Name: "생도목"
+    JapaneseName: "생도목"
   - Id: 1412
     Name: "운악선"
+    JapaneseName: "운악선"
   - Id: 1413
     Name: "신선초"
+    JapaneseName: "신선초"
   - Id: 1415
     Name: "아기표범"
+    JapaneseName: "아기표범"
   - Id: 1416
     Name: "요선녀"
+    JapaneseName: "요선녀"
   - Id: 1417
     Name: "지퍼베어"
+    JapaneseName: "지퍼베어"
   - Id: 1418
     Name: "흑사왕"
+    JapaneseName: "흑사왕"
+  - Id: 1419
+    Name: "퍼밀리어"
+    JapaneseName: "퍼밀리어"
+  - Id: 1420
+    Name: "아쳐 스켈레톤"
+    JapaneseName: "아쳐 스켈레톤"
+  - Id: 1421
+    Name: "이시스"
+    JapaneseName: "이시스"
+  - Id: 1422
+    Name: "헌터 플라이"
+    JapaneseName: "헌터 플라이"
+  - Id: 1423
+    Name: "구울"
+    JapaneseName: "구울"
+  - Id: 1424
+    Name: "사이드 와인더"
+    JapaneseName: "사이드 와인더"
+  - Id: 1425
+    Name: "오본느"
+    JapaneseName: "오본느"
+  - Id: 1426
+    Name: "마르크"
+    JapaneseName: "마르크"
+  - Id: 1427
+    Name: "나이트메어"
+    JapaneseName: "나이트메어"
+  - Id: 1428
+    Name: "포이즌 스포아"
+    JapaneseName: "포이즌 스포아"
+  - Id: 1429
+    Name: "아르지오프"
+    JapaneseName: "아르지오프"
+  - Id: 1430
+    Name: "아르고스"
+    JapaneseName: "아르고스"
+  - Id: 1431
+    Name: "바포메트 주니어"
+    JapaneseName: "바포메트 주니어"
+  - Id: 1432
+    Name: "데저트 울프"
+    JapaneseName: "데저트 울프"
+  - Id: 1433
+    Name: "데비루치"
+    JapaneseName: "데비루치"
+  - Id: 1434
+    Name: "드레인리어"
+    JapaneseName: "드레인리어"
+  - Id: 1435
+    Name: "이블 드루이드"
+    JapaneseName: "이블 드루이드"
+  - Id: 1436
+    Name: "잭"
+    JapaneseName: "잭"
+  - Id: 1437
+    Name: "조커"
+    JapaneseName: "조커"
+  - Id: 1438
+    Name: "칼리츠버그"
+    JapaneseName: "칼리츠버그"
+  - Id: 1439
+    Name: "하이 오크"
+    JapaneseName: "하이 오크"
+  - Id: 1440
+    Name: "스템웜"
+    JapaneseName: "스템웜"
+  - Id: 1441
+    Name: "페노메나"
+    JapaneseName: "페노메나"
+  - Id: 1442
+    Name: "사스콰치"
+    JapaneseName: "사스콰치"
+  - Id: 1443
+    Name: "크루이저"
+    JapaneseName: "크루이저"
+  - Id: 1444
+    Name: "체펫트"
+    JapaneseName: "체펫트"
+  - Id: 1445
+    Name: "레글러"
+    JapaneseName: "레글러"
+  - Id: 1446
+    Name: "인저스티스"
+    JapaneseName: "인저스티스"
+  - Id: 1447
+    Name: "그리폰"
+    JapaneseName: "그리폰"
+  - Id: 1448
+    Name: "다크 프레임"
+    JapaneseName: "다크 프레임"
+  - Id: 1449
+    Name: "뮤턴트 드래고노이드"
+    JapaneseName: "뮤턴트 드래고노이드"
+  - Id: 1450
+    Name: "윈드고스트"
+    JapaneseName: "윈드고스트"
+  - Id: 1451
+    Name: "머맨"
+    JapaneseName: "머맨"
+  - Id: 1452
+    Name: "오크 레이디"
+    JapaneseName: "오크 레이디"
+  - Id: 1453
+    Name: "레이드릭"
+    JapaneseName: "레이드릭"
+  - Id: 1454
+    Name: "트라이 조인트"
+    JapaneseName: "트라이 조인트"
+  - Id: 1455
+    Name: "코볼트 아쳐"
+    JapaneseName: "코볼트 아쳐"
+  - Id: 1456
+    Name: "키메라"
+    JapaneseName: "키메라"
+  - Id: 1457
+    Name: "맨티스"
+    JapaneseName: "맨티스"
+  - Id: 1458
+    Name: "마르두크"
+    JapaneseName: "마르두크"
+  - Id: 1459
+    Name: "마리오네트"
+    JapaneseName: "마리오네트"
+  - Id: 1460
+    Name: "마타"
+    JapaneseName: "마타"
+  - Id: 1461
+    Name: "마이너 우로스"
+    JapaneseName: "마이너 우로스"
+  - Id: 1462
+    Name: "오크 스켈레톤"
+    JapaneseName: "오크 스켈레톤"
+  - Id: 1463
+    Name: "오크 좀비"
+    JapaneseName: "오크 좀비"
+  - Id: 1464
+    Name: "파사나"
+    JapaneseName: "파사나"
+  - Id: 1465
+    Name: "쁘띠"
+    JapaneseName: "쁘띠"
+  - Id: 1466
+    Name: "쁘띠"
+    JapaneseName: "쁘띠"
+  - Id: 1467
+    Name: "레이드릭"
+    JapaneseName: "레이드릭"
+  - Id: 1468
+    Name: "레퀴엠"
+    JapaneseName: "레퀴엠"
+  - Id: 1469
+    Name: "스켈 워커"
+    JapaneseName: "스켈 워커"
+  - Id: 1470
+    Name: "제롬"
+    JapaneseName: "제롬"
+  - Id: 1471
+    Name: "구미호"
+    JapaneseName: "구미호"
+  - Id: 1472
+    Name: "본건"
+    JapaneseName: "본건"
+  - Id: 1473
+    Name: "오크 아쳐"
+    JapaneseName: "오크 아쳐"
+  - Id: 1474
+    Name: "미믹"
+    JapaneseName: "미믹"
+  - Id: 1475
+    Name: "레이쓰"
+    JapaneseName: "레이쓰"
+  - Id: 1476
+    Name: "알람"
+    JapaneseName: "알람"
+  - Id: 1477
+    Name: "아크라우스"
+    JapaneseName: "아크라우스"
+  - Id: 1478
+    Name: "라이드워드"
+    JapaneseName: "라이드워드"
+  - Id: 1479
+    Name: "스켈 프리즈너"
+    JapaneseName: "스켈 프리즈너"
+  - Id: 1480
+    Name: "좀비 프리즈너"
+    JapaneseName: "좀비 프리즈너"
+  - Id: 1481
+    Name: "펑크"
+    JapaneseName: "펑크"
+  - Id: 1482
+    Name: "지르타스"
+    JapaneseName: "지르타스"
+  - Id: 1483
+    Name: "리비오"
+    JapaneseName: "리비오"
+  - Id: 1484
+    Name: "펜다르크"
+    JapaneseName: "펜다르크"
+  - Id: 1485
+    Name: "미스틸테인"
+    JapaneseName: "미스틸테인"
+  - Id: 1486
+    Name: "오우거 투스"
+    JapaneseName: "오우거 투스"
+  - Id: 1487
+    Name: "엑서큐서너"
+    JapaneseName: "엑서큐서너"
+  - Id: 1488
+    Name: "아놀리안"
+    JapaneseName: "아놀리안"
+  - Id: 1489
+    Name: "스팅"
+    JapaneseName: "스팅"
+  - Id: 1490
+    Name: "배회하는 자"
+    JapaneseName: "배회하는 자"
+  - Id: 1491
+    Name: "도깨비"
+    JapaneseName: "도깨비"
   - Id: 1492
     Name: "원령무사"
+    JapaneseName: "원령무사"
   - Id: 1493
     Name: "드라이어드"
+    JapaneseName: "드라이어드"
   - Id: 1494
     Name: "투구벌레"
+    JapaneseName: "투구벌레"
   - Id: 1495
     Name: "스톤슈터"
+    JapaneseName: "스톤슈터"
   - Id: 1497
     Name: "우든골렘"
+    JapaneseName: "우든골렘"
   - Id: 1498
     Name: "우탄슈터"
+    JapaneseName: "우탄슈터"
   - Id: 1499
     Name: "우탄파이터"
+    JapaneseName: "우탄파이터"
   - Id: 1500
     Name: "패러사이트"
+    JapaneseName: "패러사이트"
+  - Id: 1502
+    Name: "덤벼라!"
+    JapaneseName: "덤벼라!"
   - Id: 1503
     Name: "지벳트"
+    JapaneseName: "지벳트"
   - Id: 1504
     Name: "듀라한"
+    JapaneseName: "듀라한"
   - Id: 1505
     Name: "로리루리"
+    JapaneseName: "로리루리"
   - Id: 1506
     Name: "디스가이즈"
+    JapaneseName: "디스가이즈"
   - Id: 1507
     Name: "블러디머더러"
+    JapaneseName: "블러디머더러"
   - Id: 1508
     Name: "큐브"
+    JapaneseName: "큐브"
   - Id: 1509
     Name: "루드"
+    JapaneseName: "루드"
   - Id: 1510
     Name: "하이로조이스트"
+    JapaneseName: "하이로조이스트"
   - Id: 1511
     Name: "아몬 라"
+    JapaneseName: "아몬 라"
   - Id: 1512
     Name: "혜군"
+    JapaneseName: "혜군"
   - Id: 1513
     Name: "묘괴"
+    JapaneseName: "묘괴"
   - Id: 1514
     Name: "저파룡"
+    JapaneseName: "저파룡"
   - Id: 1515
     Name: "하티베베"
+    JapaneseName: "하티베베"
   - Id: 1516
     Name: "식양"
+    JapaneseName: "식양"
   - Id: 1517
     Name: "이매망량"
+    JapaneseName: "이매망량"
+  - Id: 1518
+    Name: "백소진"
+    JapaneseName: "백소진"
+  - Id: 1519
+    Name: "청이"
+    JapaneseName: "청이"
+  - Id: 1520
+    Name: "쌀밥"
+    JapaneseName: "쌀밥"
+  - Id: 1521
+    Name: "엘리스"
+    JapaneseName: "엘리스"
+  - Id: 1522
+    Name: "에인션트 미이라"
+    JapaneseName: "에인션트 미이라"
+  - Id: 1523
+    Name: "구식 조총병"
+    JapaneseName: "구식 조총병"
+  - Id: 1524
+    Name: "아기표범"
+    JapaneseName: "아기표범"
+  - Id: 1525
+    Name: "바소리"
+    JapaneseName: "바소리"
+  - Id: 1526
+    Name: "혈호접"
+    JapaneseName: "혈호접"
+  - Id: 1527
+    Name: "시계탑 관리자"
+    JapaneseName: "시계탑 관리자"
+  - Id: 1528
+    Name: "클락"
+    JapaneseName: "클락"
+  - Id: 1529
+    Name: "흑사왕"
+    JapaneseName: "흑사왕"
+  - Id: 1530
+    Name: "드라큘라"
+    JapaneseName: "드라큘라"
+  - Id: 1531
+    Name: "운악선"
+    JapaneseName: "운악선"
+  - Id: 1532
+    Name: "익스플로젼"
+    JapaneseName: "익스플로젼"
+  - Id: 1533
+    Name: "퍼씰"
+    JapaneseName: "퍼씰"
+  - Id: 1534
+    Name: "고블린"
+    JapaneseName: "고블린"
+  - Id: 1535
+    Name: "고블린"
+    JapaneseName: "고블린"
+  - Id: 1536
+    Name: "고블린"
+    JapaneseName: "고블린"
+  - Id: 1537
+    Name: "고블린"
+    JapaneseName: "고블린"
+  - Id: 1538
+    Name: "고블린"
+    JapaneseName: "고블린"
+  - Id: 1539
+    Name: "고블린 리더"
+    JapaneseName: "고블린 리더"
+  - Id: 1540
+    Name: "고렘"
+    JapaneseName: "고렘"
+  - Id: 1541
+    Name: "천하대장군"
+    JapaneseName: "천하대장군"
+  - Id: 1542
+    Name: "주술 사무라이"
+    JapaneseName: "주술 사무라이"
+  - Id: 1543
+    Name: "캇파"
+    JapaneseName: "캇파"
+  - Id: 1544
+    Name: "카라카사"
+    JapaneseName: "카라카사"
+  - Id: 1545
+    Name: "코볼트"
+    JapaneseName: "코볼트"
+  - Id: 1546
+    Name: "코볼트"
+    JapaneseName: "코볼트"
+  - Id: 1547
+    Name: "코볼트"
+    JapaneseName: "코볼트"
+  - Id: 1548
+    Name: "코볼트 리더"
+    JapaneseName: "코볼트 리더"
+  - Id: 1549
+    Name: "라바 골렘"
+    JapaneseName: "라바 골렘"
+  - Id: 1550
+    Name: "생도목"
+    JapaneseName: "생도목"
+  - Id: 1551
+    Name: "마르스"
+    JapaneseName: "마르스"
+  - Id: 1552
+    Name: "미야비 인형"
+    JapaneseName: "미야비 인형"
+  - Id: 1553
+    Name: "미스트"
+    JapaneseName: "미스트"
+  - Id: 1554
+    Name: "나이트메어 테러"
+    JapaneseName: "나이트메어 테러"
+  - Id: 1555
+    Name: "패러사이트"
+    JapaneseName: "패러사이트"
+  - Id: 1556
+    Name: "독두꺼비"
+    JapaneseName: "독두꺼비"
+  - Id: 1557
+    Name: "로터자이로"
+    JapaneseName: "로터자이로"
+  - Id: 1558
+    Name: "샌드맨"
+    JapaneseName: "샌드맨"
+  - Id: 1559
+    Name: "스콜피온"
+    JapaneseName: "스콜피온"
+  - Id: 1560
+    Name: "시노비"
+    JapaneseName: "시노비"
+  - Id: 1561
+    Name: "스모키"
+    JapaneseName: "스모키"
+  - Id: 1562
+    Name: "솔져 스켈레톤"
+    JapaneseName: "솔져 스켈레톤"
+  - Id: 1563
+    Name: "천구"
+    JapaneseName: "천구"
+  - Id: 1564
+    Name: "요선녀"
+    JapaneseName: "요선녀"
+  - Id: 1565
+    Name: "신선초"
+    JapaneseName: "신선초"
+  - Id: 1566
+    Name: "레이스 데드"
+    JapaneseName: "레이스 데드"
+  - Id: 1567
+    Name: "에인션트 웜"
+    JapaneseName: "에인션트 웜"
+  - Id: 1568
+    Name: "엔젤링"
+    JapaneseName: "엔젤링"
+  - Id: 1569
+    Name: "피빛의 기사"
+    JapaneseName: "피빛의 기사"
+  - Id: 1570
+    Name: "크램프"
+    JapaneseName: "크램프"
+  - Id: 1571
+    Name: "데비어스"
+    JapaneseName: "데비어스"
+  - Id: 1572
+    Name: "드롭프스"
+    JapaneseName: "드롭프스"
+  - Id: 1573
+    Name: "엘더"
+    JapaneseName: "엘더"
+  - Id: 1574
+    Name: "엘더 윌로우"
+    JapaneseName: "엘더 윌로우"
+  - Id: 1575
+    Name: "플로라"
+    JapaneseName: "플로라"
+  - Id: 1576
+    Name: "고스트링"
+    JapaneseName: "고스트링"
+  - Id: 1577
+    Name: "고블린 아쳐"
+    JapaneseName: "고블린 아쳐"
+  - Id: 1578
+    Name: "호롱"
+    JapaneseName: "호롱"
+  - Id: 1579
+    Name: "히드라"
+    JapaneseName: "히드라"
+  - Id: 1580
+    Name: "인큐버스"
+    JapaneseName: "인큐버스"
+  - Id: 1581
+    Name: "보컬"
+    JapaneseName: "보컬"
   - Id: 1582
     Name: "데빌링"
+    JapaneseName: "데빌링"
   - Id: 1583
     Name: "타오군 카"
+    JapaneseName: "타오군 카"
   - Id: 1584
     Name: "탐루안"
+    JapaneseName: "탐루안"
+  - Id: 1585
+    Name: "마임 몽키"
+    JapaneseName: "마임 몽키"
   - Id: 1586
     Name: "리프캣"
+    JapaneseName: "리프캣"
   - Id: 1587
     Name: "크라벤"
+    JapaneseName: "크라벤"
+  - Id: 1588
+    Name: "크리스마스 오크"
+    JapaneseName: "크리스마스 오크"
+  - Id: 1589
+    Name: "만드라고라"
+    JapaneseName: "만드라고라"
+  - Id: 1590
+    Name: "지오그래퍼"
+    JapaneseName: "지오그래퍼"
+  - Id: 1591
+    Name: "루나틱"
+    JapaneseName: "루나틱"
+  - Id: 1592
+    Name: "갱스터"
+    JapaneseName: "갱스터"
+  - Id: 1593
+    Name: "에인션트 미이라"
+    JapaneseName: "에인션트 미이라"
+  - Id: 1594
+    Name: "프리저"
+    JapaneseName: "프리저"
+  - Id: 1595
+    Name: "마린"
+    JapaneseName: "마린"
+  - Id: 1596
+    Name: "탐루안"
+    JapaneseName: "탐루안"
+  - Id: 1597
+    Name: "가고일"
+    JapaneseName: "가고일"
+  - Id: 1598
+    Name: "블레이저"
+    JapaneseName: "블레이저"
+  - Id: 1599
+    Name: "거대위스퍼"
+    JapaneseName: "거대위스퍼"
+  - Id: 1600
+    Name: "힛터"
+    JapaneseName: "힛터"
+  - Id: 1601
+    Name: "퍼머터"
+    JapaneseName: "퍼머터"
+  - Id: 1602
+    Name: "솔리더"
+    JapaneseName: "솔리더"
+  - Id: 1603
+    Name: "빅풋"
+    JapaneseName: "빅풋"
+  - Id: 1604
+    Name: "자이언트 호넷"
+    JapaneseName: "자이언트 호넷"
+  - Id: 1605
+    Name: "다크일루젼"
+    JapaneseName: "다크일루젼"
+  - Id: 1606
+    Name: "하티베베"
+    JapaneseName: "하티베베"
+  - Id: 1607
+    Name: "크리스마스 고블린"
+    JapaneseName: "크리스마스 고블린"
+  - Id: 1608
+    Name: "수컷 도둑벌레"
+    JapaneseName: "수컷 도둑벌레"
+  - Id: 1609
+    Name: "저파룡"
+    JapaneseName: "저파룡"
+  - Id: 1610
+    Name: "무낙"
+    JapaneseName: "무낙"
+  - Id: 1611
+    Name: "본건"
+    JapaneseName: "본건"
+  - Id: 1612
+    Name: "혜군"
+    JapaneseName: "혜군"
   - Id: 1613
     Name: "메탈링"
+    JapaneseName: "메탈링"
   - Id: 1614
     Name: "미네랄"
+    JapaneseName: "미네랄"
   - Id: 1615
     Name: "옵시디언"
+    JapaneseName: "옵시디언"
   - Id: 1616
     Name: "핏맨"
+    JapaneseName: "핏맨"
   - Id: 1617
     Name: "고철난로"
+    JapaneseName: "고철난로"
   - Id: 1618
     Name: "운골리안트"
+    JapaneseName: "운골리안트"
   - Id: 1619
     Name: "폴셀리오"
+    JapaneseName: "폴셀리오"
   - Id: 1620
     Name: "녹시어스"
+    JapaneseName: "녹시어스"
   - Id: 1621
     Name: "베노머스"
+    JapaneseName: "베노머스"
   - Id: 1622
     Name: "곰인형"
+    JapaneseName: "곰인형"
   - Id: 1623
     Name: "RSX-0806"
+    JapaneseName: "RSX-0806"
+  - Id: 1624
+    Name: "고철난로"
+    JapaneseName: "고철난로"
+  - Id: 1625
+    Name: "폴셀리오"
+    JapaneseName: "폴셀리오"
   - Id: 1626
     Name: "헬리온 레버넌트"
+    JapaneseName: "헬리온 레버넌트"
   - Id: 1627
     Name: "위레스"
+    JapaneseName: "위레스"
   - Id: 1628
     Name: "홀덴"
+    JapaneseName: "홀덴"
+  - Id: 1629
+    Name: "힐 윈드"
+    JapaneseName: "힐 윈드"
   - Id: 1630
     Name: "백소진"
+    JapaneseName: "백소진"
   - Id: 1631
     Name: "청이"
+    JapaneseName: "청이"
   - Id: 1632
     Name: "그렘린"
+    JapaneseName: "그렘린"
   - Id: 1633
     Name: "비홀더"
+    JapaneseName: "비홀더"
   - Id: 1634
     Name: "세이렌 윈저"
+    JapaneseName: "세이렌 윈저"
   - Id: 1635
     Name: "에레메스 가일"
+    JapaneseName: "에레메스 가일"
   - Id: 1636
     Name: "하워드 알트아이젠"
+    JapaneseName: "하워드 알트아이젠"
   - Id: 1637
     Name: "마가레타 소린"
+    JapaneseName: "마가레타 소린"
   - Id: 1638
     Name: "셰실 디먼"
+    JapaneseName: "셰실 디먼"
   - Id: 1639
     Name: "카트린느 케이론"
+    JapaneseName: "카트린느 케이론"
   - Id: 1640
     Name: "로드나이트 세이렌"
+    JapaneseName: "로드나이트 세이렌"
   - Id: 1641
     Name: "어쌔신크로스 에레메스"
+    JapaneseName: "어쌔신크로스 에레메스"
   - Id: 1642
     Name: "화이트스미스 하워드"
+    JapaneseName: "화이트스미스 하워드"
   - Id: 1643
     Name: "하이프리스트 마가레타"
+    JapaneseName: "하이프리스트 마가레타"
   - Id: 1644
     Name: "스나이퍼 셰실"
+    JapaneseName: "스나이퍼 셰실"
   - Id: 1645
     Name: "하이위자드 카트린느"
+    JapaneseName: "하이위자드 카트린느"
+  - Id: 1646
+    Name: "로드나이트 세이렌"
+    JapaneseName: "로드나이트 세이렌"
+  - Id: 1647
+    Name: "어쌔신크로스 에레메스"
+    JapaneseName: "어쌔신크로스 에레메스"
+  - Id: 1648
+    Name: "화이트스미스 하워드"
+    JapaneseName: "화이트스미스 하워드"
+  - Id: 1649
+    Name: "하이프리스트 마가레타"
+    JapaneseName: "하이프리스트 마가레타"
+  - Id: 1650
+    Name: "스나이퍼 셰실"
+    JapaneseName: "스나이퍼 셰실"
+  - Id: 1651
+    Name: "하이위자드 카트린느"
+    JapaneseName: "하이위자드 카트린느"
   - Id: 1652
     Name: "이그니젬 세니아"
+    JapaneseName: "이그니젬 세니아"
   - Id: 1653
     Name: "휘케바인 트리스"
+    JapaneseName: "휘케바인 트리스"
   - Id: 1654
     Name: "아르마이어 딘제"
+    JapaneseName: "아르마이어 딘제"
   - Id: 1655
     Name: "이렌드 에베시"
+    JapaneseName: "이렌드 에베시"
   - Id: 1656
     Name: "카바크 이카루스"
+    JapaneseName: "카바크 이카루스"
   - Id: 1657
     Name: "라우렐 뷘더"
+    JapaneseName: "라우렐 뷘더"
   - Id: 1658
     Name: "이그니젬 세니아"
+    JapaneseName: "이그니젬 세니아"
+  - Id: 1659
+    Name: "휘케바인 트리스"
+    JapaneseName: "휘케바인 트리스"
+  - Id: 1660
+    Name: "아르마이어 딘제"
+    JapaneseName: "아르마이어 딘제"
+  - Id: 1661
+    Name: "이렌드 에베시"
+    JapaneseName: "이렌드 에베시"
+  - Id: 1662
+    Name: "카바크 이카루스"
+    JapaneseName: "카바크 이카루스"
+  - Id: 1663
+    Name: "라우렐 뷘더"
+    JapaneseName: "라우렐 뷘더"
+  - Id: 1664
+    Name: "포톤 캐논"
+    JapaneseName: "포톤 캐논"
+  - Id: 1665
+    Name: "포톤 캐논"
+    JapaneseName: "포톤 캐논"
+  - Id: 1666
+    Name: "포톤 캐논"
+    JapaneseName: "포톤 캐논"
+  - Id: 1667
+    Name: "포톤 캐논"
+    JapaneseName: "포톤 캐논"
   - Id: 1668
     Name: "아크담"
+    JapaneseName: "아크담"
+  - Id: 1669
+    Name: "디미크"
+    JapaneseName: "디미크"
   - Id: 1670
     Name: "디미크"
+    JapaneseName: "디미크"
   - Id: 1671
     Name: "디미크"
+    JapaneseName: "디미크"
   - Id: 1672
     Name: "디미크"
+    JapaneseName: "디미크"
   - Id: 1673
     Name: "디미크"
+    JapaneseName: "디미크"
+  - Id: 1674
+    Name: "모네무스"
+    JapaneseName: "모네무스"
+  - Id: 1675
+    Name: "베나투"
+    JapaneseName: "베나투"
   - Id: 1676
     Name: "베나투"
+    JapaneseName: "베나투"
   - Id: 1677
     Name: "베나투"
+    JapaneseName: "베나투"
   - Id: 1678
     Name: "베나투"
+    JapaneseName: "베나투"
   - Id: 1679
     Name: "베나투"
+    JapaneseName: "베나투"
   - Id: 1680
     Name: "힐 윈드"
+    JapaneseName: "힐 윈드"
   - Id: 1681
     Name: "제미니-S58"
+    JapaneseName: "제미니-S58"
   - Id: 1682
     Name: "리무버"
+    JapaneseName: "리무버"
+  - Id: 1683
+    Name: "포톤 캐논"
+    JapaneseName: "포톤 캐논"
+  - Id: 1684
+    Name: "아크담"
+    JapaneseName: "아크담"
   - Id: 1685
     Name: "베스퍼"
+    JapaneseName: "베스퍼"
   - Id: 1686
     Name: "오크 베이비"
+    JapaneseName: "오크 베이비"
   - Id: 1687
     Name: "그로브"
+    JapaneseName: "그로브"
   - Id: 1688
     Name: "타니 아가씨"
+    JapaneseName: "타니 아가씨"
+  - Id: 1689
+    Name: "백소진"
+    JapaneseName: "백소진"
+  - Id: 1690
+    Name: "스프링 래빗"
+    JapaneseName: "스프링 래빗"
+  - Id: 1691
+    Name: "크라벤"
+    JapaneseName: "크라벤"
   - Id: 1692
     Name: "산들바람"
+    JapaneseName: "산들바람"
   - Id: 1693
     Name: "플라즈마"
+    JapaneseName: "플라즈마"
   - Id: 1694
     Name: "플라즈마"
+    JapaneseName: "플라즈마"
   - Id: 1695
     Name: "플라즈마"
+    JapaneseName: "플라즈마"
   - Id: 1696
     Name: "플라즈마"
+    JapaneseName: "플라즈마"
   - Id: 1697
     Name: "플라즈마"
+    JapaneseName: "플라즈마"
   - Id: 1698
     Name: "데스워드"
+    JapaneseName: "데스워드"
   - Id: 1699
     Name: "에인션트 미믹"
+    JapaneseName: "에인션트 미믹"
   - Id: 1700
     Name: "감시하는 자"
+    JapaneseName: "감시하는 자"
   - Id: 1701
     Name: "안식을 주는 자"
+    JapaneseName: "안식을 주는 자"
   - Id: 1702
     Name: "신벌의 대행자"
+    JapaneseName: "신벌의 대행자"
   - Id: 1703
     Name: "위로하는 자"
+    JapaneseName: "위로하는 자"
   - Id: 1704
     Name: "타나토스의 증오"
+    JapaneseName: "타나토스의 증오"
   - Id: 1705
     Name: "타나토스의 절망"
+    JapaneseName: "타나토스의 절망"
   - Id: 1706
     Name: "타나토스의 슬픔"
+    JapaneseName: "타나토스의 슬픔"
   - Id: 1707
     Name: "타나토스의 고뇌"
+    JapaneseName: "타나토스의 고뇌"
+  - Id: 1708
+    Name: "타나토스 팬텀"
+    JapaneseName: "타나토스 팬텀"
+  - Id: 1709
+    Name: "타나토스의 증오"
+    JapaneseName: "타나토스의 증오"
+  - Id: 1710
+    Name: "타나토스의 절망"
+    JapaneseName: "타나토스의 절망"
+  - Id: 1711
+    Name: "타나토스의 슬픔"
+    JapaneseName: "타나토스의 슬픔"
+  - Id: 1712
+    Name: "타나토스의 고뇌"
+    JapaneseName: "타나토스의 고뇌"
   - Id: 1713
     Name: "어시더스"
+    JapaneseName: "어시더스"
   - Id: 1714
     Name: "페러스"
+    JapaneseName: "페러스"
   - Id: 1715
     Name: "노버스"
+    JapaneseName: "노버스"
   - Id: 1716
     Name: "어시더스"
+    JapaneseName: "어시더스"
   - Id: 1717
     Name: "페러스"
+    JapaneseName: "페러스"
   - Id: 1718
     Name: "노버스"
+    JapaneseName: "노버스"
   - Id: 1719
     Name: "디타르데우르스"
+    JapaneseName: "디타르데우르스"
   - Id: 1720
     Name: "하이드로랜서"
+    JapaneseName: "하이드로랜서"
   - Id: 1721
     Name: "드래곤의 알"
+    JapaneseName: "드래곤의 알"
+  - Id: 1722
+    Name: "잭"
+    JapaneseName: "잭"
+  - Id: 1723
+    Name: "셰실 디먼"
+    JapaneseName: "셰실 디먼"
+  - Id: 1724
+    Name: "포톤 캐논"
+    JapaneseName: "포톤 캐논"
+  - Id: 1725
+    Name: "포링"
+    JapaneseName: "포링"
+  - Id: 1726
+    Name: "루나틱"
+    JapaneseName: "루나틱"
+  - Id: 1727
+    Name: "세비지 베베"
+    JapaneseName: "세비지 베베"
+  - Id: 1728
+    Name: "새끼 데저트 울프"
+    JapaneseName: "새끼 데저트 울프"
+  - Id: 1729
+    Name: "바포메트 주니어"
+    JapaneseName: "바포메트 주니어"
+  - Id: 1730
+    Name: "데비루치"
+    JapaneseName: "데비루치"
+  - Id: 1731
+    Name: "도플갱어"
+    JapaneseName: "도플갱어"
+  - Id: 1732
+    Name: "보물상자"
+    JapaneseName: "보물상자"
+  - Id: 1733
+    Name: "킬"
+    JapaneseName: "킬"
   - Id: 1734
     Name: "키엘-D-01"
+    JapaneseName: "키엘-D-01"
   - Id: 1735
     Name: "엘리셀"
+    JapaneseName: "엘리셀"
   - Id: 1736
     Name: "엘리엇"
+    JapaneseName: "엘리엇"
   - Id: 1737
     Name: "엘리자"
+    JapaneseName: "엘리자"
   - Id: 1738
     Name: "콘스탄트"
+    JapaneseName: "콘스탄트"
+  - Id: 1739
+    Name: "엘리셀"
+    JapaneseName: "엘리셀"
+  - Id: 1740
+    Name: "엘리엇"
+    JapaneseName: "엘리엇"
+  - Id: 1741
+    Name: "크리스마스 쿠키"
+    JapaneseName: "크리스마스 쿠키"
+  - Id: 1742
+    Name: "캐럿"
+    JapaneseName: "캐럿"
+  - Id: 1743
+    Name: "미스트 케이스"
+    JapaneseName: "미스트 케이스"
+  - Id: 1744
+    Name: "와일드 로즈"
+    JapaneseName: "와일드 로즈"
   - Id: 1745
     Name: "콘스탄트"
+    JapaneseName: "콘스탄트"
+  - Id: 1746
+    Name: "엘리자"
+    JapaneseName: "엘리자"
+  - Id: 1747
+    Name: "보아"
+    JapaneseName: "보아"
+  - Id: 1748
+    Name: "아나콘다크"
+    JapaneseName: "아나콘다크"
+  - Id: 1749
+    Name: "메두사"
+    JapaneseName: "메두사"
+  - Id: 1750
+    Name: "빨간 풀"
+    JapaneseName: "빨간 풀"
   - Id: 1751
     Name: "발키리 란드그리스"
+    JapaneseName: "발키리 란드그리스"
   - Id: 1752
     Name: "스코글"
+    JapaneseName: "스코글"
   - Id: 1753
     Name: "프루스"
+    JapaneseName: "프루스"
   - Id: 1754
     Name: "스케골트"
+    JapaneseName: "스케골트"
   - Id: 1755
     Name: "스케골트"
+    JapaneseName: "스케골트"
+  - Id: 1756
+    Name: "하이드로랜서"
+    JapaneseName: "하이드로랜서"
+  - Id: 1757
+    Name: "어시더스"
+    JapaneseName: "어시더스"
+  - Id: 1758
+    Name: "페러스"
+    JapaneseName: "페러스"
+  - Id: 1759
+    Name: "어시더스"
+    JapaneseName: "어시더스"
+  - Id: 1760
+    Name: "페러스"
+    JapaneseName: "페러스"
   - Id: 1761
     Name: "스코글"
+    JapaneseName: "스코글"
   - Id: 1762
     Name: "프루스"
+    JapaneseName: "프루스"
+  - Id: 1763
+    Name: "스케골트"
+    JapaneseName: "스케골트"
+  - Id: 1764
+    Name: "스케골트"
+    JapaneseName: "스케골트"
   - Id: 1765
     Name: "발키리"
+    JapaneseName: "발키리"
+  - Id: 1766
+    Name: "엔젤링"
+    JapaneseName: "엔젤링"
+  - Id: 1767
+    Name: "데빌링"
+    JapaneseName: "데빌링"
   - Id: 1768
     Name: "그룸 언더 나이트"
+    JapaneseName: "그룸 언더 나이트"
   - Id: 1769
     Name: "아가브"
+    JapaneseName: "아가브"
   - Id: 1770
     Name: "에키오"
+    JapaneseName: "에키오"
   - Id: 1771
     Name: "판베르크"
+    JapaneseName: "판베르크"
   - Id: 1772
     Name: "이실라"
+    JapaneseName: "이실라"
   - Id: 1773
     Name: "호드렘린"
+    JapaneseName: "호드렘린"
   - Id: 1774
     Name: "시커"
+    JapaneseName: "시커"
   - Id: 1775
     Name: "스노이어"
+    JapaneseName: "스노이어"
   - Id: 1776
     Name: "시로마"
+    JapaneseName: "시로마"
   - Id: 1777
     Name: "아이스 티탄"
+    JapaneseName: "아이스 티탄"
   - Id: 1778
     Name: "게에즈티"
+    JapaneseName: "게에즈티"
+  - Id: 1779
+    Name: "크툴라눅스"
+    JapaneseName: "크툴라눅스"
   - Id: 1780
     Name: "머스키퓰라"
+    JapaneseName: "머스키퓰라"
   - Id: 1781
     Name: "드로세라"
+    JapaneseName: "드로세라"
   - Id: 1782
     Name: "로우윈"
+    JapaneseName: "로우윈"
   - Id: 1783
     Name: "갈리온"
+    JapaneseName: "갈리온"
   - Id: 1784
     Name: "스태포"
+    JapaneseName: "스태포"
   - Id: 1785
     Name: "아트로스"
+    JapaneseName: "아트로스"
+  - Id: 1786
+    Name: "아가브"
+    JapaneseName: "아가브"
+  - Id: 1787
+    Name: "에키오"
+    JapaneseName: "에키오"
+  - Id: 1788
+    Name: "아이스 티탄"
+    JapaneseName: "아이스 티탄"
   - Id: 1789
     Name: "고드름"
+    JapaneseName: "고드름"
+  - Id: 1790
+    Name: "라플레시아"
+    JapaneseName: "라플레시아"
+  - Id: 1791
+    Name: "갈리온"
+    JapaneseName: "갈리온"
+  - Id: 1792
+    Name: "축구공"
+    JapaneseName: "축구공"
+  - Id: 1793
+    Name: "메갈리스"
+    JapaneseName: "메갈리스"
+  - Id: 1794
+    Name: "로우윈"
+    JapaneseName: "로우윈"
+  - Id: 1795
+    Name: "피빛의 기사"
+    JapaneseName: "피빛의 기사"
+  - Id: 1796
+    Name: "아우노에"
+    JapaneseName: "아우노에"
+  - Id: 1797
+    Name: "파나트"
+    JapaneseName: "파나트"
+  - Id: 1798
+    Name: "보물상자"
+    JapaneseName: "보물상자"
+  - Id: 1799
+    Name: "로드나이트 세이렌"
+    JapaneseName: "로드나이트 세이렌"
+  - Id: 1800
+    Name: "어쌔신크로스 에레메스"
+    JapaneseName: "어쌔신크로스 에레메스"
+  - Id: 1801
+    Name: "마스터스미스 하워드"
+    JapaneseName: "마스터스미스 하워드"
+  - Id: 1802
+    Name: "하이프리스트 마가레타"
+    JapaneseName: "하이프리스트 마가레타"
+  - Id: 1803
+    Name: "스나이퍼 셰실"
+    JapaneseName: "스나이퍼 셰실"
+  - Id: 1804
+    Name: "하이위자드 카트린느"
+    JapaneseName: "하이위자드 카트린느"
+  - Id: 1805
+    Name: "로드나이트 세이렌"
+    JapaneseName: "로드나이트 세이렌"
+  - Id: 1806
+    Name: "어쌔신크로스 에레메스"
+    JapaneseName: "어쌔신크로스 에레메스"
+  - Id: 1807
+    Name: "마스터스미스 하워드"
+    JapaneseName: "마스터스미스 하워드"
+  - Id: 1808
+    Name: "하이프리스트 마가레타"
+    JapaneseName: "하이프리스트 마가레타"
+  - Id: 1809
+    Name: "스나이퍼 셰실"
+    JapaneseName: "스나이퍼 셰실"
+  - Id: 1810
+    Name: "하이위자드 카트린느"
+    JapaneseName: "하이위자드 카트린느"
+  - Id: 1811
+    Name: "밴딧"
+    JapaneseName: "밴딧"
+  - Id: 1812
+    Name: "즐거운 루드"
+    JapaneseName: "즐거운 루드"
+  - Id: 1813
+    Name: "하이드로랜서"
+    JapaneseName: "하이드로랜서"
+  - Id: 1814
+    Name: "월야화"
+    JapaneseName: "월야화"
+  - Id: 1815
+    Name: "떡"
+    JapaneseName: "떡"
+  - Id: 1816
+    Name: "조롱박"
+    JapaneseName: "조롱박"
+  - Id: 1817
+    Name: "디타르데우르스"
+    JapaneseName: "디타르데우르스"
+  - Id: 1818
+    Name: "알람"
+    JapaneseName: "알람"
+  - Id: 1819
+    Name: "바소리"
+    JapaneseName: "바소리"
+  - Id: 1820
+    Name: "빅풋"
+    JapaneseName: "빅풋"
+  - Id: 1821
+    Name: "데저트 울프"
+    JapaneseName: "데저트 울프"
+  - Id: 1822
+    Name: "데비루치"
+    JapaneseName: "데비루치"
+  - Id: 1823
+    Name: "프리저"
+    JapaneseName: "프리저"
+  - Id: 1824
+    Name: "하티베베"
+    JapaneseName: "하티베베"
+  - Id: 1825
+    Name: "크리스마스 고블린"
+    JapaneseName: "크리스마스 고블린"
+  - Id: 1826
+    Name: "미스트"
+    JapaneseName: "미스트"
+  - Id: 1827
+    Name: "사스콰치"
+    JapaneseName: "사스콰치"
+  - Id: 1828
+    Name: "굴린부르스티"
+    JapaneseName: "굴린부르스티"
   - Id: 1829
     Name: "소드 가디안"
+    JapaneseName: "소드 가디안"
   - Id: 1830
     Name: "보우 가디안"
+    JapaneseName: "보우 가디안"
   - Id: 1831
     Name: "살라만다"
+    JapaneseName: "살라만다"
   - Id: 1832
     Name: "이프리트"
+    JapaneseName: "이프리트"
   - Id: 1833
     Name: "카사"
+    JapaneseName: "카사"
+  - Id: 1834
+    Name: "살라만다"
+    JapaneseName: "살라만다"
+  - Id: 1835
+    Name: "카사"
+    JapaneseName: "카사"
   - Id: 1836
     Name: "마그마링"
+    JapaneseName: "마그마링"
   - Id: 1837
     Name: "임프"
+    JapaneseName: "임프"
   - Id: 1838
     Name: "노커"
+    JapaneseName: "노커"
   - Id: 1839
     Name: "뵤르그"
+    JapaneseName: "뵤르그"
+  - Id: 1840
+    Name: "황금 세비지"
+    JapaneseName: "황금 세비지"
+  - Id: 1841
+    Name: "뱀왕의 하수인"
+    JapaneseName: "뱀왕의 하수인"
+  - Id: 1842
+    Name: "뱀왕의 하수인"
+    JapaneseName: "뱀왕의 하수인"
+  - Id: 1843
+    Name: "뱀왕의 하수인"
+    JapaneseName: "뱀왕의 하수인"
+  - Id: 1844
+    Name: "뱀왕의 하수인"
+    JapaneseName: "뱀왕의 하수인"
+  - Id: 1845
+    Name: "보물상자"
+    JapaneseName: "보물상자"
+  - Id: 1846
+    Name: "꿈의 금속"
+    JapaneseName: "꿈의 금속"
+  - Id: 1847
+    Name: "포링"
+    JapaneseName: "포링"
+  - Id: 1848
+    Name: "바포메트"
+    JapaneseName: "바포메트"
+  - Id: 1849
+    Name: "오시리스"
+    JapaneseName: "오시리스"
+  - Id: 1850
+    Name: "오크 히어로"
+    JapaneseName: "오크 히어로"
+  - Id: 1851
+    Name: "폭력배"
+    JapaneseName: "폭력배"
+  - Id: 1852
+    Name: "엔젤링"
+    JapaneseName: "엔젤링"
+  - Id: 1853
+    Name: "데빌링"
+    JapaneseName: "데빌링"
+  - Id: 1854
+    Name: "무카"
+    JapaneseName: "무카"
+  - Id: 1855
+    Name: "포이즌 스포아"
+    JapaneseName: "포이즌 스포아"
+  - Id: 1856
+    Name: "백련옥"
+    JapaneseName: "백련옥"
+  - Id: 1857
+    Name: "마린"
+    JapaneseName: "마린"
+  - Id: 1858
+    Name: "플랑크톤"
+    JapaneseName: "플랑크톤"
+  - Id: 1859
+    Name: "만드라고라"
+    JapaneseName: "만드라고라"
+  - Id: 1860
+    Name: "코코"
+    JapaneseName: "코코"
+  - Id: 1861
+    Name: "쵸코"
+    JapaneseName: "쵸코"
+  - Id: 1862
+    Name: "마르틴"
+    JapaneseName: "마르틴"
+  - Id: 1863
+    Name: "스프링 래빗"
+    JapaneseName: "스프링 래빗"
   - Id: 1864
     Name: "좀비 슬러터"
+    JapaneseName: "좀비 슬러터"
   - Id: 1865
     Name: "누더기 좀비"
+    JapaneseName: "누더기 좀비"
   - Id: 1866
     Name: "헬 푸들"
+    JapaneseName: "헬 푸들"
   - Id: 1867
     Name: "밴시"
+    JapaneseName: "밴시"
+  - Id: 1868
+    Name: "밴시"
+    JapaneseName: "밴시"
   - Id: 1869
     Name: "플레임 스컬"
+    JapaneseName: "플레임 스컬"
   - Id: 1870
     Name: "네크로맨서"
+    JapaneseName: "네크로맨서"
   - Id: 1871
     Name: "타락한 대신관 히밤"
+    JapaneseName: "타락한 대신관 히밤"
+  - Id: 1872
+    Name: "헬 플라이"
+    JapaneseName: "헬 플라이"
   - Id: 1873
     Name: "베르제브브"
+    JapaneseName: "베르제브브"
+  - Id: 1874
+    Name: "베르제브브"
+    JapaneseName: "베르제브브"
+  - Id: 1875
+    Name: "트리스탄 3세"
+    JapaneseName: "트리스탄 3세"
+  - Id: 1876
+    Name: "죽은 자들의 군주"
+    JapaneseName: "죽은 자들의 군주"
+  - Id: 1877
+    Name: "크리스탈"
+    JapaneseName: "크리스탈"
+  - Id: 1878
+    Name: "신비한 식물"
+    JapaneseName: "신비한 식물"
+  - Id: 1879
+    Name: "이클립스"
+    JapaneseName: "이클립스"
   - Id: 1880
     Name: "우드 고블린"
+    JapaneseName: "우드 고블린"
   - Id: 1881
     Name: "레스"
+    JapaneseName: "레스"
   - Id: 1882
     Name: "바바야가"
+    JapaneseName: "바바야가"
   - Id: 1883
     Name: "우자스"
+    JapaneseName: "우자스"
   - Id: 1884
     Name: "마브카"
+    JapaneseName: "마브카"
   - Id: 1885
     Name: "고피니츠"
+    JapaneseName: "고피니츠"
+  - Id: 1886
+    Name: "마브카"
+    JapaneseName: "마브카"
+  - Id: 1887
+    Name: "프리저"
+    JapaneseName: "프리저"
+  - Id: 1888
+    Name: "하티베베"
+    JapaneseName: "하티베베"
+  - Id: 1889
+    Name: "마로즈카의 경비병"
+    JapaneseName: "마로즈카의 경비병"
+  - Id: 1890
+    Name: "불멸의 코셰이"
+    JapaneseName: "불멸의 코셰이"
+  - Id: 1891
+    Name: "발키리"
+    JapaneseName: "발키리"
+  - Id: 1892
+    Name: "로로루리"
+    JapaneseName: "로로루리"
+  - Id: 1893
+    Name: "심연의 기사"
+    JapaneseName: "심연의 기사"
+  - Id: 1894
+    Name: "포우링"
+    JapaneseName: "포우링"
+  - Id: 1895
+    Name: "세이렌 윈저"
+    JapaneseName: "세이렌 윈저"
+  - Id: 1896
+    Name: "카트린느 케이론"
+    JapaneseName: "카트린느 케이론"
+  - Id: 1897
+    Name: "바포메트"
+    JapaneseName: "바포메트"
+  - Id: 1898
+    Name: "좀비"
+    JapaneseName: "좀비"
+  - Id: 1899
+    Name: "소드 가디안"
+    JapaneseName: "소드 가디안"
+  - Id: 1900
+    Name: "아쳐 가디언"
+    JapaneseName: "아쳐 가디언"
+  - Id: 1901
+    Name: "콘도르"
+    JapaneseName: "콘도르"
+  - Id: 1902
+    Name: "보물상자"
+    JapaneseName: "보물상자"
+  - Id: 1903
+    Name: "보물상자"
+    JapaneseName: "보물상자"
+  - Id: 1904
+    Name: "폭탄 포링"
+    JapaneseName: "폭탄 포링"
+  - Id: 1905
+    Name: "바리케이드"
+    JapaneseName: "바리케이드"
+  - Id: 1906
+    Name: "바리케이드"
+    JapaneseName: "바리케이드"
+  - Id: 1907
+    Name: "가디언 스톤"
+    JapaneseName: "가디언 스톤"
+  - Id: 1908
+    Name: "가디언 스톤"
+    JapaneseName: "가디언 스톤"
+  - Id: 1909
+    Name: "식량 창고"
+    JapaneseName: "식량 창고"
+  - Id: 1910
+    Name: "식량 저장고"
+    JapaneseName: "식량 저장고"
+  - Id: 1911
+    Name: "중립 깃발"
+    JapaneseName: "중립 깃발"
+  - Id: 1912
+    Name: "사자 깃발"
+    JapaneseName: "사자 깃발"
+  - Id: 1913
+    Name: "독수리 깃발"
+    JapaneseName: "독수리 깃발"
+  - Id: 1914
+    Name: "블루 크리스탈"
+    JapaneseName: "블루 크리스탈"
+  - Id: 1915
+    Name: "핑크 크리스탈"
+    JapaneseName: "핑크 크리스탈"
+  - Id: 1916
+    Name: "사탄 모록"
+    JapaneseName: "사탄 모록"
   - Id: 1917
     Name: "상처입은 모로크"
+    JapaneseName: "상처입은 모로크"
   - Id: 1918
     Name: "모로크의 현신"
+    JapaneseName: "모로크의 현신"
   - Id: 1919
     Name: "모로크의 현신"
+    JapaneseName: "모로크의 현신"
   - Id: 1920
     Name: "모로크의 현신"
+    JapaneseName: "모로크의 현신"
   - Id: 1921
     Name: "모로크의 현신"
+    JapaneseName: "모로크의 현신"
+  - Id: 1922
+    Name: "모록의 그림자"
+    JapaneseName: "모록의 그림자"
+  - Id: 1923
+    Name: "모록의 그림자"
+    JapaneseName: "모록의 그림자"
+  - Id: 1924
+    Name: "모록의 그림자"
+    JapaneseName: "모록의 그림자"
+  - Id: 1925
+    Name: "모록의 그림자"
+    JapaneseName: "모록의 그림자"
+  - Id: 1926
+    Name: "잭"
+    JapaneseName: "잭"
+  - Id: 1927
+    Name: "위스퍼"
+    JapaneseName: "위스퍼"
+  - Id: 1928
+    Name: "데비루치"
+    JapaneseName: "데비루치"
+  - Id: 1929
+    Name: "봉인 해제된 바포메트"
+    JapaneseName: "봉인 해제된 바포메트"
+  - Id: 1930
+    Name: "피아메트"
+    JapaneseName: "피아메트"
+  - Id: 1931
+    Name: "소원의 소녀"
+    JapaneseName: "소원의 소녀"
+  - Id: 1932
+    Name: "정원지기"
+    JapaneseName: "정원지기"
+  - Id: 1933
+    Name: "정원 감시자"
+    JapaneseName: "정원 감시자"
+  - Id: 1934
+    Name: "파란 꽃"
+    JapaneseName: "파란 꽃"
+  - Id: 1935
+    Name: "빨간 꽃"
+    JapaneseName: "빨간 꽃"
+  - Id: 1936
+    Name: "노란 꽃"
+    JapaneseName: "노란 꽃"
+  - Id: 1937
+    Name: "콘스탄트"
+    JapaneseName: "콘스탄트"
+  - Id: 1938
+    Name: "보물상자"
+    JapaneseName: "보물상자"
+  - Id: 1939
+    Name: "보물상자"
+    JapaneseName: "보물상자"
+  - Id: 1940
+    Name: "보물상자"
+    JapaneseName: "보물상자"
+  - Id: 1941
+    Name: "보물상자"
+    JapaneseName: "보물상자"
+  - Id: 1942
+    Name: "보물상자"
+    JapaneseName: "보물상자"
+  - Id: 1943
+    Name: "보물상자"
+    JapaneseName: "보물상자"
+  - Id: 1944
+    Name: "보물상자"
+    JapaneseName: "보물상자"
+  - Id: 1945
+    Name: "보물상자"
+    JapaneseName: "보물상자"
+  - Id: 1946
+    Name: "보물상자"
+    JapaneseName: "보물상자"
+  - Id: 1947
+    Name: "피아메트"
+    JapaneseName: "피아메트"
+  - Id: 1948
+    Name: "이그니젬 세니아"
+    JapaneseName: "이그니젬 세니아"
+  - Id: 1949
+    Name: "캠프 가디언"
+    JapaneseName: "캠프 가디언"
+  - Id: 1950
+    Name: "캠프 가디언"
+    JapaneseName: "캠프 가디언"
+  - Id: 1951
+    Name: "크리스탈"
+    JapaneseName: "크리스탈"
+  - Id: 1952
+    Name: "크리스탈"
+    JapaneseName: "크리스탈"
+  - Id: 1953
+    Name: "크리스탈"
+    JapaneseName: "크리스탈"
+  - Id: 1954
+    Name: "크리스탈"
+    JapaneseName: "크리스탈"
+  - Id: 1955
+    Name: "보물상자"
+    JapaneseName: "보물상자"
+  - Id: 1956
+    Name: "나이트 지거"
+    JapaneseName: "나이트 지거"
+  - Id: 1957
+    Name: "엔트바이헨 크로텐"
+    JapaneseName: "엔트바이헨 크로텐"
+  - Id: 1958
+    Name: "가시달린 스켈레톤"
+    JapaneseName: "가시달린 스켈레톤"
+  - Id: 1959
+    Name: "회복의 가시"
+    JapaneseName: "회복의 가시"
+  - Id: 1960
+    Name: "마법의 가시"
+    JapaneseName: "마법의 가시"
+  - Id: 1961
+    Name: "정화의 가시"
+    JapaneseName: "정화의 가시"
+  - Id: 1962
+    Name: "크리스마스 도둑"
+    JapaneseName: "크리스마스 도둑"
+  - Id: 1963
+    Name: "새해 인형"
+    JapaneseName: "새해 인형"
+  - Id: 1964
+    Name: "나이트메어"
+    JapaneseName: "나이트메어"
+  - Id: 1965
+    Name: "와일드 로즈"
+    JapaneseName: "와일드 로즈"
+  - Id: 1966
+    Name: "도플갱어"
+    JapaneseName: "도플갱어"
+  - Id: 1967
+    Name: "이그니젬 세니아"
+    JapaneseName: "이그니젬 세니아"
+  - Id: 1968
+    Name: "스트라우프"
+    JapaneseName: "스트라우프"
+  - Id: 1969
+    Name: "마르크"
+    JapaneseName: "마르크"
+  - Id: 1970
+    Name: "오뵌"
+    JapaneseName: "오뵌"
+  - Id: 1971
+    Name: "바돈"
+    JapaneseName: "바돈"
+  - Id: 1972
+    Name: "마리나"
+    JapaneseName: "마리나"
+  - Id: 1973
+    Name: "포링"
+    JapaneseName: "포링"
+  - Id: 1974
+    Name: "밴시 마스터"
+    JapaneseName: "밴시 마스터"
+  - Id: 1975
+    Name: "비홀더 마스터"
+    JapaneseName: "비홀더 마스터"
+  - Id: 1976
+    Name: "코발트 미네랄"
+    JapaneseName: "코발트 미네랄"
+  - Id: 1977
+    Name: "헤비 메탈링"
+    JapaneseName: "헤비 메탈링"
+  - Id: 1978
+    Name: "헬 베스퍼"
+    JapaneseName: "헬 베스퍼"
+  - Id: 1979
+    Name: "자쿠담"
+    JapaneseName: "자쿠담"
+  - Id: 1980
+    Name: "쿠블린"
+    JapaneseName: "쿠블린"
+  - Id: 1981
+    Name: "오크 정예 경비병"
+    JapaneseName: "오크 정예 경비병"
+  - Id: 1982
+    Name: "오크 보우맨"
+    JapaneseName: "오크 보우맨"
+  - Id: 1983
+    Name: "언데드 오크"
+    JapaneseName: "언데드 오크"
+  - Id: 1984
+    Name: "오크 레이디"
+    JapaneseName: "오크 레이디"
+  - Id: 1985
+    Name: "민들레단 단원"
+    JapaneseName: "민들레단 단원"
   - Id: 1986
     Name: "따따초"
+    JapaneseName: "따따초"
   - Id: 1987
     Name: "센티페데"
+    JapaneseName: "센티페데"
   - Id: 1988
     Name: "네펜데스"
+    JapaneseName: "네펜데스"
   - Id: 1989
     Name: "힐스리온"
+    JapaneseName: "힐스리온"
   - Id: 1990
     Name: "하드락 맘모스"
+    JapaneseName: "하드락 맘모스"
   - Id: 1991
     Name: "텐드릴리온"
+    JapaneseName: "텐드릴리온"
   - Id: 1992
     Name: "코르누스"
+    JapaneseName: "코르누스"
   - Id: 1993
     Name: "나가"
+    JapaneseName: "나가"
   - Id: 1994
     Name: "루시올라 베스파"
+    JapaneseName: "루시올라 베스파"
   - Id: 1995
     Name: "핀귀큘라"
+    JapaneseName: "핀귀큘라"
+  - Id: 1997
+    Name: "따따초"
+    JapaneseName: "따따초"
+  - Id: 1998
+    Name: "힐슬라이언"
+    JapaneseName: "힐슬라이언"
   - Id: 1999
     Name: "센티페데 유충"
+    JapaneseName: "센티페데 유충"
+  - Id: 2000
+    Name: "남성 게임 마스터"
+    JapaneseName: "남성 게임 마스터"
+  - Id: 2001
+    Name: "여성 게임 마스터"
+    JapaneseName: "여성 게임 마스터"
+  - Id: 2002
+    Name: "부적 유령"
+    JapaneseName: "부적 유령"
+  - Id: 2003
+    Name: "부적 유령"
+    JapaneseName: "부적 유령"
+  - Id: 2004
+    Name: "부적 유령"
+    JapaneseName: "부적 유령"
+  - Id: 2005
+    Name: "플라즈마"
+    JapaneseName: "플라즈마"
+  - Id: 2006
+    Name: "플라즈마"
+    JapaneseName: "플라즈마"
+  - Id: 2007
+    Name: "플라즈마"
+    JapaneseName: "플라즈마"
+  - Id: 2008
+    Name: "우마왕"
+    JapaneseName: "우마왕"
+  - Id: 2009
+    Name: "우마왕"
+    JapaneseName: "우마왕"
+  - Id: 2010
+    Name: "황소"
+    JapaneseName: "황소"
+  - Id: 2011
+    Name: "끈질긴 구울"
+    JapaneseName: "끈질긴 구울"
+  - Id: 2012
+    Name: "끈질긴 좀비"
+    JapaneseName: "끈질긴 좀비"
   - Id: 2013
     Name: "드라코"
+    JapaneseName: "드라코"
   - Id: 2014
     Name: "드라코의 알"
+    JapaneseName: "드라코의 알"
   - Id: 2015
     Name: "핀귀큘라 다크"
+    JapaneseName: "핀귀큘라 다크"
   - Id: 2016
     Name: "아쿠아 엘레멘탈"
+    JapaneseName: "아쿠아 엘레멘탈"
   - Id: 2017
     Name: "라타"
+    JapaneseName: "라타"
   - Id: 2018
     Name: "두네이르"
+    JapaneseName: "두네이르"
+  - Id: 2019
+    Name: "고목"
+    JapaneseName: "고목"
+  - Id: 2020
+    Name: "린초"
+    JapaneseName: "린초"
+  - Id: 2021
+    Name: "필라"
+    JapaneseName: "필라"
+  - Id: 2022
+    Name: "니드호그의 그림자"
+    JapaneseName: "니드호그의 그림자"
+  - Id: 2023
+    Name: "다크 섀도우"
+    JapaneseName: "다크 섀도우"
   - Id: 2024
     Name: "브라디움 골렘"
+    JapaneseName: "브라디움 골렘"
+  - Id: 2025
+    Name: "야생 선물상자"
+    JapaneseName: "야생 선물상자"
+  - Id: 2026
+    Name: "도망친 민들레단 단원"
+    JapaneseName: "도망친 민들레단 단원"
+  - Id: 2027
+    Name: "다크 섀도우"
+    JapaneseName: "다크 섀도우"
+  - Id: 2030
+    Name: "숨겨진 프리스트"
+    JapaneseName: "숨겨진 프리스트"
+  - Id: 2031
+    Name: "민들레"
+    JapaneseName: "민들레"
+  - Id: 2032
+    Name: "숲의 가디언"
+    JapaneseName: "숲의 가디언"
+  - Id: 2033
+    Name: "황금 튤립"
+    JapaneseName: "황금 튤립"
+  - Id: 2034
+    Name: "새끼 데저트 울프"
+    JapaneseName: "새끼 데저트 울프"
+  - Id: 2035
+    Name: "허무의 젬"
+    JapaneseName: "허무의 젬"
+  - Id: 2036
+    Name: "발키리 란드그리스"
+    JapaneseName: "발키리 란드그리스"
+  - Id: 2037
+    Name: "발키리 란드그리스"
+    JapaneseName: "발키리 란드그리스"
+  - Id: 2038
+    Name: "발키리 란드그리스"
+    JapaneseName: "발키리 란드그리스"
+  - Id: 2039
+    Name: "엑서큐서너"
+    JapaneseName: "엑서큐서너"
+  - Id: 2040
+    Name: "오우거 투스"
+    JapaneseName: "오우거 투스"
+  - Id: 2041
+    Name: "미스틸테인"
+    JapaneseName: "미스틸테인"
+  - Id: 2042
+    Name: "실버 스나이퍼"
+    JapaneseName: "실버 스나이퍼"
+  - Id: 2043
+    Name: "마법 미끼"
+    JapaneseName: "마법 미끼"
+  - Id: 2044
+    Name: "마법 미끼"
+    JapaneseName: "마법 미끼"
+  - Id: 2045
+    Name: "마법 미끼"
+    JapaneseName: "마법 미끼"
+  - Id: 2046
+    Name: "마법 미끼"
+    JapaneseName: "마법 미끼"
   - Id: 2047
     Name: "마력에 취한 나가"
+    JapaneseName: "마력에 취한 나가"
+  - Id: 2048
+    Name: "핀귀큘라 다크"
+    JapaneseName: "핀귀큘라 다크"
   - Id: 2049
     Name: "마력에 취한 골렘"
+    JapaneseName: "마력에 취한 골렘"
+  - Id: 2050
+    Name: "아쿠아 엘레멘탈"
+    JapaneseName: "아쿠아 엘레멘탈"
+  - Id: 2052
+    Name: "다크 로드"
+    JapaneseName: "다크 로드"
   - Id: 2057
     Name: "이상한 쥐"
+    JapaneseName: "이상한 쥐"
+  - Id: 2058
+    Name: "미믹"
+    JapaneseName: "미믹"
+  - Id: 2059
+    Name: "디스가이즈"
+    JapaneseName: "디스가이즈"
+  - Id: 2060
+    Name: "엘리스"
+    JapaneseName: "엘리스"
+  - Id: 2066
+    Name: "위레스"
+    JapaneseName: "위레스"
+  - Id: 2067
+    Name: "위레스"
+    JapaneseName: "위레스"
   - Id: 2068
     Name: "보이타타"
+    JapaneseName: "보이타타"
   - Id: 2069
     Name: "이아라"
+    JapaneseName: "이아라"
   - Id: 2070
     Name: "피라니아"
+    JapaneseName: "피라니아"
   - Id: 2071
     Name: "머리없는 말"
+    JapaneseName: "머리없는 말"
   - Id: 2072
     Name: "재규어"
+    JapaneseName: "재규어"
   - Id: 2073
     Name: "투칸"
+    JapaneseName: "투칸"
   - Id: 2074
     Name: "쿠루피라"
+    JapaneseName: "쿠루피라"
+  - Id: 2075
+    Name: "라군타"
+    JapaneseName: "라군타"
   - Id: 2076
     Name: "기만의 그림자"
+    JapaneseName: "기만의 그림자"
   - Id: 2077
     Name: "허상의 그림자"
+    JapaneseName: "허상의 그림자"
   - Id: 2078
     Name: "환락의 그림자"
+    JapaneseName: "환락의 그림자"
+  - Id: 2079
+    Name: "크리스탈"
+    JapaneseName: "크리스탈"
+  - Id: 2080
+    Name: "크리스탈"
+    JapaneseName: "크리스탈"
+  - Id: 2081
+    Name: "이상한 히드라"
+    JapaneseName: "이상한 히드라"
+  - Id: 2082
+    Name: "피라니아"
+    JapaneseName: "피라니아"
   - Id: 2083
     Name: "외뿔 스카라바"
+    JapaneseName: "외뿔 스카라바"
   - Id: 2084
     Name: "쌍뿔 스카라바"
+    JapaneseName: "쌍뿔 스카라바"
   - Id: 2085
     Name: "사슴뿔 스카라바"
+    JapaneseName: "사슴뿔 스카라바"
   - Id: 2086
     Name: "갈퀴뿔 스카라바"
+    JapaneseName: "갈퀴뿔 스카라바"
   - Id: 2087
     Name: "여왕 스카라바"
+    JapaneseName: "여왕 스카라바"
   - Id: 2088
     Name: "외뿔 스카라바 알"
+    JapaneseName: "외뿔 스카라바 알"
   - Id: 2089
     Name: "쌍뿔 스카라바 알"
+    JapaneseName: "쌍뿔 스카라바 알"
   - Id: 2090
     Name: "사슴뿔 스카라바 알"
+    JapaneseName: "사슴뿔 스카라바 알"
   - Id: 2091
     Name: "갈퀴뿔 스카라바 알"
+    JapaneseName: "갈퀴뿔 스카라바 알"
   - Id: 2092
     Name: "돌로메데스"
+    JapaneseName: "돌로메데스"
+  - Id: 2093
+    Name: "보타링"
+    JapaneseName: "보타링"
+  - Id: 2094
+    Name: "오크 히어로"
+    JapaneseName: "오크 히어로"
+  - Id: 2095
+    Name: "에드가"
+    JapaneseName: "에드가"
+  - Id: 2096
+    Name: "오시리스"
+    JapaneseName: "오시리스"
+  - Id: 2097
+    Name: "드라큘라"
+    JapaneseName: "드라큘라"
+  - Id: 2098
+    Name: "도플갱어"
+    JapaneseName: "도플갱어"
+  - Id: 2099
+    Name: "미스트레스"
+    JapaneseName: "미스트레스"
+  - Id: 2100
+    Name: "바포메트"
+    JapaneseName: "바포메트"
+  - Id: 2101
+    Name: "죽은 자들의 군주"
+    JapaneseName: "죽은 자들의 군주"
+  - Id: 2102
+    Name: "다크 로드"
+    JapaneseName: "다크 로드"
+  - Id: 2103
+    Name: "크툴라눅스"
+    JapaneseName: "크툴라눅스"
+  - Id: 2104
+    Name: "흑사왕"
+    JapaneseName: "흑사왕"
+  - Id: 2105
+    Name: "터틀 제네럴"
+    JapaneseName: "터틀 제네럴"
+  - Id: 2106
+    Name: "베스퍼"
+    JapaneseName: "베스퍼"
+  - Id: 2107
+    Name: "타락한 비숍 히브람"
+    JapaneseName: "타락한 비숍 히브람"
+  - Id: 2108
+    Name: "그룸 언더 나이트"
+    JapaneseName: "그룸 언더 나이트"
+  - Id: 2109
+    Name: "발키리 란드그리스"
+    JapaneseName: "발키리 란드그리스"
+  - Id: 2110
+    Name: "이프리트"
+    JapaneseName: "이프리트"
+  - Id: 2111
+    Name: "화이트스미스 하워드"
+    JapaneseName: "화이트스미스 하워드"
+  - Id: 2112
+    Name: "로드나이트 세이렌"
+    JapaneseName: "로드나이트 세이렌"
+  - Id: 2113
+    Name: "어쌔신크로스 에레메스"
+    JapaneseName: "어쌔신크로스 에레메스"
+  - Id: 2126
+    Name: "위레스"
+    JapaneseName: "위레스"
+  - Id: 2127
+    Name: "호넷"
+    JapaneseName: "호넷"
+  - Id: 2128
+    Name: "호넷"
+    JapaneseName: "호넷"
+  - Id: 2129
+    Name: "루시올라 베스파"
+    JapaneseName: "루시올라 베스파"
+  - Id: 2130
+    Name: "루시올라 베스파"
+    JapaneseName: "루시올라 베스파"
+  - Id: 2131
+    Name: "길 잃은 드래곤"
+    JapaneseName: "길 잃은 드래곤"
   - Id: 2132
     Name: "폼 스파이더"
+    JapaneseName: "폼 스파이더"
   - Id: 2133
     Name: "앙그라 맨티스"
+    JapaneseName: "앙그라 맨티스"
+  - Id: 2134
+    Name: "파루스"
+    JapaneseName: "파루스"
+  - Id: 2135
+    Name: "크리퍼"
+    JapaneseName: "크리퍼"
   - Id: 2136
     Name: "꼬마 파툼"
+    JapaneseName: "꼬마 파툼"
   - Id: 2137
     Name: "미밍"
+    JapaneseName: "미밍"
+  - Id: 2138
+    Name: "니드호그의 기억"
+    JapaneseName: "니드호그의 기억"
+  - Id: 2139
+    Name: "니드호그의 기억"
+    JapaneseName: "니드호그의 기억"
+  - Id: 2140
+    Name: "니드호그의 기억"
+    JapaneseName: "니드호그의 기억"
+  - Id: 2141
+    Name: "니드호그의 기억"
+    JapaneseName: "니드호그의 기억"
+  - Id: 2142
+    Name: "니드호그의 기억"
+    JapaneseName: "니드호그의 기억"
+  - Id: 2143
+    Name: "니드호그의 기억"
+    JapaneseName: "니드호그의 기억"
+  - Id: 2144
+    Name: "사슴뿔 스카라바"
+    JapaneseName: "사슴뿔 스카라바"
+  - Id: 2145
+    Name: "갈퀴뿔 스카라바"
+    JapaneseName: "갈퀴뿔 스카라바"
+  - Id: 2146
+    Name: "용의 그림자"
+    JapaneseName: "용의 그림자"
+  - Id: 2147
+    Name: "하얀 풀"
+    JapaneseName: "하얀 풀"
+  - Id: 2148
+    Name: "파란 풀"
+    JapaneseName: "파란 풀"
+  - Id: 2149
+    Name: "세비지 베베"
+    JapaneseName: "세비지 베베"
+  - Id: 2150
+    Name: "잘 익은 수박"
+    JapaneseName: "잘 익은 수박"
   - Id: 2151
     Name: "라플레시아 알놀디"
+    JapaneseName: "라플레시아 알놀디"
   - Id: 2152
     Name: "코모도"
+    JapaneseName: "코모도"
   - Id: 2153
     Name: "센드라와시"
+    JapaneseName: "센드라와시"
   - Id: 2154
     Name: "바나스파티"
+    JapaneseName: "바나스파티"
   - Id: 2155
     Name: "부토 이조"
+    JapaneseName: "부토 이조"
   - Id: 2156
     Name: "무시무시한 릭"
+    JapaneseName: "무시무시한 릭"
+  - Id: 2157
+    Name: "바나스파티"
+    JapaneseName: "바나스파티"
+  - Id: 2158
+    Name: "호넷"
+    JapaneseName: "호넷"
+  - Id: 2159
+    Name: "자이언트 호넷"
+    JapaneseName: "자이언트 호넷"
+  - Id: 2160
+    Name: "루시올라 베스파"
+    JapaneseName: "루시올라 베스파"
   - Id: 2161
     Name: "외뿔 스카라바"
+    JapaneseName: "외뿔 스카라바"
   - Id: 2162
     Name: "쌍뿔 스카라바"
+    JapaneseName: "쌍뿔 스카라바"
   - Id: 2163
     Name: "사슴뿔 스카라바"
+    JapaneseName: "사슴뿔 스카라바"
   - Id: 2164
     Name: "갈퀴뿔 스카라바"
+    JapaneseName: "갈퀴뿔 스카라바"
   - Id: 2165
     Name: "여왕 스카라바"
+    JapaneseName: "여왕 스카라바"
   - Id: 2166
     Name: "외뿔 스카라바 알"
+    JapaneseName: "외뿔 스카라바 알"
   - Id: 2167
     Name: "쌍뿔 스카라바 알"
+    JapaneseName: "쌍뿔 스카라바 알"
   - Id: 2168
     Name: "사슴뿔 스카라바 알"
+    JapaneseName: "사슴뿔 스카라바 알"
   - Id: 2169
     Name: "갈퀴뿔 스카라바 알"
+    JapaneseName: "갈퀴뿔 스카라바 알"
+  - Id: 2170
+    Name: "사슴뿔 스카라바"
+    JapaneseName: "사슴뿔 스카라바"
+  - Id: 2171
+    Name: "갈퀴뿔 스카라바"
+    JapaneseName: "갈퀴뿔 스카라바"
+  - Id: 2172
+    Name: "외뿔 스카라바"
+    JapaneseName: "외뿔 스카라바"
+  - Id: 2173
+    Name: "쌍뿔 스카라바"
+    JapaneseName: "쌍뿔 스카라바"
+  - Id: 2174
+    Name: "심해의 바돈"
+    JapaneseName: "심해의 바돈"
+  - Id: 2175
+    Name: "심해의 마르스"
+    JapaneseName: "심해의 마르스"
+  - Id: 2176
+    Name: "심해의 게"
+    JapaneseName: "심해의 게"
+  - Id: 2177
+    Name: "심해의 커너투스"
+    JapaneseName: "심해의 커너투스"
+  - Id: 2178
+    Name: "심해의 조개"
+    JapaneseName: "심해의 조개"
+  - Id: 2179
+    Name: "심해의 쿠크레"
+    JapaneseName: "심해의 쿠크레"
+  - Id: 2180
+    Name: "심해의 스트라우프"
+    JapaneseName: "심해의 스트라우프"
+  - Id: 2181
+    Name: "심해의 소드 피쉬"
+    JapaneseName: "심해의 소드 피쉬"
+  - Id: 2182
+    Name: "심해의 마르크"
+    JapaneseName: "심해의 마르크"
+  - Id: 2183
+    Name: "심해의 아놀리안"
+    JapaneseName: "심해의 아놀리안"
+  - Id: 2184
+    Name: "심해의 오본느"
+    JapaneseName: "심해의 오본느"
+  - Id: 2185
+    Name: "심해의 카파"
+    JapaneseName: "심해의 카파"
+  - Id: 2186
+    Name: "실러캔스"
+    JapaneseName: "실러캔스"
+  - Id: 2187
+    Name: "음침한 실러캔스"
+    JapaneseName: "음침한 실러캔스"
+  - Id: 2188
+    Name: "기이한 실러캔스"
+    JapaneseName: "기이한 실러캔스"
+  - Id: 2189
+    Name: "돌연변이 실러캔스"
+    JapaneseName: "돌연변이 실러캔스"
+  - Id: 2190
+    Name: "난폭한 실러캔스"
+    JapaneseName: "난폭한 실러캔스"
+  - Id: 2191
+    Name: "해초"
+    JapaneseName: "해초"
+  - Id: 2192
+    Name: "문어"
+    JapaneseName: "문어"
+  - Id: 2193
+    Name: "문어 다리"
+    JapaneseName: "문어 다리"
+  - Id: 2194
+    Name: "자이언트 문어"
+    JapaneseName: "자이언트 문어"
+  - Id: 2195
+    Name: "쿠크레"
+    JapaneseName: "쿠크레"
+  - Id: 2196
+    Name: "스트라우프"
+    JapaneseName: "스트라우프"
   - Id: 2197
     Name: "빨강 에루마"
+    JapaneseName: "빨강 에루마"
   - Id: 2198
     Name: "킹 드라모"
+    JapaneseName: "킹 드라모"
   - Id: 2199
     Name: "시오라바"
+    JapaneseName: "시오라바"
+  - Id: 2200
+    Name: "타이니"
+    JapaneseName: "타이니"
   - Id: 2201
     Name: "스로포"
+    JapaneseName: "스로포"
   - Id: 2202
     Name: "크라켄"
+    JapaneseName: "크라켄"
   - Id: 2203
     Name: "도프레 항아리"
+    JapaneseName: "도프레 항아리"
   - Id: 2204
     Name: "세도라"
+    JapaneseName: "세도라"
+  - Id: 2206
+    Name: "크라켄 촉수"
+    JapaneseName: "크라켄 촉수"
   - Id: 2208
     Name: "와일드 라이더"
+    JapaneseName: "와일드 라이더"
+  - Id: 2209
+    Name: "도둑벌레"
+    JapaneseName: "도둑벌레"
+  - Id: 2210
+    Name: "크리스마스 눈토끼"
+    JapaneseName: "크리스마스 눈토끼"
+  - Id: 2211
+    Name: "크리스마스 곰인형"
+    JapaneseName: "크리스마스 곰인형"
+  - Id: 2212
+    Name: "폭풍의 기사"
+    JapaneseName: "폭풍의 기사"
+  - Id: 2213
+    Name: "배회하는 자"
+    JapaneseName: "배회하는 자"
+  - Id: 2214
+    Name: "요선녀"
+    JapaneseName: "요선녀"
+  - Id: 2215
+    Name: "카사"
+    JapaneseName: "카사"
+  - Id: 2216
+    Name: "살라만다"
+    JapaneseName: "살라만다"
+  - Id: 2217
+    Name: "곰인형"
+    JapaneseName: "곰인형"
+  - Id: 2218
+    Name: "문어 촉수"
+    JapaneseName: "문어 촉수"
+  - Id: 2219
+    Name: "자이언트 문어"
+    JapaneseName: "자이언트 문어"
+  - Id: 2220
+    Name: "악마의 전령"
+    JapaneseName: "악마의 전령"
   - Id: 2221
     Name: "랜달 로랜스"
+    JapaneseName: "랜달 로랜스"
   - Id: 2222
     Name: "플라멜 이뮬"
+    JapaneseName: "플라멜 이뮬"
   - Id: 2223
     Name: "실리아 알데"
+    JapaneseName: "실리아 알데"
   - Id: 2224
     Name: "첸 리우"
+    JapaneseName: "첸 리우"
   - Id: 2225
     Name: "거티 위"
+    JapaneseName: "거티 위"
   - Id: 2226
     Name: "아르보치오 바실"
+    JapaneseName: "아르보치오 바실"
   - Id: 2227
     Name: "트렌티니"
+    JapaneseName: "트렌티니"
   - Id: 2228
     Name: "팔라딘 랜달"
+    JapaneseName: "팔라딘 랜달"
   - Id: 2229
     Name: "크리에이터 플라멜"
+    JapaneseName: "크리에이터 플라멜"
   - Id: 2230
     Name: "프로페서 실리아"
+    JapaneseName: "프로페서 실리아"
   - Id: 2231
     Name: "챔피언 첸"
+    JapaneseName: "챔피언 첸"
   - Id: 2232
     Name: "스토커 거티"
+    JapaneseName: "스토커 거티"
   - Id: 2233
     Name: "크로운 아르보치오"
+    JapaneseName: "크로운 아르보치오"
   - Id: 2234
     Name: "집시 트렌티니"
+    JapaneseName: "집시 트렌티니"
+  - Id: 2235
+    Name: "팔라딘 랜달"
+    JapaneseName: "팔라딘 랜달"
+  - Id: 2236
+    Name: "크리에이터 플라멜"
+    JapaneseName: "크리에이터 플라멜"
+  - Id: 2237
+    Name: "프로페서 실리아"
+    JapaneseName: "프로페서 실리아"
+  - Id: 2238
+    Name: "챔피언 첸"
+    JapaneseName: "챔피언 첸"
+  - Id: 2239
+    Name: "스토커 거티"
+    JapaneseName: "스토커 거티"
+  - Id: 2240
+    Name: "크로운 아르보치오"
+    JapaneseName: "크로운 아르보치오"
+  - Id: 2241
+    Name: "집시 트렌티니"
+    JapaneseName: "집시 트렌티니"
+  - Id: 2242
+    Name: "데저트 울프"
+    JapaneseName: "데저트 울프"
+  - Id: 2243
+    Name: "데저트 울프"
+    JapaneseName: "데저트 울프"
+  - Id: 2244
+    Name: "다크 무술 마스터"
+    JapaneseName: "다크 무술 마스터"
+  - Id: 2245
+    Name: "경험 시험"
+    JapaneseName: "경험 시험"
+  - Id: 2246
+    Name: "우탄파이터"
+    JapaneseName: "우탄파이터"
+  - Id: 2247
+    Name: "식양"
+    JapaneseName: "식양"
+  - Id: 2248
+    Name: "골든 포링"
+    JapaneseName: "골든 포링"
+  - Id: 2249
+    Name: "성난 학생 퓨리엘"
+    JapaneseName: "성난 학생 퓨리엘"
+  - Id: 2250
+    Name: "워리어 라우라"
+    JapaneseName: "워리어 라우라"
+  - Id: 2251
+    Name: "지오이아"
+    JapaneseName: "지오이아"
+  - Id: 2252
+    Name: "엘비라"
+    JapaneseName: "엘비라"
+  - Id: 2253
+    Name: "대현 장군"
+    JapaneseName: "대현 장군"
+  - Id: 2254
+    Name: "사무라이 소헌"
+    JapaneseName: "사무라이 소헌"
+  - Id: 2255
+    Name: "다크 가디언 카데스"
+    JapaneseName: "다크 가디언 카데스"
+  - Id: 2256
+    Name: "루도"
+    JapaneseName: "루도"
+  - Id: 2257
+    Name: "피아메트"
+    JapaneseName: "피아메트"
+  - Id: 2258
+    Name: "피아메트"
+    JapaneseName: "피아메트"
+  - Id: 2259
+    Name: "정원지기"
+    JapaneseName: "정원지기"
+  - Id: 2260
+    Name: "정원지기"
+    JapaneseName: "정원지기"
+  - Id: 2261
+    Name: "정원 감시자"
+    JapaneseName: "정원 감시자"
+  - Id: 2262
+    Name: "정원 감시자"
+    JapaneseName: "정원 감시자"
+  - Id: 2263
+    Name: "소원의 소녀"
+    JapaneseName: "소원의 소녀"
+  - Id: 2264
+    Name: "아르마이어 딘제"
+    JapaneseName: "아르마이어 딘제"
+  - Id: 2265
+    Name: "아르마이어 딘제"
+    JapaneseName: "아르마이어 딘제"
+  - Id: 2266
+    Name: "이렌드 에베시"
+    JapaneseName: "이렌드 에베시"
+  - Id: 2267
+    Name: "이렌드 에베시"
+    JapaneseName: "이렌드 에베시"
+  - Id: 2268
+    Name: "카바크 이카루스"
+    JapaneseName: "카바크 이카루스"
+  - Id: 2269
+    Name: "카바크 이카루스"
+    JapaneseName: "카바크 이카루스"
+  - Id: 2270
+    Name: "라우렐 뷘더"
+    JapaneseName: "라우렐 뷘더"
+  - Id: 2271
+    Name: "라우렐 뷘더"
+    JapaneseName: "라우렐 뷘더"
+  - Id: 2272
+    Name: "휘케바인 트리스"
+    JapaneseName: "휘케바인 트리스"
+  - Id: 2273
+    Name: "휘케바인 트리스"
+    JapaneseName: "휘케바인 트리스"
+  - Id: 2274
+    Name: "이그니젬 세니아"
+    JapaneseName: "이그니젬 세니아"
+  - Id: 2275
+    Name: "이그니젬 세니아"
+    JapaneseName: "이그니젬 세니아"
+  - Id: 2276
+    Name: "도플갱어"
+    JapaneseName: "도플갱어"
+  - Id: 2277
+    Name: "워리어 라우라"
+    JapaneseName: "워리어 라우라"
+  - Id: 2278
+    Name: "엘비라"
+    JapaneseName: "엘비라"
+  - Id: 2279
+    Name: "사무라이 소헌"
+    JapaneseName: "사무라이 소헌"
+  - Id: 2280
+    Name: "루도"
+    JapaneseName: "루도"
+  - Id: 2281
+    Name: "다크 섀도우"
+    JapaneseName: "다크 섀도우"
+  - Id: 2282
+    Name: "다크 프레임"
+    JapaneseName: "다크 프레임"
+  - Id: 2283
+    Name: "다크 프리스트"
+    JapaneseName: "다크 프리스트"
+  - Id: 2284
+    Name: "다크 액스 코볼트"
+    JapaneseName: "다크 액스 코볼트"
+  - Id: 2285
+    Name: "다크 해머 코볼트"
+    JapaneseName: "다크 해머 코볼트"
+  - Id: 2286
+    Name: "다크 메이스 코볼트"
+    JapaneseName: "다크 메이스 코볼트"
+  - Id: 2287
+    Name: "다크 코볼트 아쳐"
+    JapaneseName: "다크 코볼트 아쳐"
+  - Id: 2288
+    Name: "보물상자"
+    JapaneseName: "보물상자"
+  - Id: 2289
+    Name: "파브르"
+    JapaneseName: "파브르"
+  - Id: 2290
+    Name: "도둑벌레"
+    JapaneseName: "도둑벌레"
+  - Id: 2291
+    Name: "호넷"
+    JapaneseName: "호넷"
+  - Id: 2292
+    Name: "호른"
+    JapaneseName: "호른"
+  - Id: 2293
+    Name: "투구벌레"
+    JapaneseName: "투구벌레"
+  - Id: 2294
+    Name: "아르지오프"
+    JapaneseName: "아르지오프"
+  - Id: 2295
+    Name: "자이언트 스파이더"
+    JapaneseName: "자이언트 스파이더"
+  - Id: 2296
+    Name: "킬러 맨티스"
+    JapaneseName: "킬러 맨티스"
+  - Id: 2297
+    Name: "자이언트 호넷"
+    JapaneseName: "자이언트 호넷"
+  - Id: 2298
+    Name: "드래곤 테일"
+    JapaneseName: "드래곤 테일"
+  - Id: 2299
+    Name: "스타이너"
+    JapaneseName: "스타이너"
+  - Id: 2300
+    Name: "촌촌"
+    JapaneseName: "촌촌"
+  - Id: 2301
+    Name: "스틸 촌촌"
+    JapaneseName: "스틸 촌촌"
+  - Id: 2302
+    Name: "헌터 플라이"
+    JapaneseName: "헌터 플라이"
+  - Id: 2303
+    Name: "마야"
+    JapaneseName: "마야"
+  - Id: 2304
+    Name: "퀸 스카라바"
+    JapaneseName: "퀸 스카라바"
+  - Id: 2305
+    Name: "운골리안트"
+    JapaneseName: "운골리안트"
+  - Id: 2306
+    Name: "황금 도둑벌레"
+    JapaneseName: "황금 도둑벌레"
+  - Id: 2307
+    Name: "미스트레스"
+    JapaneseName: "미스트레스"
+  - Id: 2308
+    Name: "잔조우"
+    JapaneseName: "잔조우"
   - Id: 2309
     Name: "붕이승이스"
+    JapaneseName: "붕이승이스"
   - Id: 2310
     Name: "엥컨토"
+    JapaneseName: "엥컨토"
   - Id: 2311
     Name: "머너넝걸"
+    JapaneseName: "머너넝걸"
   - Id: 2312
     Name: "멍쿠쿠럼"
+    JapaneseName: "멍쿠쿠럼"
   - Id: 2313
     Name: "틱버렁"
+    JapaneseName: "틱버렁"
   - Id: 2314
     Name: "티억넠"
+    JapaneseName: "티억넠"
   - Id: 2315
     Name: "웤웤"
+    JapaneseName: "웤웤"
   - Id: 2316
     Name: "제제링"
+    JapaneseName: "제제링"
+  - Id: 2317
+    Name: "방궁곳"
+    JapaneseName: "방궁곳"
+  - Id: 2318
+    Name: "방궁곳"
+    JapaneseName: "방궁곳"
+  - Id: 2319
+    Name: "부와야"
+    JapaneseName: "부와야"
+  - Id: 2320
+    Name: "바코나와"
+    JapaneseName: "바코나와"
+  - Id: 2321
+    Name: "바코나와"
+    JapaneseName: "바코나와"
+  - Id: 2322
+    Name: "바코나와"
+    JapaneseName: "바코나와"
+  - Id: 2323
+    Name: "폭탄 포링"
+    JapaneseName: "폭탄 포링"
+  - Id: 2324
+    Name: "페노메나"
+    JapaneseName: "페노메나"
+  - Id: 2325
+    Name: "바포메트"
+    JapaneseName: "바포메트"
+  - Id: 2326
+    Name: "갈라파고"
+    JapaneseName: "갈라파고"
+  - Id: 2327
+    Name: "방궁곳"
+    JapaneseName: "방궁곳"
+  - Id: 2328
+    Name: "드럼"
+    JapaneseName: "드럼"
+  - Id: 2329
+    Name: "부와야의 알"
+    JapaneseName: "부와야의 알"
+  - Id: 2330
+    Name: "노예"
+    JapaneseName: "노예"
+  - Id: 2331
+    Name: "해초"
+    JapaneseName: "해초"
+  - Id: 2332
+    Name: "부와야"
+    JapaneseName: "부와야"
+  - Id: 2333
+    Name: "약점"
+    JapaneseName: "약점"
+  - Id: 2334
+    Name: "웤웤"
+    JapaneseName: "웤웤"
+  - Id: 2335
+    Name: "바코나와의 보물"
+    JapaneseName: "바코나와의 보물"
+  - Id: 2336
+    Name: "도모보이"
+    JapaneseName: "도모보이"
+  - Id: 2337
+    Name: "몬스터"
+    JapaneseName: "몬스터"
+  - Id: 2338
+    Name: "머너넝걸"
+    JapaneseName: "머너넝걸"
+  - Id: 2339
+    Name: "멍쿠쿠럼"
+    JapaneseName: "멍쿠쿠럼"
+  - Id: 2340
+    Name: "티억넠"
+    JapaneseName: "티억넠"
+  - Id: 2341
+    Name: "2011 RWC 보스"
+    JapaneseName: "2011 RWC 보스"
+  - Id: 2342
+    Name: "디아볼릭"
+    JapaneseName: "디아볼릭"
+  - Id: 2343
+    Name: "숨겨진 몹"
+    JapaneseName: "숨겨진 몹"
+  - Id: 2344
+    Name: "소원의 소녀"
+    JapaneseName: "소원의 소녀"
+  - Id: 2345
+    Name: "지르타스"
+    JapaneseName: "지르타스"
+  - Id: 2346
+    Name: "크툴라눅스"
+    JapaneseName: "크툴라눅스"
+  - Id: 2347
+    Name: "에드가"
+    JapaneseName: "에드가"
+  - Id: 2348
+    Name: "묘괴"
+    JapaneseName: "묘괴"
+  - Id: 2349
+    Name: "로리루리"
+    JapaneseName: "로리루리"
+  - Id: 2350
+    Name: "세도라"
+    JapaneseName: "세도라"
+  - Id: 2351
+    Name: "체펫트"
+    JapaneseName: "체펫트"
+  - Id: 2352
+    Name: "RSX 0805"
+    JapaneseName: "RSX 0805"
   - Id: 2353
     Name: "마이너 우로스"
+    JapaneseName: "마이너 우로스"
   - Id: 2354
     Name: "미이라"
+    JapaneseName: "미이라"
   - Id: 2355
     Name: "베릿트"
+    JapaneseName: "베릿트"
   - Id: 2356
     Name: "미믹"
+    JapaneseName: "미믹"
+  - Id: 2357
+    Name: "미믹"
+    JapaneseName: "미믹"
   - Id: 2358
     Name: "아크라우스"
+    JapaneseName: "아크라우스"
+  - Id: 2359
+    Name: "아크라우스"
+    JapaneseName: "아크라우스"
   - Id: 2360
     Name: "에인션트 미이라"
+    JapaneseName: "에인션트 미이라"
+  - Id: 2361
+    Name: "에인션트 미이라"
+    JapaneseName: "에인션트 미이라"
   - Id: 2362
     Name: "아몬 라"
+    JapaneseName: "아몬 라"
   - Id: 2363
     Name: "맨블릿"
+    JapaneseName: "맨블릿"
   - Id: 2364
     Name: "페탈"
+    JapaneseName: "페탈"
   - Id: 2365
     Name: "체네레"
+    JapaneseName: "체네레"
   - Id: 2366
     Name: "훼손된 고서"
+    JapaneseName: "훼손된 고서"
   - Id: 2367
     Name: "리히테른"
+    JapaneseName: "리히테른"
   - Id: 2368
     Name: "리히테른"
+    JapaneseName: "리히테른"
   - Id: 2369
     Name: "리히테른"
+    JapaneseName: "리히테른"
   - Id: 2370
     Name: "리히테른"
+    JapaneseName: "리히테른"
   - Id: 2371
     Name: "성실한 눈동자"
+    JapaneseName: "성실한 눈동자"
+  - Id: 2372
+    Name: "흙"
+    JapaneseName: "흙"
+  - Id: 2373
+    Name: "돌"
+    JapaneseName: "돌"
+  - Id: 2374
+    Name: "덤불"
+    JapaneseName: "덤불"
+  - Id: 2375
+    Name: "모로크의 현신"
+    JapaneseName: "모로크의 현신"
+  - Id: 2376
+    Name: "모로크의 현신"
+    JapaneseName: "모로크의 현신"
+  - Id: 2377
+    Name: "노버스"
+    JapaneseName: "노버스"
+  - Id: 2378
+    Name: "사슴뿔 스카라바"
+    JapaneseName: "사슴뿔 스카라바"
+  - Id: 2379
+    Name: "양말 훔치는 너구리"
+    JapaneseName: "양말 훔치는 너구리"
+  - Id: 2380
+    Name: "선물 훔치는 너구리"
+    JapaneseName: "선물 훔치는 너구리"
   - Id: 2398
     Name: "풋내기 포링"
+    JapaneseName: "풋내기 포링"
   - Id: 2401
     Name: "포링"
+    JapaneseName: "포링"
+  - Id: 2402
+    Name: "포포링"
+    JapaneseName: "포포링"
+  - Id: 2403
+    Name: "포포링"
+    JapaneseName: "포포링"
   - Id: 2404
     Name: "디노피시스"
+    JapaneseName: "디노피시스"
   - Id: 2405
     Name: "그리슬"
+    JapaneseName: "그리슬"
   - Id: 2406
     Name: "티비아"
+    JapaneseName: "티비아"
+  - Id: 2407
+    Name: "선원 스켈레톤"
+    JapaneseName: "선원 스켈레톤"
   - Id: 2408
     Name: "Lv 10"
+    JapaneseName: "Lv 10"
+  - Id: 2409
+    Name: "더미 50"
+    JapaneseName: "더미 50"
+  - Id: 2410
+    Name: "더미 100"
+    JapaneseName: "더미 100"
+  - Id: 2411
+    Name: "더미 150"
+    JapaneseName: "더미 150"
   - Id: 2413
     Name: "Lv 10 (화속성)"
+    JapaneseName: "Lv 10 (화속성)"
+  - Id: 2415
+    Name: "나이트 세이렌"
+    JapaneseName: "나이트 세이렌"
+  - Id: 2416
+    Name: "어쌔신 에레메스"
+    JapaneseName: "어쌔신 에레메스"
+  - Id: 2417
+    Name: "블랙스미스 하워드"
+    JapaneseName: "블랙스미스 하워드"
+  - Id: 2418
+    Name: "헌터 세실"
+    JapaneseName: "헌터 세실"
+  - Id: 2419
+    Name: "위자드 캐서린"
+    JapaneseName: "위자드 캐서린"
+  - Id: 2420
+    Name: "프리스트 마가레사"
+    JapaneseName: "프리스트 마가레사"
+  - Id: 2421
+    Name: "크루세이더 에그니겜"
+    JapaneseName: "크루세이더 에그니겜"
+  - Id: 2422
+    Name: "로그 위케바인"
+    JapaneseName: "로그 위케바인"
+  - Id: 2423
+    Name: "알케미스트 아메이어"
+    JapaneseName: "알케미스트 아메이어"
+  - Id: 2424
+    Name: "바드 카바크"
+    JapaneseName: "바드 카바크"
+  - Id: 2425
+    Name: "댄서 조세핀"
+    JapaneseName: "댄서 조세핀"
+  - Id: 2426
+    Name: "세이지 로렐"
+    JapaneseName: "세이지 로렐"
+  - Id: 2427
+    Name: "몽크 에렌데"
+    JapaneseName: "몽크 에렌데"
+  - Id: 2428
+    Name: "나이트 세이렌"
+    JapaneseName: "나이트 세이렌"
+  - Id: 2429
+    Name: "어쌔신 에레메스"
+    JapaneseName: "어쌔신 에레메스"
+  - Id: 2430
+    Name: "블랙스미스 하워드"
+    JapaneseName: "블랙스미스 하워드"
+  - Id: 2431
+    Name: "헌터 세실"
+    JapaneseName: "헌터 세실"
+  - Id: 2432
+    Name: "위자드 캐서린"
+    JapaneseName: "위자드 캐서린"
+  - Id: 2433
+    Name: "프리스트 마가레사"
+    JapaneseName: "프리스트 마가레사"
+  - Id: 2434
+    Name: "크루세이더 에그니겜"
+    JapaneseName: "크루세이더 에그니겜"
+  - Id: 2435
+    Name: "로그 위케바인"
+    JapaneseName: "로그 위케바인"
+  - Id: 2436
+    Name: "알케미스트 아메이어"
+    JapaneseName: "알케미스트 아메이어"
+  - Id: 2437
+    Name: "바드 카바크"
+    JapaneseName: "바드 카바크"
+  - Id: 2438
+    Name: "댄서 조세핀"
+    JapaneseName: "댄서 조세핀"
+  - Id: 2439
+    Name: "세이지 로렐"
+    JapaneseName: "세이지 로렐"
+  - Id: 2440
+    Name: "몽크 에렌데"
+    JapaneseName: "몽크 에렌데"
+  - Id: 2441
+    Name: "마지막 하나"
+    JapaneseName: "마지막 하나"
+  - Id: 2442
+    Name: "골목대장"
+    JapaneseName: "골목대장"
+  - Id: 2443
+    Name: "아이라"
+    JapaneseName: "아이라"
+  - Id: 2444
+    Name: "쿨루나"
+    JapaneseName: "쿨루나"
+  - Id: 2445
+    Name: "말리나"
+    JapaneseName: "말리나"
+  - Id: 2446
+    Name: "에젤라"
+    JapaneseName: "에젤라"
+  - Id: 2447
+    Name: "루네"
+    JapaneseName: "루네"
+  - Id: 2448
+    Name: "모린"
+    JapaneseName: "모린"
+  - Id: 2449
+    Name: "나사린"
+    JapaneseName: "나사린"
+  - Id: 2450
+    Name: "도둑 포링"
+    JapaneseName: "도둑 포링"
+  - Id: 2451
+    Name: "이상한 아기 오크"
+    JapaneseName: "이상한 아기 오크"
+  - Id: 2452
+    Name: "보물상자"
+    JapaneseName: "보물상자"
+  - Id: 2453
+    Name: "보물상자"
+    JapaneseName: "보물상자"
+  - Id: 2454
+    Name: "보물상자"
+    JapaneseName: "보물상자"
+  - Id: 2455
+    Name: "보물상자"
+    JapaneseName: "보물상자"
+  - Id: 2456
+    Name: "보물상자"
+    JapaneseName: "보물상자"
+  - Id: 2457
+    Name: "보물상자"
+    JapaneseName: "보물상자"
+  - Id: 2458
+    Name: "보물상자"
+    JapaneseName: "보물상자"
+  - Id: 2459
+    Name: "보물상자"
+    JapaneseName: "보물상자"
+  - Id: 2460
+    Name: "보물상자"
+    JapaneseName: "보물상자"
+  - Id: 2461
+    Name: "보물상자"
+    JapaneseName: "보물상자"
+  - Id: 2462
+    Name: "보물상자"
+    JapaneseName: "보물상자"
+  - Id: 2464
+    Name: "오염된 집사"
+    JapaneseName: "오염된 집사"
+  - Id: 2465
+    Name: "오염된 몽크"
+    JapaneseName: "오염된 몽크"
+  - Id: 2466
+    Name: "고통스러운 상궁"
+    JapaneseName: "고통스러운 상궁"
+  - Id: 2467
+    Name: "구더기"
+    JapaneseName: "구더기"
+  - Id: 2468
+    Name: "오염된 궁전 경비병"
+    JapaneseName: "오염된 궁전 경비병"
+  - Id: 2469
+    Name: "방랑하는 아쳐"
+    JapaneseName: "방랑하는 아쳐"
+  - Id: 2470
+    Name: "오염된 어비셜 나이트"
+    JapaneseName: "오염된 어비셜 나이트"
+  - Id: 2471
+    Name: "고통받는 칼리츠버그"
+    JapaneseName: "고통받는 칼리츠버그"
+  - Id: 2472
+    Name: "피빛의 기사"
+    JapaneseName: "피빛의 기사"
+  - Id: 2473
+    Name: "파괴의 제1 사령관"
+    JapaneseName: "파괴의 제1 사령관"
+  - Id: 2474
+    Name: "파괴의 제2 사령관"
+    JapaneseName: "파괴의 제2 사령관"
+  - Id: 2475
+    Name: "타락한 영혼"
+    JapaneseName: "타락한 영혼"
+  - Id: 2476
+    Name: "암다레이스"
+    JapaneseName: "암다레이스"
   - Id: 2477
     Name: "방황하는 자"
+    JapaneseName: "방황하는 자"
   - Id: 2478
     Name: "저주받은 책"
+    JapaneseName: "저주받은 책"
   - Id: 2479
     Name: "저주받은 상자"
+    JapaneseName: "저주받은 상자"
   - Id: 2480
     Name: "타락한 성직자"
+    JapaneseName: "타락한 성직자"
   - Id: 2481
     Name: "원한의 묘지기"
+    JapaneseName: "원한의 묘지기"
   - Id: 2483
     Name: "악몽의 바포메트"
+    JapaneseName: "악몽의 바포메트"
+  - Id: 2484
+    Name: "나이트메어 바포메트 주니어"
+    JapaneseName: "나이트메어 바포메트 주니어"
   - Id: 2485
     Name: "악몽의 키메라"
+    JapaneseName: "악몽의 키메라"
+  - Id: 2528
+    Name: "페이스웜"
+    JapaneseName: "페이스웜"
+  - Id: 2529
+    Name: "페이스웜 퀸"
+    JapaneseName: "페이스웜 퀸"
+  - Id: 2530
+    Name: "다크 페이스웜"
+    JapaneseName: "다크 페이스웜"
+  - Id: 2531
+    Name: "베놈 버그"
+    JapaneseName: "베놈 버그"
+  - Id: 2532
+    Name: "레드 페이스웜 퀸"
+    JapaneseName: "레드 페이스웜 퀸"
+  - Id: 2533
+    Name: "그린 페이스웜 퀸"
+    JapaneseName: "그린 페이스웜 퀸"
+  - Id: 2534
+    Name: "블루 페이스웜 퀸"
+    JapaneseName: "블루 페이스웜 퀸"
+  - Id: 2535
+    Name: "옐로우 페이스웜 퀸"
+    JapaneseName: "옐로우 페이스웜 퀸"
+  - Id: 2536
+    Name: "몬스터 3"
+    JapaneseName: "몬스터 3"
+  - Id: 2537
+    Name: "몬스터 4"
+    JapaneseName: "몬스터 4"
+  - Id: 2539
+    Name: "몬스터 5"
+    JapaneseName: "몬스터 5"
+  - Id: 2540
+    Name: "페이스웜의 알"
+    JapaneseName: "페이스웜의 알"
+  - Id: 2541
+    Name: "페이스웜 유충"
+    JapaneseName: "페이스웜 유충"
+  - Id: 2542
+    Name: "도예니 이레네"
+    JapaneseName: "도예니 이레네"
+  - Id: 2543
+    Name: "제1 페이욘 병사"
+    JapaneseName: "제1 페이욘 병사"
+  - Id: 2544
+    Name: "제2 페이욘 병사"
+    JapaneseName: "제2 페이욘 병사"
+  - Id: 2545
+    Name: "제1 경비견"
+    JapaneseName: "제1 경비견"
+  - Id: 2546
+    Name: "제2 경비견"
+    JapaneseName: "제2 경비견"
+  - Id: 2549
+    Name: "아리"
+    JapaneseName: "아리"
+  - Id: 2550
+    Name: "디오 아네모스"
+    JapaneseName: "디오 아네모스"
+  - Id: 2551
+    Name: "게펜의 좀도둑"
+    JapaneseName: "게펜의 좀도둑"
+  - Id: 2552
+    Name: "게펜의 불량배"
+    JapaneseName: "게펜의 불량배"
+  - Id: 2553
+    Name: "게펜 갱단원"
+    JapaneseName: "게펜 갱단원"
+  - Id: 2554
+    Name: "페이몬트"
+    JapaneseName: "페이몬트"
+  - Id: 2555
+    Name: "오르드르"
+    JapaneseName: "오르드르"
+  - Id: 2556
+    Name: "블루트 하제"
+    JapaneseName: "블루트 하제"
+  - Id: 2557
+    Name: "쿠로 아쿠마"
+    JapaneseName: "쿠로 아쿠마"
+  - Id: 2558
+    Name: "이포데스"
+    JapaneseName: "이포데스"
+  - Id: 2559
+    Name: "리케니예스"
+    JapaneseName: "리케니예스"
+  - Id: 2560
+    Name: "오도릭"
+    JapaneseName: "오도릭"
+  - Id: 2561
+    Name: "쥬"
+    JapaneseName: "쥬"
+  - Id: 2562
+    Name: "드윅"
+    JapaneseName: "드윅"
+  - Id: 2563
+    Name: "페이 카나비안"
+    JapaneseName: "페이 카나비안"
+  - Id: 2564
+    Name: "펜리르"
+    JapaneseName: "펜리르"
+  - Id: 2565
+    Name: "알퐁스"
+    JapaneseName: "알퐁스"
+  - Id: 2566
+    Name: "알퐁스 주니어"
+    JapaneseName: "알퐁스 주니어"
+  - Id: 2567
+    Name: "게펜의 불량배"
+    JapaneseName: "게펜의 불량배"
+  - Id: 2568
+    Name: "게펜 갱단원"
+    JapaneseName: "게펜 갱단원"
+  - Id: 2569
+    Name: "위레스"
+    JapaneseName: "위레스"
+  - Id: 2570
+    Name: "산들바람"
+    JapaneseName: "산들바람"
+  - Id: 2571
+    Name: "부토 이조"
+    JapaneseName: "부토 이조"
+  - Id: 2572
+    Name: "카라멜"
+    JapaneseName: "카라멜"
+  - Id: 2573
+    Name: "촌촌"
+    JapaneseName: "촌촌"
+  - Id: 2574
+    Name: "공무원"
+    JapaneseName: "공무원"
+  - Id: 2575
+    Name: "코코"
+    JapaneseName: "코코"
+  - Id: 2576
+    Name: "크리미"
+    JapaneseName: "크리미"
+  - Id: 2577
+    Name: "파브르"
+    JapaneseName: "파브르"
+  - Id: 2578
+    Name: "호른"
+    JapaneseName: "호른"
+  - Id: 2579
+    Name: "하일로조이스트"
+    JapaneseName: "하일로조이스트"
+  - Id: 2580
+    Name: "카호"
+    JapaneseName: "카호"
+  - Id: 2581
+    Name: "루드"
+    JapaneseName: "루드"
+  - Id: 2582
+    Name: "루나틱"
+    JapaneseName: "루나틱"
+  - Id: 2583
+    Name: "마르틴"
+    JapaneseName: "마르틴"
+  - Id: 2584
+    Name: "미네랄"
+    JapaneseName: "미네랄"
+  - Id: 2585
+    Name: "두더지"
+    JapaneseName: "두더지"
+  - Id: 2586
+    Name: "네레이드"
+    JapaneseName: "네레이드"
+  - Id: 2587
+    Name: "옵시디언"
+    JapaneseName: "옵시디언"
+  - Id: 2588
+    Name: "핏맨"
+    JapaneseName: "핏맨"
+  - Id: 2589
+    Name: "포포링"
+    JapaneseName: "포포링"
+  - Id: 2590
+    Name: "로커"
+    JapaneseName: "로커"
+  - Id: 2591
+    Name: "세비지"
+    JapaneseName: "세비지"
+  - Id: 2592
+    Name: "시오라바"
+    JapaneseName: "시오라바"
+  - Id: 2593
+    Name: "시로마"
+    JapaneseName: "시로마"
+  - Id: 2594
+    Name: "스노이어"
+    JapaneseName: "스노이어"
+  - Id: 2595
+    Name: "스타이너"
+    JapaneseName: "스타이너"
+  - Id: 2596
+    Name: "스태포"
+    JapaneseName: "스태포"
+  - Id: 2597
+    Name: "스틸 촌촌"
+    JapaneseName: "스틸 촌촌"
+  - Id: 2598
+    Name: "운골리안트"
+    JapaneseName: "운골리안트"
+  - Id: 2599
+    Name: "와일드 라이더"
+    JapaneseName: "와일드 라이더"
+  - Id: 2600
+    Name: "울프"
+    JapaneseName: "울프"
+  - Id: 2601
+    Name: "요요"
+    JapaneseName: "요요"
+  - Id: 2602
+    Name: "지퍼베어"
+    JapaneseName: "지퍼베어"
   - Id: 2603
     Name: "빠른 좀비 슬러터"
+    JapaneseName: "빠른 좀비 슬러터"
   - Id: 2604
     Name: "튼튼한 좀비 프리즈너"
+    JapaneseName: "튼튼한 좀비 프리즈너"
+  - Id: 2605
+    Name: "좀비 마스터 두목"
+    JapaneseName: "좀비 마스터 두목"
   - Id: 2606
     Name: "분노의 좀비"
+    JapaneseName: "분노의 좀비"
+  - Id: 2607
+    Name: "종잡을 수 없는 자쿠담"
+    JapaneseName: "종잡을 수 없는 자쿠담"
   - Id: 2608
     Name: "빠른 요요"
+    JapaneseName: "빠른 요요"
   - Id: 2609
     Name: "튼튼한 요요"
+    JapaneseName: "튼튼한 요요"
   - Id: 2610
     Name: "두목 웜테일"
+    JapaneseName: "두목 웜테일"
   - Id: 2611
     Name: "분노의 우탄파이터"
+    JapaneseName: "분노의 우탄파이터"
   - Id: 2612
     Name: "떠도는 우드 고블린"
+    JapaneseName: "떠도는 우드 고블린"
   - Id: 2613
     Name: "빠른 울프"
+    JapaneseName: "빠른 울프"
   - Id: 2614
     Name: "튼튼한 윈드고스트"
+    JapaneseName: "튼튼한 윈드고스트"
   - Id: 2615
     Name: "두목 윌로우"
+    JapaneseName: "두목 윌로우"
   - Id: 2616
     Name: "분노의 와일드 로즈"
+    JapaneseName: "분노의 와일드 로즈"
   - Id: 2617
     Name: "떠도는 요선녀"
+    JapaneseName: "떠도는 요선녀"
   - Id: 2618
     Name: "튼튼한 위스퍼"
+    JapaneseName: "튼튼한 위스퍼"
   - Id: 2619
     Name: "두목 그리슬"
+    JapaneseName: "두목 그리슬"
   - Id: 2620
     Name: "분노의 배회하는 자"
+    JapaneseName: "분노의 배회하는 자"
   - Id: 2621
     Name: "떠도는 바이올리"
+    JapaneseName: "떠도는 바이올리"
   - Id: 2622
     Name: "빠른 바이올리"
+    JapaneseName: "빠른 바이올리"
   - Id: 2623
     Name: "튼튼한 바이올리"
+    JapaneseName: "튼튼한 바이올리"
   - Id: 2624
     Name: "두목 베노머스"
+    JapaneseName: "두목 베노머스"
   - Id: 2625
     Name: "분노의 베나투"
+    JapaneseName: "분노의 베나투"
   - Id: 2626
     Name: "떠도는 바바야가"
+    JapaneseName: "떠도는 바바야가"
   - Id: 2627
     Name: "빠른 판베르크"
+    JapaneseName: "빠른 판베르크"
   - Id: 2628
     Name: "튼튼한 바돈"
+    JapaneseName: "튼튼한 바돈"
+  - Id: 2629
+    Name: "웅골리안트 두목"
+    JapaneseName: "웅골리안트 두목"
   - Id: 2630
     Name: "분노의 투칸"
+    JapaneseName: "분노의 투칸"
   - Id: 2631
     Name: "떠도는 티억넠"
+    JapaneseName: "떠도는 티억넠"
   - Id: 2632
     Name: "튼튼한 도둑벌레"
+    JapaneseName: "튼튼한 도둑벌레"
   - Id: 2633
     Name: "두목 도둑벌레"
+    JapaneseName: "두목 도둑벌레"
   - Id: 2634
     Name: "분노의 도둑벌레"
+    JapaneseName: "분노의 도둑벌레"
   - Id: 2635
     Name: "떠도는 타라 프로그"
+    JapaneseName: "떠도는 타라 프로그"
   - Id: 2636
     Name: "빠른 곰인형"
+    JapaneseName: "빠른 곰인형"
   - Id: 2637
     Name: "튼튼한 따따초"
+    JapaneseName: "튼튼한 따따초"
   - Id: 2638
     Name: "두목 타로우"
+    JapaneseName: "두목 타로우"
   - Id: 2639
     Name: "분노의 탐루안"
+    JapaneseName: "분노의 탐루안"
   - Id: 2640
     Name: "떠도는 스팅"
+    JapaneseName: "떠도는 스팅"
   - Id: 2641
     Name: "빠른 스템웜"
+    JapaneseName: "빠른 스템웜"
   - Id: 2642
     Name: "튼튼한 스틸 촌촌"
+    JapaneseName: "튼튼한 스틸 촌촌"
   - Id: 2643
     Name: "두목 스태포"
+    JapaneseName: "두목 스태포"
   - Id: 2644
     Name: "분노의 스터랙틱 고렘"
+    JapaneseName: "분노의 스터랙틱 고렘"
   - Id: 2645
     Name: "떠도는 스타이너"
+    JapaneseName: "떠도는 스타이너"
   - Id: 2646
     Name: "빠른 스포아"
+    JapaneseName: "빠른 스포아"
   - Id: 2647
     Name: "튼튼한 솔리더"
+    JapaneseName: "튼튼한 솔리더"
   - Id: 2648
     Name: "두목 솔져 스켈레톤"
+    JapaneseName: "두목 솔져 스켈레톤"
   - Id: 2649
     Name: "분노의 솔져 스켈레톤"
+    JapaneseName: "분노의 솔져 스켈레톤"
+  - Id: 2650
+    Name: "종잡을 수 없는 레이디 솔레이스"
+    JapaneseName: "종잡을 수 없는 레이디 솔레이스"
   - Id: 2651
     Name: "빠른 소희"
+    JapaneseName: "빠른 소희"
   - Id: 2652
     Name: "튼튼한 스노이어"
+    JapaneseName: "튼튼한 스노이어"
   - Id: 2653
     Name: "두목 보아"
+    JapaneseName: "두목 보아"
   - Id: 2654
     Name: "분노의 스모키"
+    JapaneseName: "분노의 스모키"
   - Id: 2655
     Name: "떠도는 슬리퍼"
+    JapaneseName: "떠도는 슬리퍼"
   - Id: 2656
     Name: "빠른 슬리퍼"
+    JapaneseName: "빠른 슬리퍼"
   - Id: 2657
     Name: "튼튼한 스코글"
+    JapaneseName: "튼튼한 스코글"
+  - Id: 2658
+    Name: "스켈레톤 제네럴 두목"
+    JapaneseName: "스켈레톤 제네럴 두목"
+  - Id: 2659
+    Name: "분노한 스켈레톤 제네럴"
+    JapaneseName: "분노한 스켈레톤 제네럴"
   - Id: 2660
     Name: "떠도는 스켈 워커"
+    JapaneseName: "떠도는 스켈 워커"
   - Id: 2661
     Name: "빠른 시로마"
+    JapaneseName: "빠른 시로마"
   - Id: 2662
     Name: "튼튼한 사이드 와인더"
+    JapaneseName: "튼튼한 사이드 와인더"
   - Id: 2663
     Name: "두목 사이드 와인더"
+    JapaneseName: "두목 사이드 와인더"
   - Id: 2664
     Name: "분노의 시노비"
+    JapaneseName: "분노의 시노비"
+  - Id: 2665
+    Name: "종잡을 수 없는 쉘터의 미스트레스"
+    JapaneseName: "종잡을 수 없는 쉘터의 미스트레스"
   - Id: 2666
     Name: "빠른 조개"
+    JapaneseName: "빠른 조개"
   - Id: 2667
     Name: "튼튼한 셰실 디먼"
+    JapaneseName: "튼튼한 셰실 디먼"
   - Id: 2668
     Name: "두목 해달"
+    JapaneseName: "두목 해달"
   - Id: 2669
     Name: "분노의 세도라"
+    JapaneseName: "분노의 세도라"
   - Id: 2670
     Name: "떠도는 스콜피온"
+    JapaneseName: "떠도는 스콜피온"
   - Id: 2671
     Name: "빠른 세비지 베베"
+    JapaneseName: "빠른 세비지 베베"
   - Id: 2672
     Name: "튼튼한 세비지"
+    JapaneseName: "튼튼한 세비지"
   - Id: 2673
     Name: "두목 세비지"
+    JapaneseName: "두목 세비지"
   - Id: 2674
     Name: "분노의 샌드맨"
+    JapaneseName: "분노의 샌드맨"
   - Id: 2675
     Name: "떠도는 살라만다"
+    JapaneseName: "떠도는 살라만다"
   - Id: 2676
     Name: "빠른 파이어럿 스켈"
+    JapaneseName: "빠른 파이어럿 스켈"
   - Id: 2677
     Name: "튼튼한 로우윈"
+    JapaneseName: "튼튼한 로우윈"
   - Id: 2678
     Name: "두목 로다 프로그"
+    JapaneseName: "두목 로다 프로그"
   - Id: 2679
     Name: "분노의 로다 프로그"
+    JapaneseName: "분노의 로다 프로그"
   - Id: 2680
     Name: "떠도는 로커"
+    JapaneseName: "떠도는 로커"
   - Id: 2681
     Name: "빠른 라이드워드"
+    JapaneseName: "빠른 라이드워드"
   - Id: 2682
     Name: "튼튼한 라이드워드"
+    JapaneseName: "튼튼한 라이드워드"
   - Id: 2683
     Name: "두목 경단동자"
+    JapaneseName: "두목 경단동자"
+  - Id: 2684
+    Name: "분노한 복수의 남작부인"
+    JapaneseName: "분노한 복수의 남작부인"
   - Id: 2685
     Name: "떠도는 신벌의 대행자"
+    JapaneseName: "떠도는 신벌의 대행자"
   - Id: 2686
     Name: "빠른 신벌의 대행자"
+    JapaneseName: "빠른 신벌의 대행자"
   - Id: 2687
     Name: "튼튼한 레퀴엠"
+    JapaneseName: "튼튼한 레퀴엠"
   - Id: 2688
     Name: "두목 리무버"
+    JapaneseName: "두목 리무버"
   - Id: 2689
     Name: "떠도는 빨강 에루마"
+    JapaneseName: "떠도는 빨강 에루마"
   - Id: 2690
     Name: "빠른 레이드릭"
+    JapaneseName: "빠른 레이드릭"
   - Id: 2691
     Name: "튼튼한 레이드릭"
+    JapaneseName: "튼튼한 레이드릭"
   - Id: 2692
     Name: "두목 라우렐 뷘더"
+    JapaneseName: "두목 라우렐 뷘더"
+  - Id: 2693
+    Name: "분노한 레이크 스카라바"
+    JapaneseName: "분노한 레이크 스카라바"
   - Id: 2694
     Name: "떠도는 레글러"
+    JapaneseName: "떠도는 레글러"
   - Id: 2695
     Name: "빠른 라플레시아"
+    JapaneseName: "빠른 라플레시아"
   - Id: 2696
     Name: "두목 포링"
+    JapaneseName: "두목 포링"
   - Id: 2697
     Name: "분노의 포링"
+    JapaneseName: "분노의 포링"
   - Id: 2698
     Name: "떠도는 포링"
+    JapaneseName: "떠도는 포링"
   - Id: 2699
     Name: "빠른 포링"
+    JapaneseName: "빠른 포링"
   - Id: 2700
     Name: "튼튼한 폴셀리오"
+    JapaneseName: "튼튼한 폴셀리오"
   - Id: 2701
     Name: "두목 포포링"
+    JapaneseName: "두목 포포링"
   - Id: 2702
     Name: "분노의 포포링"
+    JapaneseName: "분노의 포포링"
   - Id: 2703
     Name: "떠도는 포포링"
+    JapaneseName: "떠도는 포포링"
   - Id: 2704
     Name: "빠른 독두꺼비"
+    JapaneseName: "빠른 독두꺼비"
   - Id: 2705
     Name: "튼튼한 포이즌 스포아"
+    JapaneseName: "튼튼한 포이즌 스포아"
   - Id: 2706
     Name: "두목 플라즈마"
+    JapaneseName: "두목 플라즈마"
   - Id: 2707
     Name: "분노의 플랑크톤"
+    JapaneseName: "분노의 플랑크톤"
   - Id: 2708
     Name: "떠도는 핏맨"
+    JapaneseName: "떠도는 핏맨"
   - Id: 2709
     Name: "빠른 피라니아"
+    JapaneseName: "빠른 피라니아"
   - Id: 2710
     Name: "튼튼한 핀귀큘라 다크"
+    JapaneseName: "튼튼한 핀귀큘라 다크"
   - Id: 2711
     Name: "두목 핀귀큘라"
+    JapaneseName: "두목 핀귀큘라"
   - Id: 2712
     Name: "분노의 픽키"
+    JapaneseName: "분노의 픽키"
   - Id: 2713
     Name: "떠도는 휀"
+    JapaneseName: "떠도는 휀"
   - Id: 2714
     Name: "빠른 쁘띠"
+    JapaneseName: "빠른 쁘띠"
   - Id: 2715
     Name: "튼튼한 쁘띠"
+    JapaneseName: "튼튼한 쁘띠"
   - Id: 2716
     Name: "두목 페노메나"
+    JapaneseName: "두목 페노메나"
   - Id: 2717
     Name: "분노의 페노메나"
+    JapaneseName: "분노의 페노메나"
   - Id: 2718
     Name: "떠도는 페코페코"
+    JapaneseName: "떠도는 페코페코"
   - Id: 2719
     Name: "빠른 파사나"
+    JapaneseName: "빠른 파사나"
   - Id: 2720
     Name: "튼튼한 패러사이트"
+    JapaneseName: "튼튼한 패러사이트"
   - Id: 2721
     Name: "두목 아울 듀크"
+    JapaneseName: "두목 아울 듀크"
   - Id: 2722
     Name: "분노의 오크 워리어"
+    JapaneseName: "분노의 오크 워리어"
   - Id: 2723
     Name: "떠도는 오크 좀비"
+    JapaneseName: "떠도는 오크 좀비"
   - Id: 2724
     Name: "빠른 오크 스켈레톤"
+    JapaneseName: "빠른 오크 스켈레톤"
   - Id: 2725
     Name: "튼튼한 오크 레이디"
+    JapaneseName: "튼튼한 오크 레이디"
+  - Id: 2726
+    Name: "파수병의 여인 두목"
+    JapaneseName: "파수병의 여인 두목"
   - Id: 2727
     Name: "분노의 녹시어스"
+    JapaneseName: "분노의 녹시어스"
   - Id: 2728
     Name: "떠도는 노버스"
+    JapaneseName: "떠도는 노버스"
   - Id: 2729
     Name: "빠른 노버스"
+    JapaneseName: "빠른 노버스"
   - Id: 2730
     Name: "튼튼한 노버스"
+    JapaneseName: "튼튼한 노버스"
   - Id: 2731
     Name: "두목 노버스"
+    JapaneseName: "두목 노버스"
   - Id: 2732
     Name: "분노의 나이트메어 테러"
+    JapaneseName: "분노의 나이트메어 테러"
   - Id: 2733
     Name: "떠도는 원한의 묘지기"
+    JapaneseName: "떠도는 원한의 묘지기"
   - Id: 2734
     Name: "빠른 방황하는 자"
+    JapaneseName: "빠른 방황하는 자"
   - Id: 2735
     Name: "튼튼한 네펜데스"
+    JapaneseName: "튼튼한 네펜데스"
   - Id: 2736
     Name: "두목 네크로맨서"
+    JapaneseName: "두목 네크로맨서"
   - Id: 2737
     Name: "분노의 미스트 케이스"
+    JapaneseName: "분노의 미스트 케이스"
   - Id: 2738
     Name: "떠도는 머스키퓰라"
+    JapaneseName: "떠도는 머스키퓰라"
   - Id: 2739
     Name: "빠른 미이라"
+    JapaneseName: "빠른 미이라"
   - Id: 2740
     Name: "튼튼한 미이라"
+    JapaneseName: "튼튼한 미이라"
   - Id: 2741
     Name: "두목 무카"
+    JapaneseName: "두목 무카"
   - Id: 2742
     Name: "분노의 모로크의 현신"
+    JapaneseName: "분노의 모로크의 현신"
+  - Id: 2743
+    Name: "종잡을 수 없는 모로크의 화신"
+    JapaneseName: "종잡을 수 없는 모로크의 화신"
   - Id: 2744
     Name: "빠른 모로크의 현신"
+    JapaneseName: "빠른 모로크의 현신"
   - Id: 2745
     Name: "튼튼한 홀덴"
+    JapaneseName: "튼튼한 홀덴"
   - Id: 2746
     Name: "두목 미야비 인형"
+    JapaneseName: "두목 미야비 인형"
   - Id: 2747
     Name: "분노의 마이너 우로스"
+    JapaneseName: "분노의 마이너 우로스"
   - Id: 2748
     Name: "떠도는 마이너 우로스"
+    JapaneseName: "떠도는 마이너 우로스"
   - Id: 2749
     Name: "빠른 마이너 우로스"
+    JapaneseName: "빠른 마이너 우로스"
   - Id: 2750
     Name: "튼튼한 미네랄"
+    JapaneseName: "튼튼한 미네랄"
   - Id: 2751
     Name: "두목 미밍"
+    JapaneseName: "두목 미밍"
   - Id: 2752
     Name: "분노의 미믹"
+    JapaneseName: "분노의 미믹"
   - Id: 2753
     Name: "떠도는 미믹"
+    JapaneseName: "떠도는 미믹"
   - Id: 2754
     Name: "빠른 메틀러"
+    JapaneseName: "빠른 메틀러"
   - Id: 2755
     Name: "튼튼한 메탈링"
+    JapaneseName: "튼튼한 메탈링"
   - Id: 2756
     Name: "두목 메탈링"
+    JapaneseName: "두목 메탈링"
   - Id: 2757
     Name: "분노의 머맨"
+    JapaneseName: "분노의 머맨"
   - Id: 2758
     Name: "떠도는 맨블릿"
+    JapaneseName: "떠도는 맨블릿"
   - Id: 2759
     Name: "빠른 메두사"
+    JapaneseName: "빠른 메두사"
   - Id: 2760
     Name: "튼튼한 마르틴"
+    JapaneseName: "튼튼한 마르틴"
   - Id: 2761
     Name: "두목 마리오네트"
+    JapaneseName: "두목 마리오네트"
   - Id: 2762
     Name: "분노의 마린"
+    JapaneseName: "분노의 마린"
   - Id: 2763
     Name: "떠도는 마르두크"
+    JapaneseName: "떠도는 마르두크"
   - Id: 2764
     Name: "빠른 맨티스"
+    JapaneseName: "빠른 맨티스"
   - Id: 2765
     Name: "튼튼한 만드라고라"
+    JapaneseName: "튼튼한 만드라고라"
   - Id: 2766
     Name: "두목 머너넝걸"
+    JapaneseName: "두목 머너넝걸"
   - Id: 2767
     Name: "분노의 메이저우로스"
+    JapaneseName: "분노의 메이저우로스"
   - Id: 2768
     Name: "떠도는 백련옥"
+    JapaneseName: "떠도는 백련옥"
   - Id: 2769
     Name: "빠른 마그마링"
+    JapaneseName: "빠른 마그마링"
   - Id: 2770
     Name: "튼튼한 루나틱"
+    JapaneseName: "튼튼한 루나틱"
   - Id: 2771
     Name: "두목 루나틱"
+    JapaneseName: "두목 루나틱"
   - Id: 2772
     Name: "분노의 루드"
+    JapaneseName: "분노의 루드"
   - Id: 2773
     Name: "떠도는 루시올라 베스파"
+    JapaneseName: "떠도는 루시올라 베스파"
   - Id: 2774
     Name: "빠른 로리루리"
+    JapaneseName: "빠른 로리루리"
   - Id: 2775
     Name: "튼튼한 생도목"
+    JapaneseName: "튼튼한 생도목"
+  - Id: 2776
+    Name: "베이비 포링 두목"
+    JapaneseName: "베이비 포링 두목"
   - Id: 2777
     Name: "분노의 꼬마 파툼"
+    JapaneseName: "분노의 꼬마 파툼"
   - Id: 2778
     Name: "떠도는 이매망량"
+    JapaneseName: "떠도는 이매망량"
   - Id: 2779
     Name: "빠른 레스"
+    JapaneseName: "빠른 레스"
+  - Id: 2780
+    Name: "단단한 라이브 올마이"
+    JapaneseName: "단단한 라이브 올마이"
   - Id: 2781
     Name: "두목 리프캣"
+    JapaneseName: "두목 리프캣"
+  - Id: 2782
+    Name: "분노한 위케바인 트레스"
+    JapaneseName: "분노한 위케바인 트레스"
+  - Id: 2783
+    Name: "종잡을 수 없는 에레메스"
+    JapaneseName: "종잡을 수 없는 에레메스"
   - Id: 2784
     Name: "빠른 코볼트 아쳐"
+    JapaneseName: "빠른 코볼트 아쳐"
   - Id: 2785
     Name: "튼튼한 코볼트"
+    JapaneseName: "튼튼한 코볼트"
   - Id: 2786
     Name: "두목 노커"
+    JapaneseName: "두목 노커"
   - Id: 2787
     Name: "분노의 투구벌레"
+    JapaneseName: "분노의 투구벌레"
   - Id: 2788
     Name: "떠도는 카사"
+    JapaneseName: "떠도는 카사"
   - Id: 2789
     Name: "빠른 카라카사"
+    JapaneseName: "빠른 카라카사"
   - Id: 2790
     Name: "튼튼한 이시스"
+    JapaneseName: "튼튼한 이시스"
   - Id: 2791
     Name: "두목 이실라"
+    JapaneseName: "두목 이실라"
   - Id: 2792
     Name: "분노의 인저스티스"
+    JapaneseName: "분노의 인저스티스"
   - Id: 2793
     Name: "떠도는 식양"
+    JapaneseName: "떠도는 식양"
   - Id: 2794
     Name: "빠른 아이스 티탄"
+    JapaneseName: "빠른 아이스 티탄"
   - Id: 2795
     Name: "튼튼한 이아라"
+    JapaneseName: "튼튼한 이아라"
   - Id: 2796
     Name: "두목 혜군"
+    JapaneseName: "두목 혜군"
   - Id: 2797
     Name: "분노의 헌터 플라이"
+    JapaneseName: "분노의 헌터 플라이"
   - Id: 2798
     Name: "떠도는 호넷"
+    JapaneseName: "떠도는 호넷"
   - Id: 2799
     Name: "빠른 외뿔 스카라바"
+    JapaneseName: "빠른 외뿔 스카라바"
   - Id: 2800
     Name: "튼튼한 호른"
+    JapaneseName: "튼튼한 호른"
   - Id: 2801
     Name: "두목 호드렘린"
+    JapaneseName: "두목 호드렘린"
   - Id: 2802
     Name: "분노의 호드"
+    JapaneseName: "분노의 호드"
   - Id: 2803
     Name: "떠도는 힐 윈드"
+    JapaneseName: "떠도는 힐 윈드"
   - Id: 2804
     Name: "빠른 힐 윈드"
+    JapaneseName: "빠른 힐 윈드"
   - Id: 2805
     Name: "튼튼한 하이 오크"
+    JapaneseName: "튼튼한 하이 오크"
   - Id: 2806
     Name: "두목 하피"
+    JapaneseName: "두목 하피"
   - Id: 2807
     Name: "분노의 하피"
+    JapaneseName: "분노의 하피"
   - Id: 2808
     Name: "떠도는 그로브"
+    JapaneseName: "떠도는 그로브"
   - Id: 2809
     Name: "빠른 천하대장군"
+    JapaneseName: "빠른 천하대장군"
   - Id: 2810
     Name: "튼튼한 그랜드 페코"
+    JapaneseName: "튼튼한 그랜드 페코"
   - Id: 2811
     Name: "두목 그랜드 페코"
+    JapaneseName: "두목 그랜드 페코"
   - Id: 2812
     Name: "분노의 고렘"
+    JapaneseName: "분노의 고렘"
   - Id: 2813
     Name: "떠도는 고블린"
+    JapaneseName: "떠도는 고블린"
   - Id: 2814
     Name: "빠른 고블린"
+    JapaneseName: "빠른 고블린"
   - Id: 2815
     Name: "튼튼한 고우트"
+    JapaneseName: "튼튼한 고우트"
   - Id: 2816
     Name: "두목 고우트"
+    JapaneseName: "두목 고우트"
+  - Id: 2817
+    Name: "분노한 다크 해머 코볼트"
+    JapaneseName: "분노한 다크 해머 코볼트"
+  - Id: 2818
+    Name: "종잡을 수 없는 다크 해머 코볼트"
+    JapaneseName: "종잡을 수 없는 다크 해머 코볼트"
+  - Id: 2819
+    Name: "날렵한 다크 섀도우"
+    JapaneseName: "날렵한 다크 섀도우"
+  - Id: 2820
+    Name: "단단한 다크 섀도우"
+    JapaneseName: "단단한 다크 섀도우"
+  - Id: 2821
+    Name: "자이언트 호넷 두목"
+    JapaneseName: "자이언트 호넷 두목"
   - Id: 2822
     Name: "분노의 구울"
+    JapaneseName: "분노의 구울"
   - Id: 2823
     Name: "떠도는 구울"
+    JapaneseName: "떠도는 구울"
   - Id: 2824
     Name: "빠른 지오그래퍼"
+    JapaneseName: "빠른 지오그래퍼"
   - Id: 2825
     Name: "튼튼한 지오그래퍼"
+    JapaneseName: "튼튼한 지오그래퍼"
   - Id: 2826
     Name: "두목 가고일"
+    JapaneseName: "두목 가고일"
   - Id: 2827
     Name: "분노의 가고일"
+    JapaneseName: "분노의 가고일"
   - Id: 2828
     Name: "떠도는 갈리온"
+    JapaneseName: "떠도는 갈리온"
   - Id: 2829
     Name: "빠른 퍼씰"
+    JapaneseName: "빠른 퍼씰"
   - Id: 2830
     Name: "튼튼한 프리저"
+    JapaneseName: "튼튼한 프리저"
   - Id: 2831
     Name: "두목 프리저"
+    JapaneseName: "두목 프리저"
   - Id: 2832
     Name: "분노의 페러스"
+    JapaneseName: "분노의 페러스"
   - Id: 2833
     Name: "떠도는 퍼밀리어"
+    JapaneseName: "떠도는 퍼밀리어"
   - Id: 2834
     Name: "빠른 페이크 엔젤"
+    JapaneseName: "빠른 페이크 엔젤"
   - Id: 2835
     Name: "튼튼한 파브르"
+    JapaneseName: "튼튼한 파브르"
   - Id: 2836
     Name: "두목 파브르"
+    JapaneseName: "두목 파브르"
   - Id: 2837
     Name: "분노의 익스플로젼"
+    JapaneseName: "분노의 익스플로젼"
   - Id: 2838
     Name: "떠도는 이블 드루이드"
+    JapaneseName: "떠도는 이블 드루이드"
   - Id: 2839
     Name: "빠른 엘더 윌로우"
+    JapaneseName: "빠른 엘더 윌로우"
   - Id: 2840
     Name: "튼튼한 엘더 윌로우"
+    JapaneseName: "튼튼한 엘더 윌로우"
   - Id: 2841
     Name: "두목 에키오"
+    JapaneseName: "두목 에키오"
   - Id: 2842
     Name: "분노의 더스티네스"
+    JapaneseName: "분노의 더스티네스"
   - Id: 2843
     Name: "빠른 드라이어드"
+    JapaneseName: "빠른 드라이어드"
   - Id: 2844
     Name: "튼튼한 드로세라"
+    JapaneseName: "튼튼한 드로세라"
   - Id: 2845
     Name: "두목 드롭프스"
+    JapaneseName: "두목 드롭프스"
   - Id: 2846
     Name: "분노의 드릴러"
+    JapaneseName: "분노의 드릴러"
   - Id: 2847
     Name: "떠도는 드레인리어"
+    JapaneseName: "떠도는 드레인리어"
   - Id: 2848
     Name: "빠른 드래곤 테일"
+    JapaneseName: "빠른 드래곤 테일"
   - Id: 2849
     Name: "튼튼한 드라코"
+    JapaneseName: "튼튼한 드라코"
   - Id: 2850
     Name: "두목 돌로메데스"
+    JapaneseName: "두목 돌로메데스"
   - Id: 2851
     Name: "분노의 도깨비"
+    JapaneseName: "분노의 도깨비"
   - Id: 2852
     Name: "떠도는 디스가이즈"
+    JapaneseName: "떠도는 디스가이즈"
   - Id: 2853
     Name: "빠른 디미크"
+    JapaneseName: "빠른 디미크"
   - Id: 2854
     Name: "튼튼한 데비루치"
+    JapaneseName: "튼튼한 데비루치"
   - Id: 2855
     Name: "두목 데저트 울프"
+    JapaneseName: "두목 데저트 울프"
   - Id: 2856
     Name: "분노의 데저트 울프"
+    JapaneseName: "분노의 데저트 울프"
   - Id: 2857
     Name: "떠도는 데니로"
+    JapaneseName: "떠도는 데니로"
   - Id: 2858
     Name: "빠른 데스워드"
+    JapaneseName: "빠른 데스워드"
   - Id: 2859
     Name: "튼튼한 데스워드"
+    JapaneseName: "튼튼한 데스워드"
   - Id: 2860
     Name: "두목 데스워드"
+    JapaneseName: "두목 데스워드"
+  - Id: 2861
+    Name: "분노한 다크 프리스트"
+    JapaneseName: "분노한 다크 프리스트"
   - Id: 2862
     Name: "떠도는 저파룡"
+    JapaneseName: "떠도는 저파룡"
   - Id: 2863
     Name: "빠른 크리미"
+    JapaneseName: "빠른 크리미"
   - Id: 2864
     Name: "튼튼한 커너투스"
+    JapaneseName: "튼튼한 커너투스"
   - Id: 2865
     Name: "두목 쿠키"
+    JapaneseName: "두목 쿠키"
+  - Id: 2866
+    Name: "분노한 콘스탄트"
+    JapaneseName: "분노한 콘스탄트"
   - Id: 2867
     Name: "떠도는 코모도"
+    JapaneseName: "떠도는 코모도"
   - Id: 2868
     Name: "빠른 코코"
+    JapaneseName: "빠른 코코"
   - Id: 2869
     Name: "튼튼한 코코"
+    JapaneseName: "튼튼한 코코"
   - Id: 2870
     Name: "두목 클락"
+    JapaneseName: "두목 클락"
   - Id: 2871
     Name: "분노의 클락"
+    JapaneseName: "분노의 클락"
   - Id: 2872
     Name: "떠도는 촌촌"
+    JapaneseName: "떠도는 촌촌"
   - Id: 2873
     Name: "빠른 센티페데"
+    JapaneseName: "빠른 센티페데"
   - Id: 2874
     Name: "튼튼한 체네레"
+    JapaneseName: "튼튼한 체네레"
   - Id: 2875
     Name: "두목 실리아 알데"
+    JapaneseName: "두목 실리아 알데"
+  - Id: 2876
+    Name: "분노한 캐터필러"
+    JapaneseName: "분노한 캐터필러"
   - Id: 2877
     Name: "떠도는 캐럿"
+    JapaneseName: "떠도는 캐럿"
   - Id: 2878
     Name: "빠른 카라멜"
+    JapaneseName: "빠른 카라멜"
   - Id: 2879
     Name: "튼튼한 붕이승이스"
+    JapaneseName: "튼튼한 붕이승이스"
   - Id: 2880
     Name: "두목 산들바람"
+    JapaneseName: "두목 산들바람"
   - Id: 2881
     Name: "분노의 산들바람"
+    JapaneseName: "분노의 산들바람"
   - Id: 2882
     Name: "떠도는 브라디움 골렘"
+    JapaneseName: "떠도는 브라디움 골렘"
   - Id: 2883
     Name: "빠른 혈호접"
+    JapaneseName: "빠른 혈호접"
   - Id: 2884
     Name: "두목 빅풋"
+    JapaneseName: "두목 빅풋"
   - Id: 2885
     Name: "분노의 바소리"
+    JapaneseName: "분노의 바소리"
+  - Id: 2886
+    Name: "종잡을 수 없는 밴시 마스터"
+    JapaneseName: "종잡을 수 없는 밴시 마스터"
   - Id: 2887
     Name: "빠른 밴시"
+    JapaneseName: "빠른 밴시"
   - Id: 2888
     Name: "튼튼한 바나스파티"
+    JapaneseName: "튼튼한 바나스파티"
   - Id: 2889
     Name: "두목 어절터"
+    JapaneseName: "두목 어절터"
   - Id: 2890
     Name: "분노의 아르고스"
+    JapaneseName: "분노의 아르고스"
   - Id: 2891
     Name: "떠도는 아르지오프"
+    JapaneseName: "떠도는 아르지오프"
   - Id: 2892
     Name: "빠른 아르지오프"
+    JapaneseName: "빠른 아르지오프"
   - Id: 2893
     Name: "튼튼한 아크라우스"
+    JapaneseName: "튼튼한 아크라우스"
   - Id: 2894
     Name: "두목 아크라우스"
+    JapaneseName: "두목 아크라우스"
   - Id: 2895
     Name: "분노의 아포칼립스"
+    JapaneseName: "분노의 아포칼립스"
   - Id: 2896
     Name: "떠도는 사슴뿔 스카라바"
+    JapaneseName: "떠도는 사슴뿔 스카라바"
   - Id: 2897
     Name: "빠른 훼손된 고서"
+    JapaneseName: "빠른 훼손된 고서"
   - Id: 2898
     Name: "튼튼한 훼손된 고서"
+    JapaneseName: "튼튼한 훼손된 고서"
   - Id: 2899
     Name: "분노의 아놀리안"
+    JapaneseName: "분노의 아놀리안"
+  - Id: 2900
+    Name: "종잡을 수 없는 앙그라 맨티스"
+    JapaneseName: "종잡을 수 없는 앙그라 맨티스"
+  - Id: 2901
+    Name: "날렵한 앙그라 맨티스"
+    JapaneseName: "날렵한 앙그라 맨티스"
   - Id: 2902
     Name: "튼튼한 앙드레"
+    JapaneseName: "튼튼한 앙드레"
   - Id: 2903
     Name: "두목 에인션트 미믹"
+    JapaneseName: "두목 에인션트 미믹"
   - Id: 2904
     Name: "분노의 아나콘다크"
+    JapaneseName: "분노의 아나콘다크"
   - Id: 2905
     Name: "떠도는 앰버 나이트"
+    JapaneseName: "떠도는 앰버 나이트"
   - Id: 2906
     Name: "빠른 라플레시아 알놀디"
+    JapaneseName: "빠른 라플레시아 알놀디"
   - Id: 2907
     Name: "튼튼한 엘리게이터"
+    JapaneseName: "튼튼한 엘리게이터"
   - Id: 2908
     Name: "두목 엘리자"
+    JapaneseName: "두목 엘리자"
   - Id: 2909
     Name: "분노의 엘리셀"
+    JapaneseName: "분노의 엘리셀"
   - Id: 2910
     Name: "떠도는 알람"
+    JapaneseName: "떠도는 알람"
   - Id: 2911
     Name: "빠른 아가브"
+    JapaneseName: "빠른 아가브"
   - Id: 2912
     Name: "튼튼한 어시더스"
+    JapaneseName: "튼튼한 어시더스"
   - Id: 2913
     Name: "두목 어시더스"
+    JapaneseName: "두목 어시더스"
+  - Id: 2914
+    Name: "게펜의 좀도둑"
+    JapaneseName: "게펜의 좀도둑"
   - Id: 2916
     Name: "빅 벤"
+    JapaneseName: "빅 벤"
   - Id: 2917
     Name: "빅 벨"
+    JapaneseName: "빅 벨"
   - Id: 2918
     Name: "타임 키퍼"
+    JapaneseName: "타임 키퍼"
   - Id: 2919
     Name: "네오 펑크"
+    JapaneseName: "네오 펑크"
   - Id: 2920
     Name: "아크 엘더"
+    JapaneseName: "아크 엘더"
   - Id: 2921
     Name: "아울 바이카운트"
+    JapaneseName: "아울 바이카운트"
+  - Id: 2922
+    Name: "아울 바이카운트"
+    JapaneseName: "아울 바이카운트"
   - Id: 2923
     Name: "아울 마퀴스"
+    JapaneseName: "아울 마퀴스"
+  - Id: 2924
+    Name: "엘더 윌로우"
+    JapaneseName: "엘더 윌로우"
+  - Id: 2925
+    Name: "윌로우"
+    JapaneseName: "윌로우"
+  - Id: 2926
+    Name: "하피"
+    JapaneseName: "하피"
+  - Id: 2927
+    Name: "미네랄"
+    JapaneseName: "미네랄"
+  - Id: 2928
+    Name: "지벳트"
+    JapaneseName: "지벳트"
+  - Id: 2929
+    Name: "플라즈마"
+    JapaneseName: "플라즈마"
+  - Id: 2930
+    Name: "솔레이스"
+    JapaneseName: "솔레이스"
+  - Id: 2931
+    Name: "메탈링"
+    JapaneseName: "메탈링"
+  - Id: 2932
+    Name: "포포링"
+    JapaneseName: "포포링"
+  - Id: 2933
+    Name: "데빌링"
+    JapaneseName: "데빌링"
+  - Id: 2934
+    Name: "아크엔젤링"
+    JapaneseName: "아크엔젤링"
+  - Id: 2935
+    Name: "운악선"
+    JapaneseName: "운악선"
+  - Id: 2936
+    Name: "고스트링"
+    JapaneseName: "고스트링"
+  - Id: 2937
+    Name: "M 로키"
+    JapaneseName: "M 로키"
+  - Id: 2938
+    Name: "마법 봉인"
+    JapaneseName: "마법 봉인"
+  - Id: 2939
+    Name: "이블 섀도우"
+    JapaneseName: "이블 섀도우"
+  - Id: 2940
+    Name: "이블 섀도우"
+    JapaneseName: "이블 섀도우"
+  - Id: 2941
+    Name: "이블 섀도우"
+    JapaneseName: "이블 섀도우"
+  - Id: 2942
+    Name: "사악한 광신도"
+    JapaneseName: "사악한 광신도"
+  - Id: 2943
+    Name: "아이스마인"
+    JapaneseName: "아이스마인"
+  - Id: 2948
+    Name: "저주받은 병사"
+    JapaneseName: "저주받은 병사"
+  - Id: 2949
+    Name: "저주받은 파수병"
+    JapaneseName: "저주받은 파수병"
+  - Id: 2950
+    Name: "부서진 마음"
+    JapaneseName: "부서진 마음"
+  - Id: 2951
+    Name: "떠다니는 글자"
+    JapaneseName: "떠다니는 글자"
+  - Id: 2952
+    Name: "좋아 사랑해"
+    JapaneseName: "좋아 사랑해"
+  - Id: 2953
+    Name: "저주받은 기억"
+    JapaneseName: "저주받은 기억"
+  - Id: 2954
+    Name: "빛바랜 맹세"
+    JapaneseName: "빛바랜 맹세"
+  - Id: 2955
+    Name: "오래된 우정"
+    JapaneseName: "오래된 우정"
+  - Id: 2956
+    Name: "달콤한 학살"
+    JapaneseName: "달콤한 학살"
+  - Id: 2957
+    Name: "잊혀진 이름"
+    JapaneseName: "잊혀진 이름"
+  - Id: 2958
+    Name: "치명적인 나날"
+    JapaneseName: "치명적인 나날"
+  - Id: 2959
+    Name: "고통스러운 속죄자"
+    JapaneseName: "고통스러운 속죄자"
+  - Id: 2960
+    Name: "플레임크로스"
+    JapaneseName: "플레임크로스"
+  - Id: 2961
+    Name: "고통스러운 속죄자"
+    JapaneseName: "고통스러운 속죄자"
+  - Id: 2987
+    Name: "장식된 악의 나무"
+    JapaneseName: "장식된 악의 나무"
+  - Id: 2988
+    Name: "사악한 부지배인 식물"
+    JapaneseName: "사악한 부지배인 식물"
+  - Id: 2989
+    Name: "사악한 쿠키"
+    JapaneseName: "사악한 쿠키"
+  - Id: 2990
+    Name: "오염된 크루이저"
+    JapaneseName: "오염된 크루이저"
+  - Id: 2991
+    Name: "악령이 깃든 상자"
+    JapaneseName: "악령이 깃든 상자"
+  - Id: 2992
+    Name: "소름끼치는 데몬"
+    JapaneseName: "소름끼치는 데몬"
+  - Id: 2993
+    Name: "악의적인 베이비 고스트"
+    JapaneseName: "악의적인 베이비 고스트"
+  - Id: 2994
+    Name: "춤추는 마리오네트"
+    JapaneseName: "춤추는 마리오네트"
+  - Id: 2995
+    Name: "버려진 곰인형"
+    JapaneseName: "버려진 곰인형"
+  - Id: 2996
+    Name: "셀린 키미"
+    JapaneseName: "셀린 키미"
+  - Id: 2997
+    Name: "키미의 환영"
+    JapaneseName: "키미의 환영"
+  - Id: 2998
+    Name: "약화된 모록"
+    JapaneseName: "약화된 모록"
+  - Id: 2999
+    Name: "모록 네크로맨서"
+    JapaneseName: "모록 네크로맨서"
+  - Id: 3000
+    Name: "모록 네크로맨서"
+    JapaneseName: "모록 네크로맨서"
+  - Id: 3001
+    Name: "모록의 구울"
+    JapaneseName: "모록의 구울"
+  - Id: 3002
+    Name: "모록의 오시리스"
+    JapaneseName: "모록의 오시리스"
+  - Id: 3003
+    Name: "모록의 아쳐 스켈레톤"
+    JapaneseName: "모록의 아쳐 스켈레톤"
+  - Id: 3004
+    Name: "모록의 레이쓰"
+    JapaneseName: "모록의 레이쓰"
+  - Id: 3005
+    Name: "모록의 베릿트"
+    JapaneseName: "모록의 베릿트"
+  - Id: 3006
+    Name: "모록의 루드"
+    JapaneseName: "모록의 루드"
+  - Id: 3007
+    Name: "죽음의 영혼"
+    JapaneseName: "죽음의 영혼"
+  - Id: 3008
+    Name: "모록의 은신자"
+    JapaneseName: "모록의 은신자"
+  - Id: 3010
+    Name: "오염된 아기 오크"
+    JapaneseName: "오염된 아기 오크"
+  - Id: 3011
+    Name: "오염된 새끼 데저트 울프"
+    JapaneseName: "오염된 새끼 데저트 울프"
+  - Id: 3012
+    Name: "오염된 퍼밀리어"
+    JapaneseName: "오염된 퍼밀리어"
+  - Id: 3013
+    Name: "오염된 오크 워리어"
+    JapaneseName: "오염된 오크 워리어"
+  - Id: 3014
+    Name: "오염된 데저트 울프"
+    JapaneseName: "오염된 데저트 울프"
+  - Id: 3015
+    Name: "오염된 펜"
+    JapaneseName: "오염된 펜"
+  - Id: 3016
+    Name: "오염된 오크 좀비"
+    JapaneseName: "오염된 오크 좀비"
+  - Id: 3017
+    Name: "오염된 베릿트"
+    JapaneseName: "오염된 베릿트"
+  - Id: 3018
+    Name: "오염된 메갈로돈"
+    JapaneseName: "오염된 메갈로돈"
   - Id: 3020
     Name: "화염 콘도르"
+    JapaneseName: "화염 콘도르"
   - Id: 3021
     Name: "화염 샌드맨"
+    JapaneseName: "화염 샌드맨"
   - Id: 3022
     Name: "화염 프릴도라"
+    JapaneseName: "화염 프릴도라"
   - Id: 3023
     Name: "화염 고렘"
+    JapaneseName: "화염 고렘"
   - Id: 3026
     Name: "불 구덩이"
+    JapaneseName: "불 구덩이"
   - Id: 3027
     Name: "불벅"
+    JapaneseName: "불벅"
   - Id: 3028
     Name: "소니아"
+    JapaneseName: "소니아"
+  - Id: 3029
+    Name: "리퍼 얀쿠"
+    JapaneseName: "리퍼 얀쿠"
+  - Id: 3038
+    Name: "몬스터 7"
+    JapaneseName: "몬스터 7"
+  - Id: 3039
+    Name: "타오르는 모록 리인카네이션"
+    JapaneseName: "타오르는 모록 리인카네이션"
+  - Id: 3040
+    Name: "뒤틀린 모록 리인카네이션"
+    JapaneseName: "뒤틀린 모록 리인카네이션"
+  - Id: 3041
+    Name: "얼어붙은 모록 리인카네이션"
+    JapaneseName: "얼어붙은 모록 리인카네이션"
   - Id: 3061
     Name: "날뛰는 상자"
+    JapaneseName: "날뛰는 상자"
+  - Id: 3069
+    Name: "페레"
+    JapaneseName: "페레"
+  - Id: 3070
+    Name: "페레"
+    JapaneseName: "페레"
+  - Id: 3071
+    Name: "페레"
+    JapaneseName: "페레"
+  - Id: 3072
+    Name: "페레"
+    JapaneseName: "페레"
+  - Id: 3073
+    Name: "각성한 페레"
+    JapaneseName: "각성한 페레"
   - Id: 3074
     Name: "타임홀더"
+    JapaneseName: "타임홀더"
+  - Id: 3075
+    Name: "보물"
+    JapaneseName: "보물"
+  - Id: 3076
+    Name: "가자!"
+    JapaneseName: "가자!"
+  - Id: 3077
+    Name: "가자!"
+    JapaneseName: "가자!"
+  - Id: 3078
+    Name: "가자!"
+    JapaneseName: "가자!"
+  - Id: 3079
+    Name: "가자!"
+    JapaneseName: "가자!"
+  - Id: 3080
+    Name: "가자!"
+    JapaneseName: "가자!"
+  - Id: 3081
+    Name: "가자!"
+    JapaneseName: "가자!"
+  - Id: 3082
+    Name: "가자!"
+    JapaneseName: "가자!"
+  - Id: 3083
+    Name: "가자!"
+    JapaneseName: "가자!"
+  - Id: 3084
+    Name: "가자!"
+    JapaneseName: "가자!"
+  - Id: 3085
+    Name: "가자!"
+    JapaneseName: "가자!"
+  - Id: 3086
+    Name: "용병"
+    JapaneseName: "용병"
+  - Id: 3087
+    Name: "가디언의 또다른 자아"
+    JapaneseName: "가디언의 또다른 자아"
+  - Id: 3088
+    Name: "프로스트 스파이더"
+    JapaneseName: "프로스트 스파이더"
+  - Id: 3089
+    Name: "광란의 카사"
+    JapaneseName: "광란의 카사"
+  - Id: 3090
+    Name: "미친 살라만더"
+    JapaneseName: "미친 살라만더"
+  - Id: 3091
+    Name: "브리나라네아"
+    JapaneseName: "브리나라네아"
+  - Id: 3092
+    Name: "무스펠스콜"
+    JapaneseName: "무스펠스콜"
+  - Id: 3096
+    Name: "반신"
+    JapaneseName: "반신"
+  - Id: 3097
+    Name: "절망의 신 모록"
+    JapaneseName: "절망의 신 모록"
+  - Id: 3098
+    Name: "창세의 모록"
+    JapaneseName: "창세의 모록"
+  - Id: 3099
+    Name: "안식일의 모록"
+    JapaneseName: "안식일의 모록"
+  - Id: 3101
+    Name: "순백의 마나"
+    JapaneseName: "순백의 마나"
+  - Id: 3102
+    Name: "생명의 마나"
+    JapaneseName: "생명의 마나"
+  - Id: 3103
+    Name: "대지의 마나"
+    JapaneseName: "대지의 마나"
+  - Id: 3105
+    Name: "마신의 사도 아하"
+    JapaneseName: "마신의 사도 아하"
+  - Id: 3106
+    Name: "마신의 사도 샨"
+    JapaneseName: "마신의 사도 샨"
+  - Id: 3108
+    Name: "지터버그1"
+    JapaneseName: "지터버그1"
+  - Id: 3109
+    Name: "지터버그2"
+    JapaneseName: "지터버그2"
+  - Id: 3122
+    Name: "찰스턴 1"
+    JapaneseName: "찰스턴 1"
+  - Id: 3123
+    Name: "찰스턴 2"
+    JapaneseName: "찰스턴 2"
+  - Id: 3124
+    Name: "찰스턴 3"
+    JapaneseName: "찰스턴 3"
+  - Id: 3125
+    Name: "스텝"
+    JapaneseName: "스텝"
+  - Id: 3126
+    Name: "락스텝"
+    JapaneseName: "락스텝"
+  - Id: 3127
+    Name: "복도1 보안 장치"
+    JapaneseName: "복도1 보안 장치"
+  - Id: 3128
+    Name: "경비로봇"
+    JapaneseName: "경비로봇"
   - Id: 3153
     Name: "굴삭기 로봇"
+    JapaneseName: "굴삭기 로봇"
   - Id: 3154
     Name: "정찰 로봇"
+    JapaneseName: "정찰 로봇"
   - Id: 3155
     Name: "수리 로봇"
+    JapaneseName: "수리 로봇"
   - Id: 3156
     Name: "탐사 로봇"
+    JapaneseName: "탐사 로봇"
+  - Id: 3157
+    Name: "멸망축복회 신도"
+    JapaneseName: "멸망축복회 신도"
   - Id: 3158
     Name: "멸망축복회 신도"
+    JapaneseName: "멸망축복회 신도"
   - Id: 3159
     Name: "불법홍보물"
+    JapaneseName: "불법홍보물"
+  - Id: 3161
+    Name: "폭탄"
+    JapaneseName: "폭탄"
+  - Id: 3169
+    Name: "사격 표적"
+    JapaneseName: "사격 표적"
+  - Id: 3170
+    Name: "사격 표적"
+    JapaneseName: "사격 표적"
+  - Id: 3175
+    Name: "로터자이로"
+    JapaneseName: "로터자이로"
+  - Id: 3176
+    Name: "그렘린"
+    JapaneseName: "그렘린"
+  - Id: 3177
+    Name: "비홀더"
+    JapaneseName: "비홀더"
+  - Id: 3178
+    Name: "어시더스"
+    JapaneseName: "어시더스"
+  - Id: 3179
+    Name: "어시더스"
+    JapaneseName: "어시더스"
+  - Id: 3180
+    Name: "와이번"
+    JapaneseName: "와이번"
+  - Id: 3181
+    Name: "선장 펄록"
+    JapaneseName: "선장 펄록"
+  - Id: 3190
+    Name: "사라 이레네"
+    JapaneseName: "사라 이레네"
+  - Id: 3191
+    Name: "기간테스"
+    JapaneseName: "기간테스"
+  - Id: 3192
+    Name: "기간테스"
+    JapaneseName: "기간테스"
+  - Id: 3193
+    Name: "에인션트 중형 기간테스"
+    JapaneseName: "에인션트 중형 기간테스"
+  - Id: 3194
+    Name: "대형 기간테스"
+    JapaneseName: "대형 기간테스"
+  - Id: 3195
+    Name: "대형 기간테스"
+    JapaneseName: "대형 기간테스"
+  - Id: 3196
+    Name: "에인션트 기간테스"
+    JapaneseName: "에인션트 기간테스"
+  - Id: 3197
+    Name: "돌연변이 가고일"
+    JapaneseName: "돌연변이 가고일"
+  - Id: 3198
+    Name: "돌연변이 갈리온"
+    JapaneseName: "돌연변이 갈리온"
+  - Id: 3199
+    Name: "사악한 뮤턴트 드래곤"
+    JapaneseName: "사악한 뮤턴트 드래곤"
+  - Id: 3200
+    Name: "사악한 키메라"
+    JapaneseName: "사악한 키메라"
+  - Id: 3202
+    Name: "유기질 호박"
+    JapaneseName: "유기질 호박"
+  - Id: 3203
+    Name: "무기질 호박"
+    JapaneseName: "무기질 호박"
   - Id: 3208
     Name: "에레메스 가일"
+    JapaneseName: "에레메스 가일"
   - Id: 3209
     Name: "마가레타 소린"
+    JapaneseName: "마가레타 소린"
   - Id: 3210
     Name: "카트린느 케이론"
+    JapaneseName: "카트린느 케이론"
   - Id: 3211
     Name: "셰실 디먼"
+    JapaneseName: "셰실 디먼"
   - Id: 3212
     Name: "하워드 알트아이젠"
+    JapaneseName: "하워드 알트아이젠"
   - Id: 3213
     Name: "세이렌 윈저"
+    JapaneseName: "세이렌 윈저"
+  - Id: 3214
+    Name: "길로틴 크로스 에레메스"
+    JapaneseName: "길로틴 크로스 에레메스"
+  - Id: 3215
+    Name: "아크비숍 마가레사"
+    JapaneseName: "아크비숍 마가레사"
+  - Id: 3216
+    Name: "워록 캐서린"
+    JapaneseName: "워록 캐서린"
+  - Id: 3217
+    Name: "레인저 세실"
+    JapaneseName: "레인저 세실"
+  - Id: 3218
+    Name: "메카닉 하워드"
+    JapaneseName: "메카닉 하워드"
+  - Id: 3219
+    Name: "룬나이트 세이렌"
+    JapaneseName: "룬나이트 세이렌"
+  - Id: 3220
+    Name: "길로틴 크로스 에레메스"
+    JapaneseName: "길로틴 크로스 에레메스"
+  - Id: 3221
+    Name: "아크비숍 마가레사"
+    JapaneseName: "아크비숍 마가레사"
+  - Id: 3222
+    Name: "레인저 세실"
+    JapaneseName: "레인저 세실"
+  - Id: 3223
+    Name: "메카닉 하워드"
+    JapaneseName: "메카닉 하워드"
+  - Id: 3224
+    Name: "워록 캐서린"
+    JapaneseName: "워록 캐서린"
+  - Id: 3225
+    Name: "룬나이트 세이렌"
+    JapaneseName: "룬나이트 세이렌"
   - Id: 3226
     Name: "랜달 로렌스"
+    JapaneseName: "랜달 로렌스"
   - Id: 3227
     Name: "플라멜 이뮬"
+    JapaneseName: "플라멜 이뮬"
   - Id: 3228
     Name: "실리아 알데"
+    JapaneseName: "실리아 알데"
   - Id: 3229
     Name: "첸 리우"
+    JapaneseName: "첸 리우"
   - Id: 3230
     Name: "거티 위"
+    JapaneseName: "거티 위"
   - Id: 3231
     Name: "아르보치오 바실"
+    JapaneseName: "아르보치오 바실"
   - Id: 3232
     Name: "트렌티니"
+    JapaneseName: "트렌티니"
+  - Id: 3233
+    Name: "로얄가드 랜델"
+    JapaneseName: "로얄가드 랜델"
+  - Id: 3234
+    Name: "제네틱 플라멜"
+    JapaneseName: "제네틱 플라멜"
+  - Id: 3235
+    Name: "소서러 셀리아"
+    JapaneseName: "소서러 셀리아"
+  - Id: 3236
+    Name: "수라 첸"
+    JapaneseName: "수라 첸"
+  - Id: 3237
+    Name: "섀도우체이서 게르티"
+    JapaneseName: "섀도우체이서 게르티"
+  - Id: 3238
+    Name: "민스트럴 알포키오"
+    JapaneseName: "민스트럴 알포키오"
+  - Id: 3239
+    Name: "원더러 트렌티니"
+    JapaneseName: "원더러 트렌티니"
+  - Id: 3240
+    Name: "로얄가드 랜델"
+    JapaneseName: "로얄가드 랜델"
+  - Id: 3241
+    Name: "제네틱 플라멜"
+    JapaneseName: "제네틱 플라멜"
+  - Id: 3242
+    Name: "소서러 셀리아"
+    JapaneseName: "소서러 셀리아"
+  - Id: 3243
+    Name: "수라 첸"
+    JapaneseName: "수라 첸"
+  - Id: 3244
+    Name: "섀도우체이서 게르티"
+    JapaneseName: "섀도우체이서 게르티"
+  - Id: 3245
+    Name: "민스트럴 알포키오"
+    JapaneseName: "민스트럴 알포키오"
+  - Id: 3246
+    Name: "원더러 트렌티니"
+    JapaneseName: "원더러 트렌티니"
   - Id: 3247
     Name: "그린 체네레"
+    JapaneseName: "그린 체네레"
   - Id: 3248
     Name: "수리로봇 터보"
+    JapaneseName: "수리로봇 터보"
   - Id: 3249
     Name: "탐사로봇 터보"
+    JapaneseName: "탐사로봇 터보"
   - Id: 3250
     Name: "고철로봇"
+    JapaneseName: "고철로봇"
   - Id: 3251
     Name: "GC109"
+    JapaneseName: "GC109"
+  - Id: 3252
+    Name: "GC109"
+    JapaneseName: "GC109"
+  - Id: 3253
+    Name: "시스템 메시지"
+    JapaneseName: "시스템 메시지"
+  - Id: 3254
+    Name: "T_W_O"
+    JapaneseName: "T_W_O"
   - Id: 3255
     Name: "악취나는 구울"
+    JapaneseName: "악취나는 구울"
   - Id: 3256
     Name: "악취나는 좀비"
+    JapaneseName: "악취나는 좀비"
+  - Id: 3384
+    Name: "포링"
+    JapaneseName: "포링"
+  - Id: 3385
+    Name: "루나틱"
+    JapaneseName: "루나틱"
+  - Id: 3386
+    Name: "파브르"
+    JapaneseName: "파브르"
+  - Id: 3387
+    Name: "픽키"
+    JapaneseName: "픽키"
+  - Id: 3388
+    Name: "콘도르"
+    JapaneseName: "콘도르"
+  - Id: 3389
+    Name: "윌로우"
+    JapaneseName: "윌로우"
+  - Id: 3390
+    Name: "스포아"
+    JapaneseName: "스포아"
+  - Id: 3391
+    Name: "포포링"
+    JapaneseName: "포포링"
+  - Id: 3392
+    Name: "스모키"
+    JapaneseName: "스모키"
+  - Id: 3393
+    Name: "도깨비"
+    JapaneseName: "도깨비"
+  - Id: 3394
+    Name: "빅풋"
+    JapaneseName: "빅풋"
+  - Id: 3395
+    Name: "웜테일"
+    JapaneseName: "웜테일"
+  - Id: 3396
+    Name: "울프"
+    JapaneseName: "울프"
+  - Id: 3397
+    Name: "보아"
+    JapaneseName: "보아"
+  - Id: 3398
+    Name: "아나콘다크"
+    JapaneseName: "아나콘다크"
+  - Id: 3399
+    Name: "마린"
+    JapaneseName: "마린"
+  - Id: 3400
+    Name: "무카"
+    JapaneseName: "무카"
+  - Id: 3401
+    Name: "페코페코"
+    JapaneseName: "페코페코"
+  - Id: 3402
+    Name: "데니로"
+    JapaneseName: "데니로"
+  - Id: 3403
+    Name: "피에르"
+    JapaneseName: "피에르"
+  - Id: 3404
+    Name: "앙드레"
+    JapaneseName: "앙드레"
+  - Id: 3405
+    Name: "고렘"
+    JapaneseName: "고렘"
+  - Id: 3406
+    Name: "스콜피온"
+    JapaneseName: "스콜피온"
+  - Id: 3407
+    Name: "촌촌"
+    JapaneseName: "촌촌"
+  - Id: 3408
+    Name: "메틀러"
+    JapaneseName: "메틀러"
+  - Id: 3409
+    Name: "샌드맨"
+    JapaneseName: "샌드맨"
+  - Id: 3410
+    Name: "레글러"
+    JapaneseName: "레글러"
+  - Id: 3411
+    Name: "드래곤 테일"
+    JapaneseName: "드래곤 테일"
+  - Id: 3412
+    Name: "그로브"
+    JapaneseName: "그로브"
+  - Id: 3413
+    Name: "해달"
+    JapaneseName: "해달"
+  - Id: 3414
+    Name: "갈라파고"
+    JapaneseName: "갈라파고"
+  - Id: 3415
+    Name: "퍼씰"
+    JapaneseName: "퍼씰"
+  - Id: 3416
+    Name: "엘리게이터"
+    JapaneseName: "엘리게이터"
+  - Id: 3417
+    Name: "메갈로돈"
+    JapaneseName: "메갈로돈"
+  - Id: 3418
+    Name: "트라이 조인트"
+    JapaneseName: "트라이 조인트"
+  - Id: 3419
+    Name: "메갈리스"
+    JapaneseName: "메갈리스"
+  - Id: 3420
+    Name: "드라이어드"
+    JapaneseName: "드라이어드"
+  - Id: 3421
+    Name: "무한한 토드"
+    JapaneseName: "무한한 토드"
+  - Id: 3422
+    Name: "무한한 방랑하는 늑대"
+    JapaneseName: "무한한 방랑하는 늑대"
+  - Id: 3423
+    Name: "무한한 보컬"
+    JapaneseName: "무한한 보컬"
+  - Id: 3424
+    Name: "무한한 이클립스"
+    JapaneseName: "무한한 이클립스"
+  - Id: 3425
+    Name: "무한한 키메라"
+    JapaneseName: "무한한 키메라"
+  - Id: 3426
+    Name: "무한한 에드가"
+    JapaneseName: "무한한 에드가"
+  - Id: 3427
+    Name: "무한한 오시리스"
+    JapaneseName: "무한한 오시리스"
+  - Id: 3428
+    Name: "무한한 프레오니"
+    JapaneseName: "무한한 프레오니"
+  - Id: 3429
+    Name: "무한한 오크 히어로"
+    JapaneseName: "무한한 오크 히어로"
+  - Id: 3430
+    Name: "무한한 타오군카"
+    JapaneseName: "무한한 타오군카"
+  - Id: 3431
+    Name: "로다 프로그"
+    JapaneseName: "로다 프로그"
+  - Id: 3432
+    Name: "울프"
+    JapaneseName: "울프"
+  - Id: 3433
+    Name: "로커"
+    JapaneseName: "로커"
+  - Id: 3434
+    Name: "루나틱"
+    JapaneseName: "루나틱"
+  - Id: 3435
+    Name: "가고일"
+    JapaneseName: "가고일"
+  - Id: 3436
+    Name: "빅풋"
+    JapaneseName: "빅풋"
+  - Id: 3437
+    Name: "에인션트 미이라"
+    JapaneseName: "에인션트 미이라"
+  - Id: 3438
+    Name: "샌드맨"
+    JapaneseName: "샌드맨"
+  - Id: 3439
+    Name: "하이 오크"
+    JapaneseName: "하이 오크"
+  - Id: 3440
+    Name: "메갈리스"
+    JapaneseName: "메갈리스"
   - Id: 3442
     Name: "프로즌울프"
+    JapaneseName: "프로즌울프"
   - Id: 3443
     Name: "태피"
+    JapaneseName: "태피"
   - Id: 3444
     Name: "와쳐"
+    JapaneseName: "와쳐"
+  - Id: 3445
+    Name: "마법이 걸린 아쳐 스켈레톤"
+    JapaneseName: "마법이 걸린 아쳐 스켈레톤"
+  - Id: 3446
+    Name: "마법이 걸린 스켈레톤"
+    JapaneseName: "마법이 걸린 스켈레톤"
+  - Id: 3447
+    Name: "마법이 걸린 솔져 스켈레톤"
+    JapaneseName: "마법이 걸린 솔져 스켈레톤"
+  - Id: 3448
+    Name: "개조된 암다레이스"
+    JapaneseName: "개조된 암다레이스"
+  - Id: 3449
+    Name: "강화된 암다레이스"
+    JapaneseName: "강화된 암다레이스"
+  - Id: 3450
+    Name: "비쥬"
+    JapaneseName: "비쥬"
   - Id: 3451
     Name: "불사의 군단병"
+    JapaneseName: "불사의 군단병"
   - Id: 3452
     Name: "되살아난 경비병"
+    JapaneseName: "되살아난 경비병"
+  - Id: 3454
+    Name: "수상한 침입자"
+    JapaneseName: "수상한 침입자"
   - Id: 3455
     Name: "접시"
+    JapaneseName: "접시"
+  - Id: 3473
+    Name: "스테판.J.E.울프"
+    JapaneseName: "스테판.J.E.울프"
+  - Id: 3474
+    Name: "불멸의 저주받은 나이트"
+    JapaneseName: "불멸의 저주받은 나이트"
+  - Id: 3475
+    Name: "불멸의 바람 유령"
+    JapaneseName: "불멸의 바람 유령"
+  - Id: 3476
+    Name: "불멸의 좀비 병사"
+    JapaneseName: "불멸의 좀비 병사"
+  - Id: 3477
+    Name: "불멸의 요새 군단병"
+    JapaneseName: "불멸의 요새 군단병"
+  - Id: 3478
+    Name: "천공요새 열쇠지기"
+    JapaneseName: "천공요새 열쇠지기"
+  - Id: 3479
+    Name: "불멸의 좀비 돌격병"
+    JapaneseName: "불멸의 좀비 돌격병"
+  - Id: 3480
+    Name: "불멸의 저주받은 좀비"
+    JapaneseName: "불멸의 저주받은 좀비"
+  - Id: 3481
+    Name: "불멸의 나이트메어 섀도우"
+    JapaneseName: "불멸의 나이트메어 섀도우"
+  - Id: 3482
+    Name: "불멸의 분노한 섀도우"
+    JapaneseName: "불멸의 분노한 섀도우"
+  - Id: 3483
+    Name: "불멸의 데스 섀도우"
+    JapaneseName: "불멸의 데스 섀도우"
+  - Id: 3484
+    Name: "스테판.J.E.울프"
+    JapaneseName: "스테판.J.E.울프"
+  - Id: 3485
+    Name: "비쥬의 저주받은 병사"
+    JapaneseName: "비쥬의 저주받은 병사"
+  - Id: 3487
+    Name: "도살자 솔져"
+    JapaneseName: "도살자 솔져"
+  - Id: 3488
+    Name: "낫 든 병사"
+    JapaneseName: "낫 든 병사"
+  - Id: 3489
+    Name: "본 크래시 솔져"
+    JapaneseName: "본 크래시 솔져"
   - Id: 3490
     Name: "불사의 군단 장교"
+    JapaneseName: "불사의 군단 장교"
+  - Id: 3494
+    Name: "빛나는 포링"
+    JapaneseName: "빛나는 포링"
   - Id: 3495
     Name: "에그링"
+    JapaneseName: "에그링"
   - Id: 3496
     Name: "리프 루나틱"
+    JapaneseName: "리프 루나틱"
   - Id: 3497
     Name: "그래스 파브르"
+    JapaneseName: "그래스 파브르"
   - Id: 3498
     Name: "와일드 호넷"
+    JapaneseName: "와일드 호넷"
   - Id: 3499
     Name: "스위트 로다 프로그"
+    JapaneseName: "스위트 로다 프로그"
   - Id: 3500
     Name: "헌터 데저트 울프"
+    JapaneseName: "헌터 데저트 울프"
   - Id: 3501
     Name: "트랜스 스포아"
+    JapaneseName: "트랜스 스포아"
   - Id: 3502
     Name: "정찰 바질리스크"
+    JapaneseName: "정찰 바질리스크"
   - Id: 3503
     Name: "돌격 바질리스크"
+    JapaneseName: "돌격 바질리스크"
   - Id: 3504
     Name: "돌격 바질리스크"
+    JapaneseName: "돌격 바질리스크"
   - Id: 3505
     Name: "대형 에그링"
+    JapaneseName: "대형 에그링"
   - Id: 3506
     Name: "정글 만드라고라"
+    JapaneseName: "정글 만드라고라"
   - Id: 3507
     Name: "프루츠 폼 스파이더"
+    JapaneseName: "프루츠 폼 스파이더"
+  - Id: 3508
+    Name: "에그링"
+    JapaneseName: "에그링"
+  - Id: 3510
+    Name: "신전 경비병"
+    JapaneseName: "신전 경비병"
+  - Id: 3511
+    Name: "격노한 디보티"
+    JapaneseName: "격노한 디보티"
+  - Id: 3512
+    Name: "격노한 디보티"
+    JapaneseName: "격노한 디보티"
+  - Id: 3513
+    Name: "격노한 개"
+    JapaneseName: "격노한 개"
+  - Id: 3514
+    Name: "격노한 하이 프리스트"
+    JapaneseName: "격노한 하이 프리스트"
+  - Id: 3515
+    Name: "얼어붙은 심장"
+    JapaneseName: "얼어붙은 심장"
+  - Id: 3516
+    Name: "격노한 루우민"
+    JapaneseName: "격노한 루우민"
+  - Id: 3517
+    Name: "아이스 티탄"
+    JapaneseName: "아이스 티탄"
+  - Id: 3518
+    Name: "신전 경비병"
+    JapaneseName: "신전 경비병"
+  - Id: 3519
+    Name: "격노한 디보티"
+    JapaneseName: "격노한 디보티"
+  - Id: 3520
+    Name: "격노한 디보티"
+    JapaneseName: "격노한 디보티"
+  - Id: 3521
+    Name: "격노한 개"
+    JapaneseName: "격노한 개"
+  - Id: 3522
+    Name: "격노한 하이 프리스트"
+    JapaneseName: "격노한 하이 프리스트"
+  - Id: 3523
+    Name: "얼어붙은 심장"
+    JapaneseName: "얼어붙은 심장"
+  - Id: 3524
+    Name: "격노한 루우민"
+    JapaneseName: "격노한 루우민"
+  - Id: 3525
+    Name: "아이스 티탄"
+    JapaneseName: "아이스 티탄"
+  - Id: 3526
+    Name: "크툴라눅스의 환영"
+    JapaneseName: "크툴라눅스의 환영"
+  - Id: 3527
+    Name: "공식 교황"
+    JapaneseName: "공식 교황"
+  - Id: 3528
+    Name: "평상시 교황"
+    JapaneseName: "평상시 교황"
+  - Id: 3569
+    Name: "평상시 교황"
+    JapaneseName: "평상시 교황"
+  - Id: 3570
+    Name: "공식 교황"
+    JapaneseName: "공식 교황"
+  - Id: 3621
+    Name: "펫 차일드"
+    JapaneseName: "펫 차일드"
+  - Id: 3622
+    Name: "스페셜 가드"
+    JapaneseName: "스페셜 가드"
+  - Id: 3623
+    Name: "플라즈마 R"
+    JapaneseName: "플라즈마 R"
+  - Id: 3624
+    Name: "플라즈마 G"
+    JapaneseName: "플라즈마 G"
+  - Id: 3625
+    Name: "플라즈마 B"
+    JapaneseName: "플라즈마 B"
+  - Id: 3626
+    Name: "업그레이드된 하트 헌터"
+    JapaneseName: "업그레이드된 하트 헌터"
+  - Id: 3627
+    Name: "하트 헌터 경비병"
+    JapaneseName: "하트 헌터 경비병"
+  - Id: 3628
+    Name: "하트 헌터 에벨"
+    JapaneseName: "하트 헌터 에벨"
+  - Id: 3629
+    Name: "부서진 총의 원한"
+    JapaneseName: "부서진 총의 원한"
+  - Id: 3630
+    Name: "엘레나 볼코바"
+    JapaneseName: "엘레나 볼코바"
   - Id: 3631
     Name: "인간형 키메라"
+    JapaneseName: "인간형 키메라"
   - Id: 3632
     Name: "물질형 키메라"
+    JapaneseName: "물질형 키메라"
   - Id: 3633
     Name: "독성 강화 키메라"
+    JapaneseName: "독성 강화 키메라"
+  - Id: 3636
+    Name: "작은 이시스"
+    JapaneseName: "작은 이시스"
+  - Id: 3637
+    Name: "스켈레톤"
+    JapaneseName: "스켈레톤"
+  - Id: 3638
+    Name: "스켈레톤"
+    JapaneseName: "스켈레톤"
+  - Id: 3639
+    Name: "스켈레톤"
+    JapaneseName: "스켈레톤"
+  - Id: 3640
+    Name: "스켈레톤"
+    JapaneseName: "스켈레톤"
+  - Id: 3641
+    Name: "스켈레톤"
+    JapaneseName: "스켈레톤"
+  - Id: 3642
+    Name: "스켈레톤"
+    JapaneseName: "스켈레톤"
+  - Id: 3643
+    Name: "퍼밀리어"
+    JapaneseName: "퍼밀리어"
+  - Id: 3644
+    Name: "퍼밀리어"
+    JapaneseName: "퍼밀리어"
+  - Id: 3645
+    Name: "퍼밀리어"
+    JapaneseName: "퍼밀리어"
+  - Id: 3646
+    Name: "퍼밀리어"
+    JapaneseName: "퍼밀리어"
+  - Id: 3647
+    Name: "퍼밀리어"
+    JapaneseName: "퍼밀리어"
+  - Id: 3648
+    Name: "퍼밀리어"
+    JapaneseName: "퍼밀리어"
+  - Id: 3649
+    Name: "좀비"
+    JapaneseName: "좀비"
+  - Id: 3650
+    Name: "좀비"
+    JapaneseName: "좀비"
+  - Id: 3651
+    Name: "좀비"
+    JapaneseName: "좀비"
+  - Id: 3652
+    Name: "좀비"
+    JapaneseName: "좀비"
+  - Id: 3653
+    Name: "좀비"
+    JapaneseName: "좀비"
+  - Id: 3654
+    Name: "좀비"
+    JapaneseName: "좀비"
+  - Id: 3658
+    Name: "리치 로드"
+    JapaneseName: "리치 로드"
+  - Id: 3659
+    Name: "리치 로드"
+    JapaneseName: "리치 로드"
+  - Id: 3660
+    Name: "나이트메어"
+    JapaneseName: "나이트메어"
+  - Id: 3661
+    Name: "나이트메어"
+    JapaneseName: "나이트메어"
+  - Id: 3662
+    Name: "잭"
+    JapaneseName: "잭"
+  - Id: 3663
+    Name: "잭"
+    JapaneseName: "잭"
+  - Id: 3664
+    Name: "구울"
+    JapaneseName: "구울"
+  - Id: 3665
+    Name: "구울"
+    JapaneseName: "구울"
+  - Id: 3666
+    Name: "드레인리어"
+    JapaneseName: "드레인리어"
+  - Id: 3667
+    Name: "드레인리어"
+    JapaneseName: "드레인리어"
+  - Id: 3669
+    Name: "디아볼릭2"
+    JapaneseName: "디아볼릭2"
+  - Id: 3670
+    Name: "딜리터 2"
+    JapaneseName: "딜리터 2"
   - Id: 3736
     Name: "소적단"
+    JapaneseName: "소적단"
   - Id: 3737
     Name: "소적단"
+    JapaneseName: "소적단"
   - Id: 3738
     Name: "소적단"
+    JapaneseName: "소적단"
   - Id: 3739
     Name: "코요테"
+    JapaneseName: "코요테"
   - Id: 3740
     Name: "가스터"
+    JapaneseName: "가스터"
   - Id: 3741
     Name: "거미전차"
+    JapaneseName: "거미전차"
   - Id: 3742
     Name: "보랏빛 광석"
+    JapaneseName: "보랏빛 광석"
   - Id: 3743
     Name: "말미잘"
+    JapaneseName: "말미잘"
+  - Id: 3744
+    Name: "버팔로 밴딧"
+    JapaneseName: "버팔로 밴딧"
+  - Id: 3745
+    Name: "버팔로 밴딧"
+    JapaneseName: "버팔로 밴딧"
+  - Id: 3746
+    Name: "버팔로 밴딧"
+    JapaneseName: "버팔로 밴딧"
   - Id: 3747
     Name: "엘리트 소적단"
+    JapaneseName: "엘리트 소적단"
   - Id: 3748
     Name: "엘리트 소적단"
+    JapaneseName: "엘리트 소적단"
   - Id: 3749
     Name: "엘리트 소적단"
+    JapaneseName: "엘리트 소적단"
   - Id: 3750
     Name: "매트 드레인리어"
+    JapaneseName: "매트 드레인리어"
   - Id: 3751
     Name: "안식을 빼앗긴 자"
+    JapaneseName: "안식을 빼앗긴 자"
   - Id: 3752
     Name: "안식을 빼앗긴 자"
+    JapaneseName: "안식을 빼앗긴 자"
   - Id: 3753
     Name: "안식을 빼앗긴 자"
+    JapaneseName: "안식을 빼앗긴 자"
   - Id: 3754
     Name: "스위트 나이트메어"
+    JapaneseName: "스위트 나이트메어"
   - Id: 3755
     Name: "반디 버섯"
+    JapaneseName: "반디 버섯"
+  - Id: 3756
+    Name: "보미"
+    JapaneseName: "보미"
+  - Id: 3757
+    Name: "분노의 드라큘라"
+    JapaneseName: "분노의 드라큘라"
+  - Id: 3758
+    Name: "성난 월야화"
+    JapaneseName: "성난 월야화"
   - Id: 3759
     Name: "분노한 구미호"
+    JapaneseName: "분노한 구미호"
   - Id: 3760
     Name: "원통한 무낙"
+    JapaneseName: "원통한 무낙"
   - Id: 3761
     Name: "원통한 본건"
+    JapaneseName: "원통한 본건"
   - Id: 3762
     Name: "원통한 소희"
+    JapaneseName: "원통한 소희"
   - Id: 3763
     Name: "억울한 병사"
+    JapaneseName: "억울한 병사"
+  - Id: 3764
+    Name: "진실의 위자드"
+    JapaneseName: "진실의 위자드"
   - Id: 3765
     Name: "광기의 모험가"
+    JapaneseName: "광기의 모험가"
   - Id: 3787
     Name: "습지 아크라우스"
+    JapaneseName: "습지 아크라우스"
   - Id: 3788
     Name: "시궁쥐"
+    JapaneseName: "시궁쥐"
+  - Id: 3790
+    Name: "사탕 드롭스"
+    JapaneseName: "사탕 드롭스"
   - Id: 3792
     Name: "분노한 게에즈티"
+    JapaneseName: "분노한 게에즈티"
   - Id: 3793
     Name: "분노한 스노이어"
+    JapaneseName: "분노한 스노이어"
   - Id: 3794
     Name: "분노한 아이스 티탄"
+    JapaneseName: "분노한 아이스 티탄"
   - Id: 3795
     Name: "단단한 고드름"
+    JapaneseName: "단단한 고드름"
+  - Id: 3796
+    Name: "각성한 크툴라눅스"
+    JapaneseName: "각성한 크툴라눅스"
+  - Id: 3797
+    Name: "ILL_FROZEN_KN"
+    JapaneseName: "ILL_FROZEN_KN"
+  - Id: 3798
+    Name: "ILL_FROZEN_GC"
+    JapaneseName: "ILL_FROZEN_GC"
   - Id: 3799
     Name: "불길한 어절터"
+    JapaneseName: "불길한 어절터"
   - Id: 3800
     Name: "불길한 퍼머터"
+    JapaneseName: "불길한 퍼머터"
   - Id: 3801
     Name: "불길한 프리저"
+    JapaneseName: "불길한 프리저"
   - Id: 3802
     Name: "불길한 솔리더"
+    JapaneseName: "불길한 솔리더"
   - Id: 3803
     Name: "불길한 힛터"
+    JapaneseName: "불길한 힛터"
+  - Id: 3804
+    Name: "불길한 거북 장군"
+    JapaneseName: "불길한 거북 장군"
+  - Id: 3810
+    Name: "킹 포링"
+    JapaneseName: "킹 포링"
+  - Id: 3811
+    Name: "휴 골드링"
+    JapaneseName: "휴 골드링"
+  - Id: 3812
+    Name: "거대한 아메링"
+    JapaneseName: "거대한 아메링"
+  - Id: 3813
+    Name: "농축된 드롭스"
+    JapaneseName: "농축된 드롭스"
+  - Id: 3814
+    Name: "농축된 포포링"
+    JapaneseName: "농축된 포포링"
+  - Id: 3815
+    Name: "농축된 포링"
+    JapaneseName: "농축된 포링"
+  - Id: 3816
+    Name: "농축된 마린"
+    JapaneseName: "농축된 마린"
+  - Id: 3896
+    Name: "불길한 습격자"
+    JapaneseName: "불길한 습격자"
   - Id: 20255
     Name: "빨간 곰인형"
+    JapaneseName: "빨간 곰인형"
   - Id: 20256
     Name: "노란 곰인형"
+    JapaneseName: "노란 곰인형"
   - Id: 20257
     Name: "초록 곰인형"
+    JapaneseName: "초록 곰인형"
   - Id: 20258
     Name: "하얀 곰인형"
+    JapaneseName: "하얀 곰인형"
   - Id: 20259
     Name: "파란 곰인형"
+    JapaneseName: "파란 곰인형"
+  - Id: 20260
+    Name: "빛나는 곰인형"
+    JapaneseName: "빛나는 곰인형"
   - Id: 20261
     Name: "노동형 핏맨"
+    JapaneseName: "노동형 핏맨"
   - Id: 20262
     Name: "영혼의 파편"
+    JapaneseName: "영혼의 파편"
   - Id: 20263
     Name: "사념이 깃든 옵시디언"
+    JapaneseName: "사념이 깃든 옵시디언"
+  - Id: 20264
+    Name: "빨간 곰인형"
+    JapaneseName: "빨간 곰인형"
+  - Id: 20265
+    Name: "노란 곰인형"
+    JapaneseName: "노란 곰인형"
+  - Id: 20266
+    Name: "초록 곰인형"
+    JapaneseName: "초록 곰인형"
+  - Id: 20267
+    Name: "하얀 곰인형"
+    JapaneseName: "하얀 곰인형"
+  - Id: 20268
+    Name: "파란 곰인형"
+    JapaneseName: "파란 곰인형"
+  - Id: 20269
+    Name: "길드 스킬 깃발"
+    JapaneseName: "길드 스킬 깃발"
   - Id: 20270
     Name: "고대의 트라이조인트"
+    JapaneseName: "고대의 트라이조인트"
   - Id: 20271
     Name: "고대의 스터랙틱 고렘"
+    JapaneseName: "고대의 스터랙틱 고렘"
   - Id: 20272
     Name: "고대의 메갈리스"
+    JapaneseName: "고대의 메갈리스"
   - Id: 20273
     Name: "고대의 타오군 카"
+    JapaneseName: "고대의 타오군 카"
   - Id: 20274
     Name: "고대의 스톤슈터"
+    JapaneseName: "고대의 스톤슈터"
   - Id: 20275
     Name: "고대의 우탄슈터"
+    JapaneseName: "고대의 우탄슈터"
   - Id: 20276
     Name: "고대의 우탄파이터"
+    JapaneseName: "고대의 우탄파이터"
   - Id: 20277
     Name: "고대의 우탄디펜더"
+    JapaneseName: "고대의 우탄디펜더"
+  - Id: 20278
+    Name: "고대의 메갈리스"
+    JapaneseName: "고대의 메갈리스"
+  - Id: 20279
+    Name: "고대의 우탄슈터"
+    JapaneseName: "고대의 우탄슈터"
+  - Id: 20280
+    Name: "고대의 우탄파이터"
+    JapaneseName: "고대의 우탄파이터"
+  - Id: 20340
+    Name: "EL1-A17T"
+    JapaneseName: "EL1-A17T"
+  - Id: 20341
+    Name: "E-EA1L"
+    JapaneseName: "E-EA1L"
+  - Id: 20342
+    Name: "E-EA2S"
+    JapaneseName: "E-EA2S"
+  - Id: 20343
+    Name: "E-13EN0"
+    JapaneseName: "E-13EN0"
+  - Id: 20344
+    Name: "화학 독"
+    JapaneseName: "화학 독"
+  - Id: 20345
+    Name: "바이오 배터리"
+    JapaneseName: "바이오 배터리"
+  - Id: 20346
+    Name: "미구엘"
+    JapaneseName: "미구엘"
+  - Id: 20347
+    Name: "미구엘 G."
+    JapaneseName: "미구엘 G."
+  - Id: 20348
+    Name: "A013 - 카푸트"
+    JapaneseName: "A013 - 카푸트"
+  - Id: 20349
+    Name: "A013 - 돌로르"
+    JapaneseName: "A013 - 돌로르"
+  - Id: 20350
+    Name: "A013 - 벨라레"
+    JapaneseName: "A013 - 벨라레"
+  - Id: 20351
+    Name: "맨홀"
+    JapaneseName: "맨홀"
+  - Id: 20352
+    Name: "치명적인 폼폼"
+    JapaneseName: "치명적인 폼폼"
+  - Id: 20353
+    Name: "슬픔의 크랍"
+    JapaneseName: "슬픔의 크랍"
   - Id: 20355
     Name: "하트 헌터 벨라레"
+    JapaneseName: "하트 헌터 벨라레"
   - Id: 20356
     Name: "상급 하트 헌터 벨라레"
+    JapaneseName: "상급 하트 헌터 벨라레"
   - Id: 20357
     Name: "하트 헌터 사나레"
+    JapaneseName: "하트 헌터 사나레"
   - Id: 20358
     Name: "상급 하트 헌터 사나레"
+    JapaneseName: "상급 하트 헌터 사나레"
   - Id: 20359
     Name: "플라가"
+    JapaneseName: "플라가"
   - Id: 20360
     Name: "변종 플라가"
+    JapaneseName: "변종 플라가"
   - Id: 20361
     Name: "돌로르"
+    JapaneseName: "돌로르"
   - Id: 20362
     Name: "변종 돌로르"
+    JapaneseName: "변종 돌로르"
   - Id: 20363
     Name: "베네눔"
+    JapaneseName: "베네눔"
   - Id: 20364
     Name: "변종 베네눔"
+    JapaneseName: "변종 베네눔"
   - Id: 20365
     Name: "트윈 카푸트"
+    JapaneseName: "트윈 카푸트"
   - Id: 20366
     Name: "변종 트윈 카푸트"
+    JapaneseName: "변종 트윈 카푸트"
   - Id: 20367
     Name: "오염된 레이드릭"
+    JapaneseName: "오염된 레이드릭"
   - Id: 20368
     Name: "오염된 레이드릭 아쳐"
+    JapaneseName: "오염된 레이드릭 아쳐"
   - Id: 20369
     Name: "냉동 가고일"
+    JapaneseName: "냉동 가고일"
   - Id: 20370
     Name: "오염된 스팅"
+    JapaneseName: "오염된 스팅"
   - Id: 20371
     Name: "프리즌 브레이커"
+    JapaneseName: "프리즌 브레이커"
   - Id: 20372
     Name: "굳은 블레이저"
+    JapaneseName: "굳은 블레이저"
   - Id: 20373
     Name: "굳은 나이트메어 테러"
+    JapaneseName: "굳은 나이트메어 테러"
   - Id: 20374
     Name: "굳은 공중 딜리터"
+    JapaneseName: "굳은 공중 딜리터"
   - Id: 20375
     Name: "굳은 지상 딜리터"
+    JapaneseName: "굳은 지상 딜리터"
   - Id: 20376
     Name: "굳은 익스플로젼"
+    JapaneseName: "굳은 익스플로젼"
   - Id: 20377
     Name: "굳은 카호"
+    JapaneseName: "굳은 카호"
   - Id: 20378
     Name: "굳은 라바 골렘"
+    JapaneseName: "굳은 라바 골렘"
   - Id: 20379
     Name: "아이스 고스트"
+    JapaneseName: "아이스 고스트"
   - Id: 20380
     Name: "플레임 고스트"
+    JapaneseName: "플레임 고스트"
   - Id: 20381
     Name: "R48-85-베스티아"
+    JapaneseName: "R48-85-베스티아"
+  - Id: 20382
+    Name: "트윈 카푸트"
+    JapaneseName: "트윈 카푸트"
   - Id: 20419
     Name: "굳은 무스펠스콜"
+    JapaneseName: "굳은 무스펠스콜"
   - Id: 20420
     Name: "오염된 배회하는 자"
+    JapaneseName: "오염된 배회하는 자"
   - Id: 20421
     Name: "오염된 거미여왕"
+    JapaneseName: "오염된 거미여왕"
   - Id: 20422
     Name: "오염된 다크로드"
+    JapaneseName: "오염된 다크로드"
+  - Id: 20543
+    Name: "MD_ED_M_SCIENCE"
+    JapaneseName: "MD_ED_M_SCIENCE"
+  - Id: 20560
+    Name: "그린 미네랄"
+    JapaneseName: "그린 미네랄"
   - Id: 20592
     Name: "포이즈너스"
+    JapaneseName: "포이즈너스"
   - Id: 20593
     Name: "톡시어스"
+    JapaneseName: "톡시어스"
   - Id: 20594
     Name: "그린 미네랄"
+    JapaneseName: "그린 미네랄"
   - Id: 20595
     Name: "레드 미네랄"
+    JapaneseName: "레드 미네랄"
   - Id: 20596
     Name: "화이트 미네랄"
+    JapaneseName: "화이트 미네랄"
   - Id: 20597
     Name: "퍼플 미네랄"
+    JapaneseName: "퍼플 미네랄"
   - Id: 20598
     Name: "쥬얼리안트"
+    JapaneseName: "쥬얼리안트"
+  - Id: 20599
+    Name: "쥬얼리안트"
+    JapaneseName: "쥬얼리안트"
   - Id: 20600
     Name: "쥬얼"
+    JapaneseName: "쥬얼"
   - Id: 20601
     Name: "쥬골리안트"
+    JapaneseName: "쥬골리안트"
   - Id: 20602
     Name: "화이트 폴셀리오"
+    JapaneseName: "화이트 폴셀리오"
   - Id: 20603
     Name: "어비스맨"
+    JapaneseName: "어비스맨"
+  - Id: 20620
+    Name: "고추"
+    JapaneseName: "고추"
+  - Id: 20621
+    Name: "고참 고추"
+    JapaneseName: "고참 고추"
+  - Id: 20622
+    Name: "어시스턴트 봇"
+    JapaneseName: "어시스턴트 봇"
+  - Id: 20623
+    Name: "고참 어시스턴트 봇"
+    JapaneseName: "고참 어시스턴트 봇"
+  - Id: 20624
+    Name: "말라버린 라플레시아"
+    JapaneseName: "말라버린 라플레시아"
+  - Id: 20625
+    Name: "고참 말라버린 라플레시아"
+    JapaneseName: "고참 말라버린 라플레시아"
+  - Id: 20626
+    Name: "스페셜 알놀디"
+    JapaneseName: "스페셜 알놀디"
+  - Id: 20627
+    Name: "고참 스페셜 알놀디"
+    JapaneseName: "고참 스페셜 알놀디"
+  - Id: 20628
+    Name: "매니저 알파"
+    JapaneseName: "매니저 알파"
+  - Id: 20629
+    Name: "매니저 베타"
+    JapaneseName: "매니저 베타"
   - Id: 20630
     Name: "고장난 베타"
+    JapaneseName: "고장난 베타"
+  - Id: 20631
+    Name: "고장난 정원사 베타"
+    JapaneseName: "고장난 정원사 베타"
+  - Id: 20632
+    Name: "S. 고장난 정원사 베타"
+    JapaneseName: "S. 고장난 정원사 베타"
   - Id: 20633
     Name: "고장난 세신사"
+    JapaneseName: "고장난 세신사"
   - Id: 20634
     Name: "고장난 세신사"
+    JapaneseName: "고장난 세신사"
+  - Id: 20635
+    Name: "청소로봇"
+    JapaneseName: "청소로봇"
+  - Id: 20636
+    Name: "청소로봇"
+    JapaneseName: "청소로봇"
   - Id: 20637
     Name: "고장난 창고 관리자"
+    JapaneseName: "고장난 창고 관리자"
+  - Id: 20638
+    Name: "베타 경비병"
+    JapaneseName: "베타 경비병"
   - Id: 20639
     Name: "고장난 경비형 베타"
+    JapaneseName: "고장난 경비형 베타"
   - Id: 20640
     Name: "청소로봇Ω"
+    JapaneseName: "청소로봇Ω"
   - Id: 20641
     Name: "고장난 청소로봇Ω"
+    JapaneseName: "고장난 청소로봇Ω"
+  - Id: 20642
+    Name: "스위티"
+    JapaneseName: "스위티"
   - Id: 20643
     Name: "열탕 휀"
+    JapaneseName: "열탕 휀"
   - Id: 20644
     Name: "열탕 마르크"
+    JapaneseName: "열탕 마르크"
   - Id: 20645
     Name: "열탕 소드 피쉬"
+    JapaneseName: "열탕 소드 피쉬"
   - Id: 20646
     Name: "열탕 피라니아"
+    JapaneseName: "열탕 피라니아"
+  - Id: 20647
+    Name: "청금의 장로"
+    JapaneseName: "청금의 장로"
   - Id: 20648
     Name: "보스 야옹이"
+    JapaneseName: "보스 야옹이"
   - Id: 20649
     Name: "피타야"
+    JapaneseName: "피타야"
   - Id: 20650
     Name: "피타야"
+    JapaneseName: "피타야"
   - Id: 20651
     Name: "피타야"
+    JapaneseName: "피타야"
   - Id: 20652
     Name: "피타야"
+    JapaneseName: "피타야"
   - Id: 20653
     Name: "피타야"
+    JapaneseName: "피타야"
+  - Id: 20654
+    Name: "피타야"
+    JapaneseName: "피타야"
+  - Id: 20655
+    Name: "피타야"
+    JapaneseName: "피타야"
+  - Id: 20656
+    Name: "피타야"
+    JapaneseName: "피타야"
+  - Id: 20657
+    Name: "피타야"
+    JapaneseName: "피타야"
+  - Id: 20658
+    Name: "피타야"
+    JapaneseName: "피타야"
+  - Id: 20659
+    Name: "피타야 보스"
+    JapaneseName: "피타야 보스"
+  - Id: 20660
+    Name: "피타야"
+    JapaneseName: "피타야"
+  - Id: 20661
+    Name: "피타야"
+    JapaneseName: "피타야"
+  - Id: 20662
+    Name: "피타야"
+    JapaneseName: "피타야"
+  - Id: 20663
+    Name: "피타야"
+    JapaneseName: "피타야"
+  - Id: 20664
+    Name: "피타야"
+    JapaneseName: "피타야"
+  - Id: 20665
+    Name: "베르포르타"
+    JapaneseName: "베르포르타"
+  - Id: 20666
+    Name: "베르포르테"
+    JapaneseName: "베르포르테"
+  - Id: 20667
+    Name: "실바 파필리아"
+    JapaneseName: "실바 파필리아"
+  - Id: 20668
+    Name: "그란 파필리아"
+    JapaneseName: "그란 파필리아"
+  - Id: 20669
+    Name: "파필라"
+    JapaneseName: "파필라"
+  - Id: 20670
+    Name: "고참 파필라"
+    JapaneseName: "고참 파필라"
+  - Id: 20671
+    Name: "파필라 루바"
+    JapaneseName: "파필라 루바"
+  - Id: 20672
+    Name: "고참 파필라 루바"
+    JapaneseName: "고참 파필라 루바"
+  - Id: 20673
+    Name: "파필라 루바"
+    JapaneseName: "파필라 루바"
+  - Id: 20674
+    Name: "파필라 카에"
+    JapaneseName: "파필라 카에"
+  - Id: 20675
+    Name: "고참 파필라 카에"
+    JapaneseName: "고참 파필라 카에"
+  - Id: 20676
+    Name: "파필라 카에"
+    JapaneseName: "파필라 카에"
+  - Id: 20677
+    Name: "아리에스"
+    JapaneseName: "아리에스"
+  - Id: 20678
+    Name: "고참 아리에스"
+    JapaneseName: "고참 아리에스"
   - Id: 20679
     Name: "가디언 부품"
+    JapaneseName: "가디언 부품"
   - Id: 20680
     Name: "하트헌터 척후병"
+    JapaneseName: "하트헌터 척후병"
+  - Id: 20681
+    Name: "하트헌터 척후병"
+    JapaneseName: "하트헌터 척후병"
   - Id: 20682
     Name: "하트헌터 척후병"
+    JapaneseName: "하트헌터 척후병"
   - Id: 20683
     Name: "책벌레"
+    JapaneseName: "책벌레"
   - Id: 20684
     Name: "배회하는 마법서"
+    JapaneseName: "배회하는 마법서"
   - Id: 20685
     Name: "하수 베네눔"
+    JapaneseName: "하수 베네눔"
   - Id: 20686
     Name: "하수 크램프"
+    JapaneseName: "하수 크램프"
   - Id: 20687
     Name: "하수 워터폴"
+    JapaneseName: "하수 워터폴"
   - Id: 20688
     Name: "엘리트 벨라레"
+    JapaneseName: "엘리트 벨라레"
   - Id: 20689
     Name: "마력중독 돌로르"
+    JapaneseName: "마력중독 돌로르"
   - Id: 20690
     Name: "풀려난 마력"
+    JapaneseName: "풀려난 마력"
   - Id: 20691
     Name: "마력중독 플라가"
+    JapaneseName: "마력중독 플라가"
   - Id: 20692
     Name: "마력중독 사나레"
+    JapaneseName: "마력중독 사나레"
   - Id: 20693
     Name: "강력한 마력"
+    JapaneseName: "강력한 마력"
   - Id: 20694
     Name: "날카로운 마력"
+    JapaneseName: "날카로운 마력"
+  - Id: 20696
+    Name: "차일드 어드민 베타"
+    JapaneseName: "차일드 어드민 베타"
+  - Id: 20697
+    Name: "차일드 어드민 알파"
+    JapaneseName: "차일드 어드민 알파"
+  - Id: 20698
+    Name: "어시스턴트"
+    JapaneseName: "어시스턴트"
+  - Id: 20699
+    Name: "하트 헌터 커맨더"
+    JapaneseName: "하트 헌터 커맨더"
+  - Id: 20700
+    Name: "고장난 정원사 베타"
+    JapaneseName: "고장난 정원사 베타"
   - Id: 20801
     Name: "심해의 스로포"
+    JapaneseName: "심해의 스로포"
   - Id: 20802
     Name: "심해의 오본느"
+    JapaneseName: "심해의 오본느"
   - Id: 20803
     Name: "심해의 데비어스"
+    JapaneseName: "심해의 데비어스"
   - Id: 20804
     Name: "심해의 마르스"
+    JapaneseName: "심해의 마르스"
   - Id: 20805
     Name: "심해의 머맨"
+    JapaneseName: "심해의 머맨"
   - Id: 20806
     Name: "심해의 세도라"
+    JapaneseName: "심해의 세도라"
   - Id: 20807
     Name: "심해의 소드 피쉬"
+    JapaneseName: "심해의 소드 피쉬"
   - Id: 20808
     Name: "심해의 스트라우프"
+    JapaneseName: "심해의 스트라우프"
   - Id: 20809
     Name: "심해의 휀"
+    JapaneseName: "심해의 휀"
   - Id: 20810
     Name: "심해의 킹 드라모"
+    JapaneseName: "심해의 킹 드라모"
+  - Id: 20811
+    Name: "심해의 크라켄"
+    JapaneseName: "심해의 크라켄"
+  - Id: 20834
+    Name: "ABR 배틀 워리어"
+    JapaneseName: "ABR 배틀 워리어"
+  - Id: 20835
+    Name: "ABR 듀얼 캐논"
+    JapaneseName: "ABR 듀얼 캐논"
+  - Id: 20836
+    Name: "ABR 마더넷"
+    JapaneseName: "ABR 마더넷"
+  - Id: 20837
+    Name: "ABR 인피니티"
+    JapaneseName: "ABR 인피니티"
+  - Id: 20843
+    Name: "심해의 마녀"
+    JapaneseName: "심해의 마녀"
+  - Id: 20846
+    Name: "타락의 역병"
+    JapaneseName: "타락의 역병"
+  - Id: 20847
+    Name: "타락의 역병"
+    JapaneseName: "타락의 역병"
+  - Id: 20848
+    Name: "나무 전사"
+    JapaneseName: "나무 전사"
+  - Id: 20849
+    Name: "나무 요정"
+    JapaneseName: "나무 요정"
+  - Id: 20850
+    Name: "크리퍼"
+    JapaneseName: "크리퍼"
+  - Id: 20851
+    Name: "헬 트리"
+    JapaneseName: "헬 트리"
   - Id: 20920
     Name: "변이 키메라 라바이터"
+    JapaneseName: "변이 키메라 라바이터"
   - Id: 20921
     Name: "변이 키메라 풀고르"
+    JapaneseName: "변이 키메라 풀고르"
   - Id: 20922
     Name: "변이 키메라 나페오"
+    JapaneseName: "변이 키메라 나페오"
   - Id: 20923
     Name: "변이 키메라 갈렌시스"
+    JapaneseName: "변이 키메라 갈렌시스"
   - Id: 20924
     Name: "변이 키메라 아미테라"
+    JapaneseName: "변이 키메라 아미테라"
   - Id: 20925
     Name: "변이 키메라 리투스"
+    JapaneseName: "변이 키메라 리투스"
   - Id: 20926
     Name: "변이 키메라 필리아"
+    JapaneseName: "변이 키메라 필리아"
   - Id: 20927
     Name: "변이 키메라 바닐아쿠스"
+    JapaneseName: "변이 키메라 바닐아쿠스"
   - Id: 20928
     Name: "변이 키메라 디 원"
+    JapaneseName: "변이 키메라 디 원"
   - Id: 20929
     Name: "자이언트 카푸트"
+    JapaneseName: "자이언트 카푸트"
   - Id: 20930
     Name: "돌로리안"
+    JapaneseName: "돌로리안"
   - Id: 20931
     Name: "플라가리온"
+    JapaneseName: "플라가리온"
   - Id: 20932
     Name: "데드레"
+    JapaneseName: "데드레"
   - Id: 20933
     Name: "베네디"
+    JapaneseName: "베네디"
   - Id: 20934
     Name: "R001-베스티아"
+    JapaneseName: "R001-베스티아"
   - Id: 20935
     Name: "간칸"
+    JapaneseName: "간칸"
   - Id: 20936
     Name: "디스가이저"
+    JapaneseName: "디스가이저"
   - Id: 20937
     Name: "브루탈 머더러"
+    JapaneseName: "브루탈 머더러"
   - Id: 20938
     Name: "고스트 큐브"
+    JapaneseName: "고스트 큐브"
   - Id: 20939
     Name: "루드갈"
+    JapaneseName: "루드갈"
   - Id: 20940
     Name: "블루 문 로리루리"
+    JapaneseName: "블루 문 로리루리"
   - Id: 20941
     Name: "그로트"
+    JapaneseName: "그로트"
   - Id: 20942
     Name: "삐에로조이스트"
+    JapaneseName: "삐에로조이스트"
   - Id: 20943
     Name: "죽음의 대마녀"
+    JapaneseName: "죽음의 대마녀"
   - Id: 21064
     Name: "훈련용 돌기둥(소형)"
+    JapaneseName: "훈련용 돌기둥(소형)"
   - Id: 21065
     Name: "훈련용 돌기둥(중형)"
+    JapaneseName: "훈련용 돌기둥(중형)"
   - Id: 21066
     Name: "훈련용 돌기둥(대형)"
+    JapaneseName: "훈련용 돌기둥(대형)"
   - Id: 21067
     Name: "훈련용 돌기둥(무형)"
+    JapaneseName: "훈련용 돌기둥(무형)"
   - Id: 21068
     Name: "훈련용 돌기둥(용족)"
+    JapaneseName: "훈련용 돌기둥(용족)"
   - Id: 21069
     Name: "훈련용 돌기둥(동물형)"
+    JapaneseName: "훈련용 돌기둥(동물형)"
   - Id: 21070
     Name: "훈련용 돌기둥(인간형)"
+    JapaneseName: "훈련용 돌기둥(인간형)"
   - Id: 21071
     Name: "훈련용 돌기둥(곤충형)"
+    JapaneseName: "훈련용 돌기둥(곤충형)"
   - Id: 21072
     Name: "훈련용 돌기둥(어패형)"
+    JapaneseName: "훈련용 돌기둥(어패형)"
   - Id: 21073
     Name: "훈련용 돌기둥(악마형)"
+    JapaneseName: "훈련용 돌기둥(악마형)"
   - Id: 21074
     Name: "훈련용 돌기둥(식물형)"
+    JapaneseName: "훈련용 돌기둥(식물형)"
   - Id: 21075
     Name: "훈련용 돌기둥(천사형)"
+    JapaneseName: "훈련용 돌기둥(천사형)"
   - Id: 21076
     Name: "훈련용 돌기둥(불사형)"
+    JapaneseName: "훈련용 돌기둥(불사형)"
   - Id: 21077
     Name: "훈련용 돌기둥(무속성)"
+    JapaneseName: "훈련용 돌기둥(무속성)"
   - Id: 21078
     Name: "훈련용 돌기둥(수속성)"
+    JapaneseName: "훈련용 돌기둥(수속성)"
   - Id: 21079
     Name: "훈련용 돌기둥(지속성)"
+    JapaneseName: "훈련용 돌기둥(지속성)"
   - Id: 21080
     Name: "훈련용 돌기둥(화속성)"
+    JapaneseName: "훈련용 돌기둥(화속성)"
   - Id: 21081
     Name: "훈련용 돌기둥(풍속성)"
+    JapaneseName: "훈련용 돌기둥(풍속성)"
   - Id: 21082
     Name: "훈련용 돌기둥(독속성)"
+    JapaneseName: "훈련용 돌기둥(독속성)"
   - Id: 21083
     Name: "훈련용 돌기둥(성속성)"
+    JapaneseName: "훈련용 돌기둥(성속성)"
   - Id: 21084
     Name: "훈련용 돌기둥(암속성)"
+    JapaneseName: "훈련용 돌기둥(암속성)"
   - Id: 21085
     Name: "훈련용 돌기둥(염속성)"
+    JapaneseName: "훈련용 돌기둥(염속성)"
   - Id: 21086
     Name: "훈련용 돌기둥(불사속성)"
+    JapaneseName: "훈련용 돌기둥(불사속성)"
+  - Id: 21087
+    Name: "더미(인간 플레이어)"
+    JapaneseName: "더미(인간 플레이어)"
+  - Id: 21088
+    Name: "더미(도람 플레이어)"
+    JapaneseName: "더미(도람 플레이어)"
+  - Id: 21292
+    Name: "무장한 마을 주민"
+    JapaneseName: "무장한 마을 주민"
+  - Id: 21293
+    Name: "무장한 마을 주민"
+    JapaneseName: "무장한 마을 주민"
+  - Id: 21294
+    Name: "무장한 마을 주민"
+    JapaneseName: "무장한 마을 주민"
   - Id: 21295
     Name: "재두꺼비"
+    JapaneseName: "재두꺼비"
   - Id: 21296
     Name: "갈퀴손"
+    JapaneseName: "갈퀴손"
   - Id: 21297
     Name: "불티"
+    JapaneseName: "불티"
   - Id: 21298
     Name: "뜨거운 어금니"
+    JapaneseName: "뜨거운 어금니"
   - Id: 21299
     Name: "볼케링"
+    JapaneseName: "볼케링"
   - Id: 21300
     Name: "용암 두꺼비"
+    JapaneseName: "용암 두꺼비"
   - Id: 21301
     Name: "불태우는 송곳니"
+    JapaneseName: "불태우는 송곳니"
   - Id: 21302
     Name: "애쉬호퍼"
+    JapaneseName: "애쉬호퍼"
   - Id: 21303
     Name: "애쉬링"
+    JapaneseName: "애쉬링"
   - Id: 21304
     Name: "회색늑대"
+    JapaneseName: "회색늑대"
   - Id: 21305
     Name: "덤불링"
+    JapaneseName: "덤불링"
   - Id: 21306
     Name: "불바람 솔개"
+    JapaneseName: "불바람 솔개"
   - Id: 21307
     Name: "유령늑대"
+    JapaneseName: "유령늑대"
+  - Id: 21308
+    Name: "하트 헌터"
+    JapaneseName: "하트 헌터"
+  - Id: 21309
+    Name: "베이스 솔져"
+    JapaneseName: "베이스 솔져"
+  - Id: 21310
+    Name: "신전 경비병"
+    JapaneseName: "신전 경비병"
+  - Id: 21311
+    Name: "전통 신전 경비병"
+    JapaneseName: "전통 신전 경비병"
+  - Id: 21312
+    Name: "하트 헌터"
+    JapaneseName: "하트 헌터"
+  - Id: 21313
+    Name: "하트 헌터"
+    JapaneseName: "하트 헌터"
+  - Id: 21314
+    Name: "슐랑"
+    JapaneseName: "슐랑"
+  - Id: 21315
+    Name: "뒤틀린 여신 프레이야"
+    JapaneseName: "뒤틀린 여신 프레이야"
+  - Id: 21316
+    Name: "슐랑"
+    JapaneseName: "슐랑"
+  - Id: 21317
+    Name: "뒤틀린 여신 프레이야"
+    JapaneseName: "뒤틀린 여신 프레이야"
+  - Id: 21318
+    Name: "여신의 수호자"
+    JapaneseName: "여신의 수호자"
+  - Id: 21319
+    Name: "오두막 관리인"
+    JapaneseName: "오두막 관리인"
+  - Id: 21320
+    Name: "마람"
+    JapaneseName: "마람"
+  - Id: 21321
+    Name: "미리암"
+    JapaneseName: "미리암"
+  - Id: 21322
+    Name: "수아드"
+    JapaneseName: "수아드"
   - Id: 21323
     Name: "잿빛 고우트"
+    JapaneseName: "잿빛 고우트"
   - Id: 21324
     Name: "새끼 회색 늑대"
+    JapaneseName: "새끼 회색 늑대"
+  - Id: 21360
+    Name: "슐랑"
+    JapaneseName: "슐랑"
+  - Id: 21361
+    Name: "뒤틀린 여신 프레이야"
+    JapaneseName: "뒤틀린 여신 프레이야"
+  - Id: 21377
+    Name: "여신의 수호자"
+    JapaneseName: "여신의 수호자"
+  - Id: 21378
+    Name: "오두막 관리인"
+    JapaneseName: "오두막 관리인"
   - Id: 21386
     Name: "부지런한 앙드레"
+    JapaneseName: "부지런한 앙드레"
   - Id: 21387
     Name: "부지런한 병정 앙드레"
+    JapaneseName: "부지런한 병정 앙드레"
   - Id: 21388
     Name: "부지런한 앙드레 유충"
+    JapaneseName: "부지런한 앙드레 유충"
   - Id: 21389
     Name: "부지런한 데니로"
+    JapaneseName: "부지런한 데니로"
   - Id: 21390
     Name: "부지런한 피에르"
+    JapaneseName: "부지런한 피에르"
   - Id: 21391
     Name: "물컹한 개미알"
+    JapaneseName: "물컹한 개미알"
   - Id: 21392
     Name: "배짱 좋은 가이아스"
+    JapaneseName: "배짱 좋은 가이아스"
   - Id: 21393
     Name: "배짱 좋은 퍼밀리어"
+    JapaneseName: "배짱 좋은 퍼밀리어"
   - Id: 21394
     Name: "부지런한 비타타"
+    JapaneseName: "부지런한 비타타"
   - Id: 21395
     Name: "말이 없는 마야"
+    JapaneseName: "말이 없는 마야"
+  - Id: 21866
+    Name: "봄의 보석"
+    JapaneseName: "봄의 보석"
+  - Id: 21867
+    Name: "여름의 보석"
+    JapaneseName: "여름의 보석"
+  - Id: 21868
+    Name: "가을의 보석"
+    JapaneseName: "가을의 보석"
+  - Id: 21869
+    Name: "겨울의 보석"
+    JapaneseName: "겨울의 보석"
+  - Id: 21887
+    Name: "쥬얼"
+    JapaneseName: "쥬얼"
+  - Id: 22177
+    Name: "MD_PRI_DRAGON_1"
+    JapaneseName: "MD_PRI_DRAGON_1"
+  - Id: 22178
+    Name: "MD_PRI_DRAGON_2"
+    JapaneseName: "MD_PRI_DRAGON_2"
+  - Id: 22179
+    Name: "MD_PRI_DRAGON_3"
+    JapaneseName: "MD_PRI_DRAGON_3"
+  - Id: 22180
+    Name: "MD_PRI_DRAGON_4"
+    JapaneseName: "MD_PRI_DRAGON_4"
   - Id: 22192
     Name: "푸른 대지의 작은 정령"
+    JapaneseName: "푸른 대지의 작은 정령"
   - Id: 22193
     Name: "푸른 대지의 정령"
+    JapaneseName: "푸른 대지의 정령"
   - Id: 22194
     Name: "푸른 대지의 거대 정령"
+    JapaneseName: "푸른 대지의 거대 정령"
   - Id: 22195
     Name: "푸른 대지의 변이 정령"
+    JapaneseName: "푸른 대지의 변이 정령"
   - Id: 22196
     Name: "푸른 화염의 작은 정령"
+    JapaneseName: "푸른 화염의 작은 정령"
   - Id: 22197
     Name: "푸른 화염의 정령"
+    JapaneseName: "푸른 화염의 정령"
   - Id: 22198
     Name: "푸른 화염의 거대 정령"
+    JapaneseName: "푸른 화염의 거대 정령"
   - Id: 22199
     Name: "푸른 화염의 변이 정령"
+    JapaneseName: "푸른 화염의 변이 정령"
   - Id: 22200
     Name: "거센 바람의 작은 정령"
+    JapaneseName: "거센 바람의 작은 정령"
   - Id: 22201
     Name: "거센 바람의 정령"
+    JapaneseName: "거센 바람의 정령"
   - Id: 22202
     Name: "거센 바람의 거대 정령"
+    JapaneseName: "거센 바람의 거대 정령"
   - Id: 22203
     Name: "거센 바람의 변이 정령"
+    JapaneseName: "거센 바람의 변이 정령"
   - Id: 22204
     Name: "차가운 물의 작은 정령"
+    JapaneseName: "차가운 물의 작은 정령"
   - Id: 22205
     Name: "차가운 물의 정령"
+    JapaneseName: "차가운 물의 정령"
   - Id: 22206
     Name: "차가운 물의 거대 정령"
+    JapaneseName: "차가운 물의 거대 정령"
   - Id: 22207
     Name: "차가운 물의 변이 정령"
+    JapaneseName: "차가운 물의 변이 정령"
   - Id: 22208
     Name: "오염된 대지의 작은 정령"
+    JapaneseName: "오염된 대지의 작은 정령"
   - Id: 22209
     Name: "오염된 대지의 정령"
+    JapaneseName: "오염된 대지의 정령"
   - Id: 22210
     Name: "오염된 대지의 거대 정령"
+    JapaneseName: "오염된 대지의 거대 정령"
   - Id: 22211
     Name: "오염된 대지의 변이 정령"
+    JapaneseName: "오염된 대지의 변이 정령"
   - Id: 22212
     Name: "오염된 화염의 작은 정령"
+    JapaneseName: "오염된 화염의 작은 정령"
   - Id: 22213
     Name: "오염된 화염의 정령"
+    JapaneseName: "오염된 화염의 정령"
   - Id: 22214
     Name: "오염된 화염의 거대 정령"
+    JapaneseName: "오염된 화염의 거대 정령"
   - Id: 22215
     Name: "오염된 화염의 변이 정령"
+    JapaneseName: "오염된 화염의 변이 정령"
   - Id: 22216
     Name: "뜨거운 물의 작은 정령"
+    JapaneseName: "뜨거운 물의 작은 정령"
   - Id: 22217
     Name: "뜨거운 물의 정령"
+    JapaneseName: "뜨거운 물의 정령"
   - Id: 22218
     Name: "뜨거운 물의 거대 정령"
+    JapaneseName: "뜨거운 물의 거대 정령"
   - Id: 22219
     Name: "뜨거운 물의 변이 정령"
+    JapaneseName: "뜨거운 물의 변이 정령"
   - Id: 22220
     Name: "메마른 바람의 작은 정령"
+    JapaneseName: "메마른 바람의 작은 정령"
   - Id: 22221
     Name: "메마른 바람의 정령"
+    JapaneseName: "메마른 바람의 정령"
   - Id: 22222
     Name: "메마른 바람의 거대 정령"
+    JapaneseName: "메마른 바람의 거대 정령"
   - Id: 22223
     Name: "메마른 바람의 변이 정령"
+    JapaneseName: "메마른 바람의 변이 정령"
   - Id: 22224
     Name: "붉은 화염의 작은 정령"
+    JapaneseName: "붉은 화염의 작은 정령"
   - Id: 22225
     Name: "붉은 화염의 정령"
+    JapaneseName: "붉은 화염의 정령"
   - Id: 22226
     Name: "붉은 화염의 거대 정령"
+    JapaneseName: "붉은 화염의 거대 정령"
   - Id: 22227
     Name: "붉은 화염의 변이 정령"
+    JapaneseName: "붉은 화염의 변이 정령"
   - Id: 22228
     Name: "굳건한 대지의 작은 정령"
+    JapaneseName: "굳건한 대지의 작은 정령"
   - Id: 22229
     Name: "굳건한 대지의 정령"
+    JapaneseName: "굳건한 대지의 정령"
   - Id: 22230
     Name: "굳건한 대지의 거대 정령"
+    JapaneseName: "굳건한 대지의 거대 정령"
   - Id: 22231
     Name: "굳건한 대지의 변이 정령"
+    JapaneseName: "굳건한 대지의 변이 정령"
   - Id: 22232
     Name: "오염된 물의 작은 정령"
+    JapaneseName: "오염된 물의 작은 정령"
   - Id: 22233
     Name: "오염된 물의 정령"
+    JapaneseName: "오염된 물의 정령"
   - Id: 22234
     Name: "오염된 물의 거대 정령"
+    JapaneseName: "오염된 물의 거대 정령"
   - Id: 22235
     Name: "오염된 물의 변이 정령"
+    JapaneseName: "오염된 물의 변이 정령"
   - Id: 22236
     Name: "오염된 바람의 작은 정령"
+    JapaneseName: "오염된 바람의 작은 정령"
   - Id: 22237
     Name: "오염된 바람의 정령"
+    JapaneseName: "오염된 바람의 정령"
   - Id: 22238
     Name: "오염된 바람의 거대 정령"
+    JapaneseName: "오염된 바람의 거대 정령"
   - Id: 22239
     Name: "오염된 바람의 변이 정령"
+    JapaneseName: "오염된 바람의 변이 정령"
+  - Id: 22551
+    Name: "더미(소형)"
+    JapaneseName: "더미(소형)"
+  - Id: 22552
+    Name: "더미(중형)"
+    JapaneseName: "더미(중형)"
+  - Id: 22553
+    Name: "더미(대형)"
+    JapaneseName: "더미(대형)"
+  - Id: 22554
+    Name: "더미(초대형)"
+    JapaneseName: "더미(초대형)"
+  - Id: 22555
+    Name: "더미(소형)"
+    JapaneseName: "더미(소형)"
+  - Id: 22556
+    Name: "더미(중형)"
+    JapaneseName: "더미(중형)"
+  - Id: 22557
+    Name: "더미(대형)"
+    JapaneseName: "더미(대형)"
+  - Id: 22558
+    Name: "더미(초대형)"
+    JapaneseName: "더미(초대형)"
+  - Id: 22559
+    Name: "더미(소형)"
+    JapaneseName: "더미(소형)"
+  - Id: 22560
+    Name: "더미(중형)"
+    JapaneseName: "더미(중형)"
+  - Id: 22561
+    Name: "더미(소형)"
+    JapaneseName: "더미(소형)"
+  - Id: 22562
+    Name: "더미(중형)"
+    JapaneseName: "더미(중형)"
+  - Id: 22563
+    Name: "더미(대형)"
+    JapaneseName: "더미(대형)"
+  - Id: 22564
+    Name: "더미(소형)"
+    JapaneseName: "더미(소형)"
+  - Id: 22565
+    Name: "더미(중형)"
+    JapaneseName: "더미(중형)"
+  - Id: 22566
+    Name: "더미(대형)"
+    JapaneseName: "더미(대형)"
+  - Id: 22567
+    Name: "더미(초대형)"
+    JapaneseName: "더미(초대형)"
+  - Id: 22568
+    Name: "더미(소형)"
+    JapaneseName: "더미(소형)"
+  - Id: 22569
+    Name: "더미(중형)"
+    JapaneseName: "더미(중형)"
+  - Id: 22570
+    Name: "더미(대형)"
+    JapaneseName: "더미(대형)"
+  - Id: 22571
+    Name: "더미(초대형)"
+    JapaneseName: "더미(초대형)"
+  - Id: 22572
+    Name: "더미(소형)"
+    JapaneseName: "더미(소형)"
+  - Id: 22573
+    Name: "더미(중형)"
+    JapaneseName: "더미(중형)"
+  - Id: 22574
+    Name: "더미(대형)"
+    JapaneseName: "더미(대형)"
+  - Id: 22575
+    Name: "더미(소형)"
+    JapaneseName: "더미(소형)"
+  - Id: 22576
+    Name: "더미(중형)"
+    JapaneseName: "더미(중형)"
+  - Id: 22577
+    Name: "더미(대형)"
+    JapaneseName: "더미(대형)"
+  - Id: 22578
+    Name: "더미(소형)"
+    JapaneseName: "더미(소형)"
+  - Id: 22579
+    Name: "더미(중형)"
+    JapaneseName: "더미(중형)"
+  - Id: 22580
+    Name: "더미(대형)"
+    JapaneseName: "더미(대형)"
+  - Id: 22581
+    Name: "더미(초대형)"
+    JapaneseName: "더미(초대형)"
+  - Id: 22582
+    Name: "더미(소형)"
+    JapaneseName: "더미(소형)"
+  - Id: 22583
+    Name: "더미(중형)"
+    JapaneseName: "더미(중형)"
+  - Id: 22584
+    Name: "더미(대형)"
+    JapaneseName: "더미(대형)"
+  - Id: 22585
+    Name: "더미(초대형)"
+    JapaneseName: "더미(초대형)"
+  - Id: 22586
+    Name: "더미(소형)"
+    JapaneseName: "더미(소형)"
+  - Id: 22587
+    Name: "더미(중형)"
+    JapaneseName: "더미(중형)"
+  - Id: 22588
+    Name: "더미(대형)"
+    JapaneseName: "더미(대형)"
+  - Id: 22589
+    Name: "더미(소형)"
+    JapaneseName: "더미(소형)"
+  - Id: 22590
+    Name: "더미(중형)"
+    JapaneseName: "더미(중형)"
+  - Id: 22591
+    Name: "더미(대형)"
+    JapaneseName: "더미(대형)"
+  - Id: 22592
+    Name: "더미(초대형)"
+    JapaneseName: "더미(초대형)"
+  - Id: 22593
+    Name: "더미(소형)"
+    JapaneseName: "더미(소형)"
+  - Id: 22594
+    Name: "더미(중형)"
+    JapaneseName: "더미(중형)"
+  - Id: 22595
+    Name: "더미(대형)"
+    JapaneseName: "더미(대형)"
+  - Id: 22596
+    Name: "더미(초대형)"
+    JapaneseName: "더미(초대형)"
+  - Id: 22597
+    Name: "더미(소형)"
+    JapaneseName: "더미(소형)"
+  - Id: 22598
+    Name: "더미(중형)"
+    JapaneseName: "더미(중형)"
+  - Id: 22599
+    Name: "더미(대형)"
+    JapaneseName: "더미(대형)"
+  - Id: 22600
+    Name: "더미(소형)"
+    JapaneseName: "더미(소형)"
+  - Id: 22601
+    Name: "더미(중형)"
+    JapaneseName: "더미(중형)"
+  - Id: 22602
+    Name: "더미(대형)"
+    JapaneseName: "더미(대형)"
+  - Id: 22603
+    Name: "더미(소형)"
+    JapaneseName: "더미(소형)"
+  - Id: 22604
+    Name: "더미(중형)"
+    JapaneseName: "더미(중형)"
+  - Id: 22605
+    Name: "더미(대형)"
+    JapaneseName: "더미(대형)"
+  - Id: 22606
+    Name: "더미(초대형)"
+    JapaneseName: "더미(초대형)"
+  - Id: 22607
+    Name: "더미(소형)"
+    JapaneseName: "더미(소형)"
+  - Id: 22608
+    Name: "더미(중형)"
+    JapaneseName: "더미(중형)"
+  - Id: 22609
+    Name: "더미(대형)"
+    JapaneseName: "더미(대형)"
+  - Id: 22610
+    Name: "더미(초대형)"
+    JapaneseName: "더미(초대형)"
+  - Id: 22611
+    Name: "더미(소형)"
+    JapaneseName: "더미(소형)"
+  - Id: 22612
+    Name: "더미(중형)"
+    JapaneseName: "더미(중형)"
+  - Id: 22613
+    Name: "더미(대형)"
+    JapaneseName: "더미(대형)"
+  - Id: 22614
+    Name: "더미(소형)"
+    JapaneseName: "더미(소형)"
+  - Id: 22615
+    Name: "더미(중형)"
+    JapaneseName: "더미(중형)"
+  - Id: 22616
+    Name: "더미(대형)"
+    JapaneseName: "더미(대형)"
+  - Id: 22617
+    Name: "더미(소형)"
+    JapaneseName: "더미(소형)"
+  - Id: 22618
+    Name: "더미(중형)"
+    JapaneseName: "더미(중형)"
+  - Id: 22619
+    Name: "더미(대형)"
+    JapaneseName: "더미(대형)"
+  - Id: 22620
+    Name: "더미(초대형)"
+    JapaneseName: "더미(초대형)"
+  - Id: 22621
+    Name: "더미(소형)"
+    JapaneseName: "더미(소형)"
+  - Id: 22622
+    Name: "더미(중형)"
+    JapaneseName: "더미(중형)"
+  - Id: 22623
+    Name: "더미(대형)"
+    JapaneseName: "더미(대형)"
+  - Id: 22624
+    Name: "더미(초대형)"
+    JapaneseName: "더미(초대형)"
+  - Id: 22625
+    Name: "더미(소형)"
+    JapaneseName: "더미(소형)"
+  - Id: 22626
+    Name: "더미(중형)"
+    JapaneseName: "더미(중형)"
+  - Id: 22627
+    Name: "더미(대형)"
+    JapaneseName: "더미(대형)"
+  - Id: 22628
+    Name: "더미(무형)"
+    JapaneseName: "더미(무형)"
+  - Id: 22629
+    Name: "더미(용족)"
+    JapaneseName: "더미(용족)"
+  - Id: 22630
+    Name: "더미(동물족)"
+    JapaneseName: "더미(동물족)"
+  - Id: 22631
+    Name: "더미(인간족)"
+    JapaneseName: "더미(인간족)"
+  - Id: 22632
+    Name: "더미(곤충족)"
+    JapaneseName: "더미(곤충족)"
+  - Id: 22633
+    Name: "더미(어패류)"
+    JapaneseName: "더미(어패류)"
+  - Id: 22634
+    Name: "더미(악마족)"
+    JapaneseName: "더미(악마족)"
+  - Id: 22635
+    Name: "더미(식물족)"
+    JapaneseName: "더미(식물족)"
+  - Id: 22636
+    Name: "더미(천사족)"
+    JapaneseName: "더미(천사족)"
+  - Id: 22637
+    Name: "더미(불사족)"
+    JapaneseName: "더미(불사족)"
+  - Id: 22638
+    Name: "더미(무형)"
+    JapaneseName: "더미(무형)"
+  - Id: 22639
+    Name: "더미(용족)"
+    JapaneseName: "더미(용족)"
+  - Id: 22640
+    Name: "더미(동물족)"
+    JapaneseName: "더미(동물족)"
+  - Id: 22641
+    Name: "더미(인간족)"
+    JapaneseName: "더미(인간족)"
+  - Id: 22642
+    Name: "더미(곤충족)"
+    JapaneseName: "더미(곤충족)"
+  - Id: 22643
+    Name: "더미(어패류)"
+    JapaneseName: "더미(어패류)"
+  - Id: 22644
+    Name: "더미(악마족)"
+    JapaneseName: "더미(악마족)"
+  - Id: 22645
+    Name: "더미(식물족)"
+    JapaneseName: "더미(식물족)"
+  - Id: 22646
+    Name: "더미(천사족)"
+    JapaneseName: "더미(천사족)"
+  - Id: 22647
+    Name: "더미(불사족)"
+    JapaneseName: "더미(불사족)"
+  - Id: 22648
+    Name: "더미(무속성)"
+    JapaneseName: "더미(무속성)"
+  - Id: 22649
+    Name: "더미(수속성)"
+    JapaneseName: "더미(수속성)"
+  - Id: 22650
+    Name: "더미(지속성)"
+    JapaneseName: "더미(지속성)"
+  - Id: 22651
+    Name: "더미(화속성)"
+    JapaneseName: "더미(화속성)"
+  - Id: 22652
+    Name: "더미(풍속성)"
+    JapaneseName: "더미(풍속성)"
+  - Id: 22653
+    Name: "더미(독속성)"
+    JapaneseName: "더미(독속성)"
+  - Id: 22654
+    Name: "더미(성속성)"
+    JapaneseName: "더미(성속성)"
+  - Id: 22655
+    Name: "더미(암속성)"
+    JapaneseName: "더미(암속성)"
+  - Id: 22656
+    Name: "더미(고스트)"
+    JapaneseName: "더미(고스트)"
+  - Id: 22657
+    Name: "더미(불사속성)"
+    JapaneseName: "더미(불사속성)"
+  - Id: 22658
+    Name: "더미(무속성)"
+    JapaneseName: "더미(무속성)"
+  - Id: 22659
+    Name: "더미(수속성)"
+    JapaneseName: "더미(수속성)"
+  - Id: 22660
+    Name: "더미(지속성)"
+    JapaneseName: "더미(지속성)"
+  - Id: 22661
+    Name: "더미(화속성)"
+    JapaneseName: "더미(화속성)"
+  - Id: 22662
+    Name: "더미(풍속성)"
+    JapaneseName: "더미(풍속성)"
+  - Id: 22663
+    Name: "더미(독속성)"
+    JapaneseName: "더미(독속성)"
+  - Id: 22664
+    Name: "더미(성속성)"
+    JapaneseName: "더미(성속성)"
+  - Id: 22665
+    Name: "더미(암속성)"
+    JapaneseName: "더미(암속성)"
+  - Id: 22666
+    Name: "더미(고스트)"
+    JapaneseName: "더미(고스트)"
+  - Id: 22667
+    Name: "더미(불사속성)"
+    JapaneseName: "더미(불사속성)"
+  - Id: 22668
+    Name: "더미(대형)"
+    JapaneseName: "더미(대형)"
