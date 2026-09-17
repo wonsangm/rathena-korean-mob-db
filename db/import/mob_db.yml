@@ -847,7 +847,7 @@ Body:
     Name: "에인션트 웜"
     JapaneseName: "에인션트 웜"
   - Id: 1306
-    Name: "라이브 올마이"
+    Name: "레이브 올마이"
     JapaneseName: "라이브 올마이"
   - Id: 1307
     Name: "캣 오 나인 테일"
@@ -1924,16 +1924,16 @@ Body:
     Name: "디미크"
     JapaneseName: "디미크"
   - Id: 1670
-    Name: "디미크"
+    Name: "디미크(녹색)"
     JapaneseName: "디미크"
   - Id: 1671
-    Name: "디미크"
+    Name: "디미크(파랑)"
     JapaneseName: "디미크"
   - Id: 1672
-    Name: "디미크"
+    Name: "디미크(주황)"
     JapaneseName: "디미크"
   - Id: 1673
-    Name: "디미크"
+    Name: "디미크(빨강)"
     JapaneseName: "디미크"
   - Id: 1674
     Name: "모네무스"
@@ -1942,16 +1942,16 @@ Body:
     Name: "베나투"
     JapaneseName: "베나투"
   - Id: 1676
-    Name: "베나투"
+    Name: "베나투(주황)"
     JapaneseName: "베나투"
   - Id: 1677
-    Name: "베나투"
+    Name: "베나투(녹색)"
     JapaneseName: "베나투"
   - Id: 1678
-    Name: "베나투"
+    Name: "베나투(보라)"
     JapaneseName: "베나투"
   - Id: 1679
-    Name: "베나투"
+    Name: "베나투(파랑)"
     JapaneseName: "베나투"
   - Id: 1680
     Name: "힐 윈드"
